@@ -130,9 +130,6 @@ def get_paper_scenarios(marks: int) -> dict:
         sorted_mod = sorted(moderate, key=lambda x: x["air"])
         mid_idx = len(sorted_mod) // 2
         scenarios["moderate"] = {"air": sorted_mod[mid_idx]["air"], "year": sorted_mod[mid_idx]["year"], "label": "MODERATE", "icon": "🟡"}
-    if easy:
-        worst = max(easy, key=lambda x: x["air"])
-        scenarios["easy"] = {"air": worst["air"], "year": worst["year"], "label": "EASY PAPER", "icon": "🟢"}
 
     return scenarios
 
@@ -508,7 +505,7 @@ def run_chat_prediction(query: str):
         unified_result, student_result, error = run_form_prediction(
             marks=parsed["marks"],
             actual_air=parsed["actual_air"],
-            target_year=parsed["target_year"] or VALIDATION_YEAR,
+            target_year=parsed["target_year"] or 2026,
             national_category=parsed["national_category"],
             home_state=parsed["home_state"] or "Karnataka",
             karnataka_interest=parsed["karnataka_interest"],
@@ -537,7 +534,7 @@ if input_mode == "📝 Form":
         marks = st.number_input("NEET Marks", min_value=0, max_value=720,
                                 value=550, step=1)
     with col2:
-        target_year = st.selectbox("Year", [2026, 2025, 2024, 2023, 2022, 2021, 2020], index=1)
+        target_year = st.selectbox("Year", [2026, 2025, 2024, 2023, 2022, 2021, 2020], index=0)
     with col3:
         actual_air = st.number_input("AIR (0 = predict)", min_value=0, value=0, step=1)
 
