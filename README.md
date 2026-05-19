@@ -123,23 +123,3 @@ python scripts/cli_demo.py --air 5000 --category General --state Karnataka
 - No ML models — pure interpolation from historical data
 
 
-# SIEMENS LLM API
-
-API key stored in `.env` (not committed to Git).
-
-```bash
-# .env (create from .env.example)
-SIEMENS_API_KEY=your-key-here
-LLM_MODEL_PRIMARY=deepseek-v4-flash
-LLM_MODEL_NARRATIVE=gpt-oss-120b
-LLM_MODEL_FALLBACK=qwen-3.6-27b
-```
-
-## Available Models
-mistral-7b-instruct
-qwen-3.6-27b
-glm-5
-ministral-3-14b-instruct-2512
-deepseek-v4-flash
-gpt-oss-120b
-whisper-large-v3-turbo
