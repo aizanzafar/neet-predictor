@@ -1,0 +1,890 @@
+year,round,authority,counselling_scope,rank_raw,air,rank_type,allotted_quota,college_raw,course,seat_category,candidate_category,fee,status,source_id
+2023,MOPUP,KEA,STATE_KA,14759,14759,AIR,,"Bangalore Medical College,NO-2, Fort , K R ROAD,Bangalore",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,23058,23058,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,23608,23608,AIR,,"St John Medical College,Bangalore",MBBS,OPN,,777135,Allotted,27
+2023,MOPUP,KEA,STATE_KA,23705,23705,AIR,,"St John Medical College,Bangalore",MBBS,OPN,,777135,Allotted,27
+2023,MOPUP,KEA,STATE_KA,24324,24324,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,24391,24391,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,24445,24445,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,24856,24856,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,25385,25385,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,25710,25710,AIR,,"Mysore Medical College,Irwin Road,Mysore",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,25854,25854,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,26444,26444,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,26498,26498,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,OPN,,750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,26753,26753,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,OPN,,750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,26858,26858,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,26870,26870,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,27148,27148,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,27325,27325,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,27621,27621,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,27840,27840,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,27874,27874,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,28024,28024,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,28065,28065,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,28356,28356,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,28834,28834,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,29064,29064,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,29382,29382,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,29864,29864,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,29953,29953,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,30251,30251,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,30634,30634,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,31242,31242,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,31525,31525,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,NEAR BANGALORE INTERNATIONAL,BANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,31698,31698,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,31814,31814,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,31843,31843,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,31961,31961,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,NEAR BANGALORE INTERNATIONAL,BANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,32255,32255,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,32530,32530,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,32737,32737,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,32984,32984,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,34075,34075,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,34076,34076,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,34251,34251,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,34653,34653,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,35312,35312,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,35386,35386,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,NEAR BANGALORE INTERNATIONAL,BANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,35433,35433,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,35535,35535,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,35602,35602,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,35932,35932,AIR,,"Jaya Jagadguru Murugharajendra Medical College,Davangere,Davangere District",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,36212,36212,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,36521,36521,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,36657,36657,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,36830,36830,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,36953,36953,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,37011,37011,AIR,,"Jaya Jagadguru Murugharajendra Medical College,Davangere,Davangere District",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,37076,37076,AIR,,"Jaya Jagadguru Murugharajendra Medical College,Davangere,Davangere District",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,37318,37318,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,37577,37577,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,38512,38512,AIR,,"Jaya Jagadguru Murugharajendra Medical College,Davangere,Davangere District",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,39130,39130,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,39239,39239,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,39442,39442,AIR,,"Jaya Jagadguru Murugharajendra Medical College,Davangere,Davangere District",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,40847,40847,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,42080,42080,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,42195,42195,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,42528,42528,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,43086,43086,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,43789,43789,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,44087,44087,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,44270,44270,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,44549,44549,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,44697,44697,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,44885,44885,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,44902,44902,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,45274,45274,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,46213,46213,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,46460,46460,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,46908,46908,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,47128,47128,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,47431,47431,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,47987,47987,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,48048,48048,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,48503,48503,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,49078,49078,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,50993,50993,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,51152,51152,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,51680,51680,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,51820,51820,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,51851,51851,AIR,,"Yenepoya Medical College,University Road, Nithyanandar,Deralakatte,Mangalore",MBBS,GM,,204496,Allotted,27
+2023,MOPUP,KEA,STATE_KA,52398,52398,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH-4,Bypass Road,Davangere",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,52482,52482,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,52597,52597,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,52612,52612,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,52636,52636,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,53047,53047,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,53179,53179,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,53445,53445,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,53619,53619,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,54209,54209,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,54297,54297,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,54463,54463,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,54793,54793,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,54804,54804,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,55117,55117,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,56059,56059,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,56510,56510,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,56781,56781,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,57186,57186,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,57221,57221,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,57305,57305,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,57490,57490,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,58107,58107,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,58211,58211,AIR,,"Mysore Medical College,Irwin Road,Mysore",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,58703,58703,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,58781,58781,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,58872,58872,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,59385,59385,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,59395,59395,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,59480,59480,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,59619,59619,AIR,,"ESI Medical College,Rajajinagar,Bangalore",MBBS,GM,,110100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,60853,60853,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,61103,61103,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,61706,61706,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,61998,61998,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,62515,62515,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,63339,63339,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,64046,64046,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,64138,64138,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,64415,64415,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,64503,64503,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,65051,65051,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,65301,65301,AIR,,"Shri Atal Bihari Vajpayee Institute of Medical Science,Bengaluru",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,65356,65356,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,65769,65769,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,65875,65875,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,65918,65918,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,66011,66011,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,66177,66177,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,66434,66434,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,66737,66737,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,67144,67144,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,67249,67249,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,67436,67436,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,67817,67817,AIR,,"Karnataka Institute of Medical Sciences,Vidyanagar,Hubli",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,68412,68412,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,68513,68513,AIR,,"ESI Medical College,Rajajinagar,Bangalore",MBBS,GM,,110100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,68685,68685,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,68695,68695,AIR,,"Chikkamagaluru Institute of Medical Sciences,Chikkamagaluru",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,69172,69172,AIR,,"ESI Medical College,Rajajinagar,Bangalore",MBBS,GM,,110100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,69318,69318,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,69390,69390,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,69673,69673,AIR,,"Hassan Institute of Medical Sciences,Near Chamarajendra Hospital,Hassan",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,69917,69917,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,69967,69967,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,70125,70125,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,70217,70217,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,70373,70373,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,70559,70559,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,70833,70833,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,70883,70883,AIR,,"St John Medical College,Bangalore",MBBS,RC8,,777135,Allotted,27
+2023,MOPUP,KEA,STATE_KA,71105,71105,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,71129,71129,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,71471,71471,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,71492,71492,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,71516,71516,AIR,,"Belgaum Institute of Medical Sciences,Dr B R Ambedkar Road,Belgaum",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,71644,71644,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,72002,72002,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,72104,72104,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,72787,72787,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,73741,73741,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,73823,73823,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,74065,74065,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,74230,74230,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,GM,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,74572,74572,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,3BG,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,75392,75392,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,76210,76210,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,76600,76600,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,77575,77575,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,Bidar",MBBS,GM,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,77632,77632,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,77647,77647,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,77717,77717,AIR,,"Jaya Jagadguru Murugharajendra Medical College,Davangere,Davangere District",MBBS,GM,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,77843,77843,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,77947,77947,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GM,,144496,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78025,78025,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78261,78261,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,3AG,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78311,78311,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78380,78380,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,GM,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78404,78404,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,GM,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78492,78492,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,78914,78914,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,79127,79127,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,79510,79510,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,79638,79638,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,GMP,,750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,79669,79669,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,79922,79922,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,3AG,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80078,80078,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80140,80140,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OPN,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80176,80176,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,Dharwar",MBBS,GM,,641728,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80473,80473,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80527,80527,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80547,80547,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80557,80557,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,80933,80933,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,81076,81076,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,81486,81486,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,81520,81520,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,81663,81663,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,81762,81762,AIR,,"Belgaum Institute of Medical Sciences,Dr B R Ambedkar Road,Belgaum",MBBS,3BH,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,81779,81779,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82126,82126,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82348,82348,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,3AG,,144496,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82450,82450,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82498,82498,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82576,82576,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82602,82602,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82654,82654,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,82797,82797,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83149,83149,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83203,83203,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83273,83273,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83525,83525,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83553,83553,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83593,83593,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83600,83600,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,2BG,,750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83746,83746,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83831,83831,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83936,83936,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,83942,83942,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84031,84031,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84107,84107,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84163,84163,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84261,84261,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84393,84393,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84433,84433,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84747,84747,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,84838,84838,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,85347,85347,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,85450,85450,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,85491,85491,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,85494,85494,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,GMPH,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,85633,85633,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,86056,86056,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,86569,86569,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,86635,86635,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87059,87059,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87085,87085,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87395,87395,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87419,87419,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87432,87432,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87694,87694,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87808,87808,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87840,87840,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,87910,87910,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88042,88042,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88138,88138,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88287,88287,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88491,88491,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88768,88768,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88968,88968,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,88978,88978,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,89473,89473,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMR,,144496,Allotted,27
+2023,MOPUP,KEA,STATE_KA,89549,89549,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,89768,89768,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,GMPH,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,89838,89838,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90041,90041,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90156,90156,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90176,90176,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90316,90316,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90652,90652,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90705,90705,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90751,90751,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,90764,90764,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,91246,91246,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,91532,91532,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,91716,91716,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92121,92121,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92263,92263,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92274,92274,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92282,92282,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,XD,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92392,92392,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92512,92512,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92561,92561,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,92720,92720,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,93052,93052,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OPN,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,93488,93488,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,1G,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,93524,93524,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,GMPH,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,94368,94368,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,MM,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,94438,94438,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,94615,94615,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Post, Hoskote,Channasandra, Bangalore",MBBS,MA,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,94924,94924,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,95124,95124,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,96002,96002,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,96179,96179,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,96190,96190,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,96225,96225,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,1G,,750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,96810,96810,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,GMP,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,96839,96839,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,ME,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,98954,98954,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,NRI,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,100223,100223,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,101912,101912,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,GMP,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,102733,102733,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,103759,103759,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,ME,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,105489,105489,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,3BK,,141446,Allotted,27
+2023,MOPUP,KEA,STATE_KA,105735,105735,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,GMPH,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,108103,108103,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,GMPH,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,108937,108937,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,ME,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,111235,111235,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,ME,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,114370,114370,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,GMPH,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,114446,114446,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,GMKH,,750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,114689,114689,AIR,,"St John Medical College,Bangalore",MBBS,RC8,,777135,Allotted,27
+2023,MOPUP,KEA,STATE_KA,116869,116869,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,GMP,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,118560,118560,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,119834,119834,AIR,,"St John Medical College,Bangalore",MBBS,RC8,,777135,Allotted,27
+2023,MOPUP,KEA,STATE_KA,119943,119943,AIR,,"St John Medical College,Bangalore",MBBS,RC8,,777135,Allotted,27
+2023,MOPUP,KEA,STATE_KA,134231,134231,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,136688,136688,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,138382,138382,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,139248,139248,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,140129,140129,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,GMP,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,141277,141277,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,142037,142037,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,143550,143550,AIR,,"Mandya Institute of Medical Sciences,District Hospital,Mandya",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,144132,144132,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,145050,145050,AIR,,"Vijayanagar Institute of Medical Sciences,Cantonment,Bellary",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,145230,145230,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,145293,145293,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,149452,149452,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,151626,151626,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,151726,151726,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,152253,152253,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,152509,152509,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,155121,155121,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,156189,156189,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,156802,156802,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,157900,157900,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,161710,161710,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,162093,162093,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OPN,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,163336,163336,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,167393,167393,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,167885,167885,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,170641,170641,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,170655,170655,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,171325,171325,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,173992,173992,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,174305,174305,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,175779,175779,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,178885,178885,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,179783,179783,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,180753,180753,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,183999,183999,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,186999,186999,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,187771,187771,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,189337,189337,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,190153,190153,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,190868,190868,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,193274,193274,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,194096,194096,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,197590,197590,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,199925,199925,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,GMPH,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,201426,201426,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,ME,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,204118,204118,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,204259,204259,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,204446,204446,AIR,,"Hassan Institute of Medical Sciences,Near Chamarajendra Hospital,Hassan",MBBS,SCG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,205009,205009,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,206280,206280,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,206457,206457,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,207659,207659,AIR,,"Kodagu Institute of Medical Sciences,MADIKERI",MBBS,SCG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,208442,208442,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,209380,209380,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,210426,210426,AIR,,"Chamarajanagar Institute of Medical Science,SURVEY NO 124, YADAPURA,VILLEGE, KASABA HOBLI,CHAMARAJANAGAR",MBBS,SCH,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,211952,211952,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,213256,213256,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,213834,213834,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,213959,213959,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,214269,214269,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,215181,215181,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,217801,217801,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,218921,218921,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,219025,219025,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,220835,220835,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,220935,220935,AIR,,"Chikkaballapura Institute of Medical Science,Chikkaballapura",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,221388,221388,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,221986,221986,AIR,,"Karwar Institute of Medical Science,M G ROAD,KARWAR,UTTARA KANNADA",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,222661,222661,AIR,,"Kodagu Institute of Medical Sciences,MADIKERI",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,223889,223889,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,223898,223898,AIR,,"Chikkamagaluru Institute of Medical Sciences,Chikkamagaluru",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,224437,224437,AIR,,"Haveri Institute of Medical Sciences,Haveri",MBBS,STG,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,224798,224798,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,235019,235019,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,235444,235444,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,236300,236300,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,236327,236327,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,242165,242165,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,245462,245462,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMP,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,245564,245564,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,246072,246072,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,246141,246141,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,248121,248121,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,GMPH,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,248216,248216,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,248401,248401,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,249792,249792,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,251095,251095,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,251807,251807,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,252151,252151,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,255370,255370,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,257874,257874,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,258459,258459,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,263683,263683,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,266968,266968,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,266999,266999,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,273048,273048,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,274837,274837,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,277319,277319,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,283954,283954,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,GMPH,,2215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,284373,284373,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,286880,286880,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,MM,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,289163,289163,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,290691,290691,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,291082,291082,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,292937,292937,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,294502,294502,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,298509,298509,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,298963,298963,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,299676,299676,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,MM,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,303691,303691,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,306939,306939,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,308960,308960,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,310840,310840,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,311344,311344,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,315987,315987,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,316118,316118,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,319455,319455,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,320921,320921,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,325492,325492,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,326368,326368,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,326777,326777,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,328201,328201,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,329824,329824,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,329878,329878,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,MMH,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,330680,330680,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OPN,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,330844,330844,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,333100,333100,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,335666,335666,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,336605,336605,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,MMH,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,337690,337690,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,339119,339119,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,339779,339779,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,339847,339847,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,OTH,,4015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,340121,340121,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,344415,344415,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,346612,346612,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,MMH,,1630715,Allotted,27
+2023,MOPUP,KEA,STATE_KA,349061,349061,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,349338,349338,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,NRI,,4015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,350111,350111,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,353744,353744,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,354784,354784,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,358307,358307,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,358903,358903,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,358958,358958,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,359473,359473,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,360430,360430,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,361971,361971,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,362816,362816,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,368332,368332,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,369026,369026,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,369207,369207,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,369801,369801,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,370834,370834,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,370939,370939,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,373981,373981,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,374400,374400,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,375346,375346,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,377154,377154,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,377867,377867,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,379503,379503,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,379945,379945,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,379978,379978,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,381402,381402,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,381839,381839,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,386921,386921,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,390134,390134,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,393090,393090,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,393930,393930,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,398796,398796,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,NRI,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,398918,398918,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,399513,399513,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,400307,400307,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMP,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,405769,405769,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,407716,407716,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,408898,408898,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,418298,418298,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,420590,420590,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,422019,422019,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,424003,424003,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,424475,424475,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,427058,427058,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Mathikere,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,427378,427378,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,428711,428711,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,432085,432085,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,433092,433092,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,434906,434906,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,NRI,,4015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,436917,436917,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,447545,447545,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,448396,448396,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,448592,448592,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,448908,448908,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,452967,452967,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,453760,453760,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,455640,455640,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,457814,457814,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,458534,458534,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,459023,459023,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,461286,461286,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,461349,461349,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,465475,465475,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,466348,466348,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,469052,469052,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,470625,470625,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,472057,472057,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,472280,472280,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,472997,472997,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,477155,477155,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,480686,480686,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OPN,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,482404,482404,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,482736,482736,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,483078,483078,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,484480,484480,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,484487,484487,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,488715,488715,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,490145,490145,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,491116,491116,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,491293,491293,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,NRI,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,492846,492846,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,NATEKAL POST,MANGALORE",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,494043,494043,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,NEAR BANGALORE INTERNATIONAL,BANGALORE",MBBS,OTH,,3212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,502331,502331,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,502343,502343,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,502542,502542,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,502738,502738,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,503542,503542,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,504084,504084,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,504699,504699,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,508653,508653,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,508693,508693,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,512777,512777,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,515094,515094,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1092852,Allotted,27
+2023,MOPUP,KEA,STATE_KA,516174,516174,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,519033,519033,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,527782,527782,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,529194,529194,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,530122,530122,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,530219,530219,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,530407,530407,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,533740,533740,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,534798,534798,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,535644,535644,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,535850,535850,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,NRI,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,536867,536867,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,536936,536936,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,541493,541493,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,541494,541494,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,542927,542927,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,543107,543107,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,543701,543701,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,545890,545890,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,546274,546274,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,547117,547117,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,547125,547125,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,547583,547583,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,549758,549758,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,550112,550112,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,550791,550791,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,553831,553831,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,556099,556099,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,556905,556905,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,557475,557475,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,559856,559856,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,560142,560142,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,562089,562089,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,563973,563973,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,564386,564386,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,565635,565635,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,569346,569346,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,569865,569865,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,571431,571431,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,571676,571676,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,571817,571817,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,572007,572007,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,572073,572073,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,572272,572272,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,572330,572330,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,572999,572999,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,573300,573300,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,574017,574017,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,574028,574028,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,574083,574083,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,576179,576179,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,577650,577650,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,NRI,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,579752,579752,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,581758,581758,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OTH,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,582250,582250,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,586501,586501,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,586949,586949,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,587097,587097,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,590939,590939,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,591373,591373,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,592338,592338,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,592681,592681,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,593358,593358,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,595771,595771,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,595944,595944,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,596350,596350,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,596656,596656,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,599038,599038,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,599940,599940,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,599943,599943,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,600694,600694,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,601051,601051,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,601190,601190,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,603917,603917,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,603943,603943,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,605167,605167,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,605647,605647,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,606698,606698,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,606890,606890,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,608690,608690,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,609871,609871,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,NRI,,4015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,610276,610276,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,610469,610469,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,610582,610582,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,613299,613299,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,613897,613897,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,614504,614504,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,616540,616540,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,619791,619791,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,621232,621232,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,621948,621948,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,625063,625063,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,625860,625860,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,625877,625877,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,626584,626584,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,627732,627732,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,627757,627757,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,630212,630212,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,631074,631074,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,632790,632790,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,634589,634589,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,635082,635082,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,636504,636504,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,636714,636714,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,637406,637406,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,638216,638216,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,638886,638886,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,639339,639339,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,641973,641973,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,642002,642002,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,643040,643040,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,643726,643726,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMP,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,644171,644171,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,649148,649148,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,NRI,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,649312,649312,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,650111,650111,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,651274,651274,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,651775,651775,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,654765,654765,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,655049,655049,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,NRI,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,655336,655336,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,655563,655563,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,655662,655662,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,656057,656057,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,656309,656309,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,657016,657016,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,657524,657524,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,658869,658869,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,658908,658908,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,658975,658975,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,659366,659366,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,659576,659576,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,NRI,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,662935,662935,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,663279,663279,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,664658,664658,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,664794,664794,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,669793,669793,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,670384,670384,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,672544,672544,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,678249,678249,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,680314,680314,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,680752,680752,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,681114,681114,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,681283,681283,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,682054,682054,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,686195,686195,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,689306,689306,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,689922,689922,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,691361,691361,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,694041,694041,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,697912,697912,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,OTH,,3015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,698365,698365,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,705613,705613,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,NRI,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,712150,712150,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,718135,718135,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,OTH,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,718431,718431,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,Muddenahalli,CHIKKABALLAPURA (5 year Bond ,Conditions Apply.)",MBBS,NRI,,4015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,722511,722511,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,723694,723694,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,724305,724305,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,731882,731882,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,733549,733549,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,737827,737827,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,739114,739114,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,739735,739735,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,746421,746421,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,748915,748915,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,749276,749276,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,751204,751204,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,751979,751979,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,752348,752348,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,754674,754674,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,763875,763875,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,764642,764642,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,765458,765458,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,766500,766500,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,767879,767879,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,769701,769701,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,770216,770216,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,771623,771623,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,772295,772295,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OTH,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,773297,773297,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,775015,775015,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,775551,775551,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,776901,776901,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,777459,777459,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,779861,779861,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,780661,780661,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,782077,782077,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,783146,783146,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,783343,783343,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,783928,783928,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,784492,784492,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,784979,784979,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,788593,788593,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OTH,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,789467,789467,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OTH,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,789535,789535,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,790703,790703,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,790930,790930,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,795114,795114,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,795900,795900,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMPH,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,796581,796581,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,797927,797927,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,798050,798050,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OTH,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,798403,798403,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,799614,799614,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,804202,804202,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,809605,809605,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,810232,810232,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,811548,811548,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,812946,812946,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,NRI,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,816755,816755,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,817915,817915,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,818069,818069,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,820917,820917,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,821836,821836,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,824302,824302,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,825612,825612,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,830285,830285,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,833692,833692,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,833875,833875,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,834366,834366,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,836341,836341,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,838893,838893,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,840785,840785,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,843024,843024,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,843823,843823,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,847632,847632,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,NRI,,3015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,849286,849286,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,849744,849744,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,851476,851476,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,852694,852694,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,855538,855538,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,NRI,,3015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,856868,856868,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,858161,858161,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,NRI,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,859245,859245,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,859798,859798,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,859942,859942,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,861475,861475,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,864067,864067,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,865364,865364,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,867017,867017,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,867305,867305,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,870710,870710,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,873101,873101,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Sattur,Dharwad",MBBS,NRI,,3015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,878905,878905,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,879551,879551,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,880021,880021,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,881502,881502,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,885526,885526,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,887469,887469,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,887834,887834,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,889194,889194,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,890162,890162,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,893710,893710,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,894210,894210,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,896365,896365,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,OTH,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,896889,896889,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,901733,901733,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,903212,903212,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,903401,903401,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,908060,908060,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,914508,914508,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,NRI,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,917572,917572,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,922125,922125,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,922678,922678,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,NRI,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,923569,923569,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,924251,924251,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,925377,925377,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,925862,925862,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,927155,927155,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,929962,929962,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,937860,937860,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,940227,940227,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,944645,944645,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,GMPH,,2015750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,950388,950388,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,953110,953110,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,953278,953278,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,954778,954778,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,955456,955456,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,955824,955824,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,956114,956114,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,958357,958357,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,958957,958957,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMPH,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,962287,962287,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,962991,962991,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Mantralyam Road,Raichur",MBBS,NRI,,2612700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,963682,963682,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,964684,964684,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,NRI,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,970153,970153,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,970231,970231,AIR,,"Srinivasa Institute of Medical Research Center,Srinivas Nagar,Mukka, Surathkal,Mangalore",MBBS,OTH,,3262700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,976616,976616,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,977232,977232,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,978754,978754,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,981727,981727,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,983178,983178,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMPH,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,984712,984712,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,985974,985974,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,988037,988037,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,989228,989228,AIR,,"East Point College of Medical Sciences and Research Center,Bangalore",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,992273,992273,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,994276,994276,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMPH,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1004193,1004193,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMPH,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1006187,1006187,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,NRI,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1009321,1009321,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,Kankanady,Mangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1014634,1014634,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1015609,1015609,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1020482,1020482,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Sedam Road,Kalaburgi",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1028609,1028609,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1035998,1035998,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,Nagamangal Tq,Bellur, Mandya Dist.",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1037767,1037767,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1039046,1039046,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1039488,1039488,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1041389,1041389,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1048719,1048719,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1060780,1060780,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1061176,1061176,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,Sullia,Dakshina Kannada",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1061866,1061866,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1063875,1063875,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1064192,1064192,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,Hesaraghatta main,Bangalore",MBBS,GMPH,,2212700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1067441,1067441,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Mahadevpura, White Field Road,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1073106,1073106,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1074376,1074376,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1077835,1077835,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1078338,1078338,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,Chitradurga",MBBS,OTH,,2812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1078843,1078843,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,NRI,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1084837,1084837,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1106150,1106150,AIR,,"Mandya Institute of Medical Sciences,District Hospital,Mandya",MBBS,PH,,60100,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1122203,1122203,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,Gulbarga",MBBS,OTH,,3215750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1122537,1122537,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Anekal Taluk,Bangalore",MBBS,NRI,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1130904,1130904,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,NRI,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1132040,1132040,AIR,,"S. Nijalingappa Medical College and Research Centre,Navanagara,Bagalkot",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1136504,1136504,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,Bangalore",MBBS,OTH,,3512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1138358,1138358,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,H.H Road,Shimoga",MBBS,OTH,,2512700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1144388,1144388,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1159387,1159387,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,Near B D A Complex,Bangalore",MBBS,OTH,,4012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1163867,1163867,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,OTH,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1168373,1168373,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1176904,1176904,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,Athani Road,VIJAYAPUR",MBBS,OTH,,3012700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1177255,1177255,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,Tumkur",MBBS,NRI,,2712700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1209259,1209259,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3515750,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1209434,1209434,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,City, Uttarahalli Main Road,Kengeri, Bangalore",MBBS,NRI,,3812700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1215637,1215637,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,2412700,Allotted,27
+2023,MOPUP,KEA,STATE_KA,1219554,1219554,AIR,,"Siddaganga Medical College and Research Institute,Tumakuru",MBBS,NRI,,2512700,Allotted,27

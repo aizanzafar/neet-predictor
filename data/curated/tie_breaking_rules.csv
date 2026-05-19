@@ -1,0 +1,12 @@
+rule_id,years_effective,priority,criterion,description,source_id,confidence,notes
+1,2020-2024,1,higher_biology,"Candidate with higher marks in Biology (Botany+Zoology) ranked higher",42,high,"Applied 2020-2024; replaced by Physics-first from 2025"
+2,2020-2024,2,higher_chemistry,"If Biology tied, candidate with higher Chemistry marks ranked higher",42,high,""
+3,2020-2024,3,fewer_wrong_answers,"If still tied, candidate with fewer incorrect responses ranked higher",42,high,""
+4,2020-2024,4,older_candidate,"If still tied, older candidate (higher age) ranked higher",42,high,""
+5,2020-2024,5,application_number,"If still tied, lower application number ranked higher",42,medium,"Final tiebreaker"
+6,2025-2025,1,higher_physics,"Candidate with higher marks in Physics ranked higher",42,high,"New from 2025 per NTA notification; Physics replaces Biology as primary tiebreaker"
+7,2025-2025,2,higher_chemistry,"If Physics tied, candidate with higher Chemistry marks ranked higher",42,high,""
+8,2025-2025,3,higher_biology,"If still tied, candidate with higher Biology marks ranked higher",42,high,"Biology demoted to 3rd priority from 2025"
+9,2025-2025,4,fewer_wrong_answers,"If still tied, candidate with fewer incorrect responses ranked higher",42,high,""
+10,2025-2025,5,older_candidate,"If still tied, older candidate (higher age) ranked higher",42,high,""
+11,2025-2025,6,application_number,"If still tied, lower application number ranked higher",42,medium,"Final tiebreaker"

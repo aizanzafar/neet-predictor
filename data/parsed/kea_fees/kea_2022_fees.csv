@@ -1,0 +1,283 @@
+year,round,college_code,college_name,quota,fee
+2022,R2,M001,"Bangalore Medical College,Bangalore",GOVT,59850
+2022,R2,M002,"Dr. B.R. Ambedkar Medical College,Bangalore",GOVT,141196
+2022,R2,M002,"Dr. B.R. Ambedkar Medical College,Bangalore",PRIVATE,994406
+2022,R2,M002,"Dr. B.R. Ambedkar Medical College,Bangalore",NRI,4012450
+2022,R2,M002,"Dr. B.R. Ambedkar Medical College,Bangalore",OTHERS,4012450
+2022,R2,M003,"Kempegowda Institute of Medical Sciences,Bangalore",GOVT,141196
+2022,R2,M003,"Kempegowda Institute of Medical Sciences,Bangalore",PRIVATE,994406
+2022,R2,M003,"Kempegowda Institute of Medical Sciences,Bangalore",NRI,4012450
+2022,R2,M003,"Kempegowda Institute of Medical Sciences,Bangalore",OTHERS,4012450
+2022,R2,M004,"M.S.Ramaiah Medical College,Bangalore",GOVT,144246
+2022,R2,M004,"M.S.Ramaiah Medical College,Bangalore",PRIVATE,2215500
+2022,R2,M004,"M.S.Ramaiah Medical College,Bangalore",NRI,4015500
+2022,R2,M004,"M.S.Ramaiah Medical College,Bangalore",OTHERS,4015500
+2022,R2,M005,"Khaja Bande Navaz Institute Of Medical Sciences,Gulbarga",GOVT,144246
+2022,R2,M005,"Khaja Bande Navaz Institute Of Medical Sciences,Gulbarga",PRIVATE,1630465
+2022,R2,M005,"Khaja Bande Navaz Institute Of Medical Sciences,Gulbarga",NRI,3215500
+2022,R2,M005,"Khaja Bande Navaz Institute Of Medical Sciences,Gulbarga",OTHERS,3215500
+2022,R2,M008,"M.V.J.Medical College and Research Hospital,Channasandra, B1a4n1g1a9lo6re",GOVT,1092602
+2022,R2,M008,"M.V.J.Medical College and Research Hospital,Channasandra, B1a4n1g1a9lo6re",PRIVATE,4012450
+2022,R2,M008,"M.V.J.Medical College and Research Hospital,Channasandra, B1a4n1g1a9lo6re",NRI,4012450
+2022,R2,M009,"Vydehi Institute of Medical Science and Research Centre,Bang1a4lo1r1e",GOVT,96
+2022,R2,M009,"Vydehi Institute of Medical Science and Research Centre,Bang1a4lo1r1e",PRIVATE,1092602
+2022,R2,M009,"Vydehi Institute of Medical Science and Research Centre,Bang1a4lo1r1e",NRI,4012450
+2022,R2,M009,"Vydehi Institute of Medical Science and Research Centre,Bang1a4lo1r1e",OTHERS,4012450
+2022,R2,M010,"A.J.Institute of Medical Sciences,Mangalore",GOVT,141196
+2022,R2,M010,"A.J.Institute of Medical Sciences,Mangalore",PRIVATE,1092602
+2022,R2,M010,"A.J.Institute of Medical Sciences,Mangalore",NRI,4012450
+2022,R2,M010,"A.J.Institute of Medical Sciences,Mangalore",OTHERS,4012450
+2022,R2,M011,"St John Medical College,Bangalore",GOVT,738380
+2022,R2,M020,"Sri Basaveshwara Medical College and Hospital,Chitradurga",GOVT,141196
+2022,R2,M020,"Sri Basaveshwara Medical College and Hospital,Chitradurga",PRIVATE,994406
+2022,R2,M020,"Sri Basaveshwara Medical College and Hospital,Chitradurga",NRI,3512450
+2022,R2,M020,"Sri Basaveshwara Medical College and Hospital,Chitradurga",OTHERS,3512450
+2022,R2,M021,"Mysore Medical College,Mysore",GOVT,59850
+2022,R2,M022,"Jagadguru Sri Shivarathreeswara Medical College,Mysore",GOVT,144246
+2022,R2,M023,"Adichunchanagiri Institute of Medical Sciences,Bellur, Mandya1 4D4is2t4.",GOVT,6
+2022,R2,M023,"Adichunchanagiri Institute of Medical Sciences,Bellur, Mandya1 4D4is2t4.",PRIVATE,1815500
+2022,R2,M023,"Adichunchanagiri Institute of Medical Sciences,Bellur, Mandya1 4D4is2t4.",NRI,3415500
+2022,R2,M023,"Adichunchanagiri Institute of Medical Sciences,Bellur, Mandya1 4D4is2t4.",OTHERS,3415500
+2022,R2,M024,"Mandya Institute of Medical Sciences,Mandya",GOVT,59850
+2022,R2,M025,"Hassan Institute of Medical Sciences,Hassan",GOVT,59850
+2022,R2,M031,"Karnataka Institute of Medical Sciences,Hubli",GOVT,59850
+2022,R2,M032,"Jawaharalal Nehru Medical College,Belgaum",GOVT,144246
+2022,R2,M033,"Al-Ameen Medical College,VIJAYAPUR",GOVT,141196
+2022,R2,M033,"Al-Ameen Medical College,VIJAYAPUR",PRIVATE,1092602
+2022,R2,M033,"Al-Ameen Medical College,VIJAYAPUR",NRI,3012450
+2022,R2,M033,"Al-Ameen Medical College,VIJAYAPUR",OTHERS,3012450
+2022,R2,M035,"S. Nijalingappa Medical College and Research Centre,Bagalkot",GOVT,141196
+2022,R2,M035,"S. Nijalingappa Medical College and Research Centre,Bagalkot",PRIVATE,994406
+2022,R2,M035,"S. Nijalingappa Medical College and Research Centre,Bagalkot",NRI,4212450
+2022,R2,M035,"S. Nijalingappa Medical College and Research Centre,Bagalkot",OTHERS,4212450
+2022,R2,M036,"SDM College of Medical Sciences and Hospital,Dharwad",GOVT,144246
+2022,R2,M036,"SDM College of Medical Sciences and Hospital,Dharwad",PRIVATE,1875000
+2022,R2,M036,"SDM College of Medical Sciences and Hospital,Dharwad",NRI,3515500
+2022,R2,M036,"SDM College of Medical Sciences and Hospital,Dharwad",OTHERS,3515500
+2022,R2,M037,"Belgaum Institute of Medical Sciences,Belgaum",GOVT,59850
+2022,R2,M041,"Vijayanagar Institute of Medical Sciences,Bellary",GOVT,59850
+2022,R2,M042,"Mahadevappa Rampure Medical College,Kalaburgi",GOVT,141196
+2022,R2,M042,"Mahadevappa Rampure Medical College,Kalaburgi",PRIVATE,994406
+2022,R2,M042,"Mahadevappa Rampure Medical College,Kalaburgi",NRI,4181900
+2022,R2,M042,"Mahadevappa Rampure Medical College,Kalaburgi",OTHERS,4181900
+2022,R2,M043,"Navodaya Medical College,Raichur",GOVT,141196
+2022,R2,M043,"Navodaya Medical College,Raichur",PRIVATE,1092602
+2022,R2,M043,"Navodaya Medical College,Raichur",NRI,3012450
+2022,R2,M043,"Navodaya Medical College,Raichur",OTHERS,3012450
+2022,R2,M044,"Bidar Institute of Medical Sciences,Bidar",GOVT,59850
+2022,R2,M045,"Raichur Institute of Medical Sciences,Raichur",GOVT,59850
+2022,R2,M050,"Father Muller Institute of Med. Education & Research,Mangal1o4re",GOVT,1196
+2022,R2,M050,"Father Muller Institute of Med. Education & Research,Mangal1o4re",PRIVATE,994406
+2022,R2,M050,"Father Muller Institute of Med. Education & Research,Mangal1o4re",NRI,3212450
+2022,R2,M050,"Father Muller Institute of Med. Education & Research,Mangal1o4re",OTHERS,3212450
+2022,R2,M051,"Kasturba Medical College,Hampanakatta,Mangalore.",GOVT,144246
+2022,R2,M052,"Yenepoya Medical College,Mangalore",GOVT,204246
+2022,R2,M053,"K.S.Hegde Medical Academy,Mangalore",GOVT,144246
+2022,R2,M054,"K.Venkataramana Gowda Medical College and Hospital,Daksh1in4a1 K1a9n6nad9a",GOVT,94406
+2022,R2,M054,"K.Venkataramana Gowda Medical College and Hospital,Daksh1in4a1 K1a9n6nad9a",PRIVATE,2812450
+2022,R2,M054,"K.Venkataramana Gowda Medical College and Hospital,Daksh1in4a1 K1a9n6nad9a",NRI,2812450
+2022,R2,M061,"Jaya Jagadguru Murugharajendra Medical College,Davangere 1D4is1t1ri9c6t",GOVT,994406
+2022,R2,M061,"Jaya Jagadguru Murugharajendra Medical College,Davangere 1D4is1t1ri9c6t",PRIVATE,5412450
+2022,R2,M061,"Jaya Jagadguru Murugharajendra Medical College,Davangere 1D4is1t1ri9c6t",NRI,5412450
+2022,R2,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences,D1a4v1a1n9ge6re",GOVT,994406
+2022,R2,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences,D1a4v1a1n9ge6re",PRIVATE,4512450
+2022,R2,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences,D1a4v1a1n9ge6re",NRI,4512450
+2022,R2,M063,"Shimoga Institute of Medical Sciences,Shimoga",GOVT,59850
+2022,R2,M064,"Sapthagiri Institute of Medical Sciences,Bangalore",GOVT,141196
+2022,R2,M064,"Sapthagiri Institute of Medical Sciences,Bangalore",PRIVATE,994406
+2022,R2,M064,"Sapthagiri Institute of Medical Sciences,Bangalore",NRI,5012450
+2022,R2,M064,"Sapthagiri Institute of Medical Sciences,Bangalore",OTHERS,5012450
+2022,R2,M065,"Srinivasa Institute of Medical Research Center,Mangalore",GOVT,141196
+2022,R2,M065,"Srinivasa Institute of Medical Research Center,Mangalore",PRIVATE,1092602
+2022,R2,M065,"Srinivasa Institute of Medical Research Center,Mangalore",NRI,4012450
+2022,R2,M065,"Srinivasa Institute of Medical Research Center,Mangalore",OTHERS,4012450
+2022,R2,M066,"ESI Medical College,Bangalore",GOVT,109850
+2022,R2,M067,"Subbaiah Institute of Medical Science,Shimoga",GOVT,141196
+2022,R2,M067,"Subbaiah Institute of Medical Science,Shimoga",PRIVATE,1092602
+2022,R2,M067,"Subbaiah Institute of Medical Science,Shimoga",NRI,3912350
+2022,R2,M067,"Subbaiah Institute of Medical Science,Shimoga",OTHERS,3912350
+2022,R2,M068,"BGS Global Institute of Medical Sciences,Kengeri, Bangalore",GOVT,141196
+2022,R2,M068,"BGS Global Institute of Medical Sciences,Kengeri, Bangalore",PRIVATE,994406
+2022,R2,M068,"BGS Global Institute of Medical Sciences,Kengeri, Bangalore",NRI,4412450
+2022,R2,M068,"BGS Global Institute of Medical Sciences,Kengeri, Bangalore",OTHERS,4412450
+2022,R2,M069,"Shridevi Institute of Medical Sciences and Research Hospital,T1u4m1k1u9r",GOVT,6
+2022,R2,M069,"Shridevi Institute of Medical Sciences and Research Hospital,T1u4m1k1u9r",PRIVATE,994406
+2022,R2,M069,"Shridevi Institute of Medical Sciences and Research Hospital,T1u4m1k1u9r",NRI,3612450
+2022,R2,M069,"Shridevi Institute of Medical Sciences and Research Hospital,T1u4m1k1u9r",OTHERS,3612450
+2022,R2,M070,"ESI Medical College,Gulbarga",GOVT,109850
+2022,R2,M071,"The Oxford Medical College Hospital and Research Center,Ban1g4a1lo1r9e",GOVT,6
+2022,R2,M071,"The Oxford Medical College Hospital and Research Center,Ban1g4a1lo1r9e",PRIVATE,1092602
+2022,R2,M071,"The Oxford Medical College Hospital and Research Center,Ban1g4a1lo1r9e",NRI,3412450
+2022,R2,M071,"The Oxford Medical College Hospital and Research Center,Ban1g4a1lo1r9e",OTHERS,3412450
+2022,R2,M072,"Gulbarga Institute of Medical Sciences,GULBARGA",GOVT,59850
+2022,R2,M073,"Koppal Institute of Medical Sciences,KOPPAL",GOVT,59850
+2022,R2,M074,"Gadag Institute of Medical Sciences,GADAG",GOVT,59850
+2022,R2,M075,"Chamarajanagar Institute of Medical Science,CHAMARAJANAG5A9R",GOVT,850
+2022,R2,M076,"Karwar Institute of Medical Science,UTTARA KANNADA",GOVT,59850
+2022,R2,M077,"Kodagu Institute of Medical Sciences,MADIKERI",GOVT,59850
+2022,R2,M078,"Akash Institute of Medical Sciences and Research Centre,BAN1G4A1L1O9R6E",GOVT,1092602
+2022,R2,M078,"Akash Institute of Medical Sciences and Research Centre,BAN1G4A1L1O9R6E",PRIVATE,4011950
+2022,R2,M078,"Akash Institute of Medical Sciences and Research Centre,BAN1G4A1L1O9R6E",NRI,4011950
+2022,R2,M079,"Kanachur Institute of Medical Sciences and Research Centre,M14A1N1G9A6LO1R0E",GOVT,92602
+2022,R2,M079,"Kanachur Institute of Medical Sciences and Research Centre,M14A1N1G9A6LO1R0E",PRIVATE,3512450
+2022,R2,M079,"Kanachur Institute of Medical Sciences and Research Centre,M14A1N1G9A6LO1R0E",NRI,3512450
+2022,R2,M081,"East Point College of Medical Sciences and Research Center,B1an4g1a1l9o6re",GOVT,994406
+2022,R2,M081,"East Point College of Medical Sciences and Research Center,B1an4g1a1l9o6re",PRIVATE,3812450
+2022,R2,M081,"East Point College of Medical Sciences and Research Center,B1an4g1a1l9o6re",NRI,3812450
+2022,R2,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science,Bengaluru",GOVT,59850
+2022,R2,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Educa1ti4o4n2,H4a6ro2h0a1lli5 h5o0b0li,3 R5a1m50a0n0ag3ar5a",GOVT,15000
+2022,R2,M084,"Chikkaballapura Institute of Medical Science,Chikkaballapura",GOVT,59850
+2022,R2,M085,"Chikkamagaluru Institute of Medical Sciences,Chikkamagaluru",GOVT,59850
+2022,R2,M086,"Haveri Institute of Medical Sciences,Haveri",GOVT,59850
+2022,R2,M087,"Yadgiri Institute of Medical Sciences,Yadgiri",GOVT,59850
+2022,R2,M088,"G R Medical College and Research Center,Mangalore",GOVT,141196
+2022,R2,M088,"G R Medical College and Research Center,Mangalore",PRIVATE,1092602
+2022,R2,M088,"G R Medical College and Research Center,Mangalore",NRI,3265500
+2022,R2,M088,"G R Medical College and Research Center,Mangalore",OTHERS,3265500
+2022,R2,M090,"Siddaganga Medical College and Research Institute,Tumakuru",GOVT,141196
+2022,R2,M090,"Siddaganga Medical College and Research Institute,Tumakuru",PRIVATE,994406
+2022,R2,M090,"Siddaganga Medical College and Research Institute,Tumakuru",NRI,3212450
+2022,R2,M090,"Siddaganga Medical College and Research Institute,Tumakuru",OTHERS,3012450
+2022,R2,D101,"Government Dental College,Bangalore",GOVT,49850
+2022,R2,D102,"Dr.M.R.Ambedkar Dental College and Hospital,Bangalore",GOVT,95808
+2022,R2,D102,"Dr.M.R.Ambedkar Dental College and Hospital,Bangalore",PRIVATE,678473
+2022,R2,D102,"Dr.M.R.Ambedkar Dental College and Hospital,Bangalore",NRI,841900
+2022,R2,D102,"Dr.M.R.Ambedkar Dental College and Hospital,Bangalore",OTHERS,841900
+2022,R2,D103,"Vokkaligara Sangha Dental College and Hospital,Bangalore",GOVT,95808
+2022,R2,D103,"Vokkaligara Sangha Dental College and Hospital,Bangalore",PRIVATE,512450
+2022,R2,D103,"Vokkaligara Sangha Dental College and Hospital,Bangalore",NRI,512450
+2022,R2,D103,"Vokkaligara Sangha Dental College and Hospital,Bangalore",OTHERS,512450
+2022,R2,D104,"M.S.Ramaiah Univerisity of Applied Sciences,Bangalore",GOVT,98858
+2022,R2,D104,"M.S.Ramaiah Univerisity of Applied Sciences,Bangalore",PRIVATE,765500
+2022,R2,D104,"M.S.Ramaiah Univerisity of Applied Sciences,Bangalore",NRI,915500
+2022,R2,D104,"M.S.Ramaiah Univerisity of Applied Sciences,Bangalore",OTHERS,915500
+2022,R2,D108,"AECS Maruti College of Dental Sciences and Research Centre,Ba9n5g8a0l8ore",GOVT,678473
+2022,R2,D108,"AECS Maruti College of Dental Sciences and Research Centre,Ba9n5g8a0l8ore",PRIVATE,762450
+2022,R2,D108,"AECS Maruti College of Dental Sciences and Research Centre,Ba9n5g8a0l8ore",NRI,712450
+2022,R2,D111,"Dayananda Sagar College of Dental Sciences,Bangalore",GOVT,95808
+2022,R2,D111,"Dayananda Sagar College of Dental Sciences,Bangalore",PRIVATE,427450
+2022,R2,D111,"Dayananda Sagar College of Dental Sciences,Bangalore",NRI,427450
+2022,R2,D111,"Dayananda Sagar College of Dental Sciences,Bangalore",OTHERS,427450
+2022,R2,D112,"Oxford Dental College,Bangalore",GOVT,95808
+2022,R2,D112,"Oxford Dental College,Bangalore",PRIVATE,412450
+2022,R2,D112,"Oxford Dental College,Bangalore",NRI,412450
+2022,R2,D112,"Oxford Dental College,Bangalore",OTHERS,412450
+2022,R2,D113,"Sri Rajiv Gandhi Dental College,Bangalore",GOVT,95808
+2022,R2,D113,"Sri Rajiv Gandhi Dental College,Bangalore",PRIVATE,397450
+2022,R2,D113,"Sri Rajiv Gandhi Dental College,Bangalore",NRI,637450
+2022,R2,D113,"Sri Rajiv Gandhi Dental College,Bangalore",OTHERS,427450
+2022,R2,D114,"Raja Rajeshwari Dental College and Hospital,Bangalore",GOVT,95808
+2022,R2,D114,"Raja Rajeshwari Dental College and Hospital,Bangalore",PRIVATE,412450
+2022,R2,D114,"Raja Rajeshwari Dental College and Hospital,Bangalore",NRI,412450
+2022,R2,D114,"Raja Rajeshwari Dental College and Hospital,Bangalore",OTHERS,412450
+2022,R2,D115,"Rashtreeya Vidyalaya Dental College,Bangalore",GOVT,95808
+2022,R2,D115,"Rashtreeya Vidyalaya Dental College,Bangalore",PRIVATE,562450
+2022,R2,D115,"Rashtreeya Vidyalaya Dental College,Bangalore",NRI,562450
+2022,R2,D115,"Rashtreeya Vidyalaya Dental College,Bangalore",OTHERS,562450
+2022,R2,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",GOVT,95808
+2022,R2,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",PRIVATE,437450
+2022,R2,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",NRI,512450
+2022,R2,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",OTHERS,512450
+2022,R2,D118,"Bangalore Institute of Dental Sciences & Hospital,Bangalore",GOVT,95808
+2022,R2,D118,"Bangalore Institute of Dental Sciences & Hospital,Bangalore",PRIVATE,462450
+2022,R2,D118,"Bangalore Institute of Dental Sciences & Hospital,Bangalore",NRI,512450
+2022,R2,D118,"Bangalore Institute of Dental Sciences & Hospital,Bangalore",OTHERS,512450
+2022,R2,D119,"K L E S Institute of Dental Sciences,Bangalore",GOVT,95808
+2022,R2,D119,"K L E S Institute of Dental Sciences,Bangalore",PRIVATE,412450
+2022,R2,D119,"K L E S Institute of Dental Sciences,Bangalore",NRI,412450
+2022,R2,D119,"K L E S Institute of Dental Sciences,Bangalore",OTHERS,412450
+2022,R2,D120,"Venkateswara Dental College,Bangalore",GOVT,95808
+2022,R2,D120,"Venkateswara Dental College,Bangalore",PRIVATE,312450
+2022,R2,D120,"Venkateswara Dental College,Bangalore",NRI,322450
+2022,R2,D120,"Venkateswara Dental College,Bangalore",OTHERS,312450
+2022,R2,D121,"K.G.F. College of Dental Sciences,K.G.F.",GOVT,95808
+2022,R2,D121,"K.G.F. College of Dental Sciences,K.G.F.",PRIVATE,745075
+2022,R2,D121,"K.G.F. College of Dental Sciences,K.G.F.",NRI,359400
+2022,R2,D121,"K.G.F. College of Dental Sciences,K.G.F.",OTHERS,359400
+2022,R2,D122,"Vydehi Institute of Dental Sciences and Research Centre,Banga9lo5r8e",GOVT,8
+2022,R2,D122,"Vydehi Institute of Dental Sciences and Research Centre,Banga9lo5r8e",PRIVATE,745075
+2022,R2,D122,"Vydehi Institute of Dental Sciences and Research Centre,Banga9lo5r8e",NRI,741950
+2022,R2,D122,"Vydehi Institute of Dental Sciences and Research Centre,Banga9lo5r8e",OTHERS,741950
+2022,R2,D224,"Farooquia Dental College,Mysore",GOVT,95808
+2022,R2,D224,"Farooquia Dental College,Mysore",PRIVATE,307450
+2022,R2,D224,"Farooquia Dental College,Mysore",NRI,407450
+2022,R2,D224,"Farooquia Dental College,Mysore",OTHERS,357450
+2022,R2,D225,"Sri. Hasanamba Dental College and Hospital,Hassan",GOVT,95808
+2022,R2,D225,"Sri. Hasanamba Dental College and Hospital,Hassan",PRIVATE,362450
+2022,R2,D225,"Sri. Hasanamba Dental College and Hospital,Hassan",NRI,362450
+2022,R2,D225,"Sri. Hasanamba Dental College and Hospital,Hassan",OTHERS,362450
+2022,R2,D333,"Al-Ameen Dental College,Bijapur",GOVT,95808
+2022,R2,D333,"Al-Ameen Dental College,Bijapur",PRIVATE,362450
+2022,R2,D333,"Al-Ameen Dental College,Bijapur",NRI,362450
+2022,R2,D333,"Al-Ameen Dental College,Bijapur",OTHERS,362450
+2022,R2,D335,"Maratha Mandal Dental College,Belgaum",GOVT,95808
+2022,R2,D335,"Maratha Mandal Dental College,Belgaum",PRIVATE,362450
+2022,R2,D335,"Maratha Mandal Dental College,Belgaum",NRI,412450
+2022,R2,D335,"Maratha Mandal Dental College,Belgaum",OTHERS,412450
+2022,R2,D336,"PM Nadagowda Memorial Dental College and Hospital,Bagalko9t",GOVT,5808
+2022,R2,D336,"PM Nadagowda Memorial Dental College and Hospital,Bagalko9t",PRIVATE,362450
+2022,R2,D336,"PM Nadagowda Memorial Dental College and Hospital,Bagalko9t",NRI,362450
+2022,R2,D336,"PM Nadagowda Memorial Dental College and Hospital,Bagalko9t",OTHERS,362450
+2022,R2,D337,"Sri Dharmasthala Manjunatheswara Dental College,Dharwad",GOVT,98858
+2022,R2,D337,"Sri Dharmasthala Manjunatheswara Dental College,Dharwad",PRIVATE,469350
+2022,R2,D337,"Sri Dharmasthala Manjunatheswara Dental College,Dharwad",NRI,657450
+2022,R2,D337,"Sri Dharmasthala Manjunatheswara Dental College,Dharwad",OTHERS,549950
+2022,R2,D442,"Hyderabad Karnataka Education Societies Dental College,Gulba9r5ga",GOVT,808
+2022,R2,D442,"Hyderabad Karnataka Education Societies Dental College,Gulba9r5ga",PRIVATE,212450
+2022,R2,D442,"Hyderabad Karnataka Education Societies Dental College,Gulba9r5ga",NRI,212450
+2022,R2,D442,"Hyderabad Karnataka Education Societies Dental College,Gulba9r5ga",OTHERS,212450
+2022,R2,D443,"Al Badar Dental College and Hospital,Gulbarga",GOVT,95808
+2022,R2,D443,"Al Badar Dental College and Hospital,Gulbarga",PRIVATE,297450
+2022,R2,D443,"Al Badar Dental College and Hospital,Gulbarga",NRI,437450
+2022,R2,D443,"Al Badar Dental College and Hospital,Gulbarga",OTHERS,337450
+2022,R2,D444,"HKDET`S Dental College Hospital,Humnabad, Bidar Dist",GOVT,95808
+2022,R2,D444,"HKDET`S Dental College Hospital,Humnabad, Bidar Dist",PRIVATE,212450
+2022,R2,D444,"HKDET`S Dental College Hospital,Humnabad, Bidar Dist",NRI,262450
+2022,R2,D444,"HKDET`S Dental College Hospital,Humnabad, Bidar Dist",OTHERS,262450
+2022,R2,D445,"S.B.Patil Institute for Dental Sciences and Research,Bidar",GOVT,95808
+2022,R2,D445,"S.B.Patil Institute for Dental Sciences and Research,Bidar",PRIVATE,272450
+2022,R2,D445,"S.B.Patil Institute for Dental Sciences and Research,Bidar",NRI,287450
+2022,R2,D445,"S.B.Patil Institute for Dental Sciences and Research,Bidar",OTHERS,287450
+2022,R2,D446,"Academy of Medical Education Dental College,Raichur",GOVT,95808
+2022,R2,D446,"Academy of Medical Education Dental College,Raichur",PRIVATE,362450
+2022,R2,D446,"Academy of Medical Education Dental College,Raichur",NRI,362450
+2022,R2,D446,"Academy of Medical Education Dental College,Raichur",OTHERS,362450
+2022,R2,D447,"Navodaya Dental College,Raichur",GOVT,95808
+2022,R2,D447,"Navodaya Dental College,Raichur",PRIVATE,312450
+2022,R2,D447,"Navodaya Dental College,Raichur",NRI,312450
+2022,R2,D447,"Navodaya Dental College,Raichur",OTHERS,312450
+2022,R2,D448,"Government Dental College and Research Institute,Bellary",GOVT,49850
+2022,R2,D551,"Coorg Institute of Dental Sciences, Coorg District",GOVT,95808
+2022,R2,D551,"Coorg Institute of Dental Sciences, Coorg District",PRIVATE,745075
+2022,R2,D551,"Coorg Institute of Dental Sciences, Coorg District",NRI,727450
+2022,R2,D551,"Coorg Institute of Dental Sciences, Coorg District",OTHERS,727450
+2022,R2,D555,"K.Venkataramana Gowda Dental College Hospital and Research9 C5e8n0t8re,D3a6k2s4h5in0a Ka3n7n2a4d5a",GOVT,0
+2022,R2,D555,"K.Venkataramana Gowda Dental College Hospital and Research9 C5e8n0t8re,D3a6k2s4h5in0a Ka3n7n2a4d5a",PRIVATE,362450
+2022,R2,D556,"A.J. Institute of Dental Sciences,Mangalore",GOVT,95808
+2022,R2,D556,"A.J. Institute of Dental Sciences,Mangalore",PRIVATE,678473
+2022,R2,D556,"A.J. Institute of Dental Sciences,Mangalore",NRI,712450
+2022,R2,D556,"A.J. Institute of Dental Sciences,Mangalore",OTHERS,712450
+2022,R2,D557,"Srinivasa Institute of Dental Science,Mangalore",GOVT,95808
+2022,R2,D557,"Srinivasa Institute of Dental Science,Mangalore",PRIVATE,287450
+2022,R2,D557,"Srinivasa Institute of Dental Science,Mangalore",NRI,312450
+2022,R2,D557,"Srinivasa Institute of Dental Science,Mangalore",OTHERS,312450
+2022,R2,D661,"Bapuji Dental College and Hospital,Davangere",GOVT,95808
+2022,R2,D661,"Bapuji Dental College and Hospital,Davangere",PRIVATE,362450
+2022,R2,D661,"Bapuji Dental College and Hospital,Davangere",NRI,362450
+2022,R2,D661,"Bapuji Dental College and Hospital,Davangere",OTHERS,362450
+2022,R2,D662,"College of Dental Sciences,Davangere",GOVT,95808
+2022,R2,D662,"College of Dental Sciences,Davangere",PRIVATE,362450
+2022,R2,D662,"College of Dental Sciences,Davangere",NRI,362450
+2022,R2,D662,"College of Dental Sciences,Davangere",OTHERS,362450
+2022,R2,D663,"Sharavathi Dental College,Shimoga",GOVT,95808
+2022,R2,D663,"Sharavathi Dental College,Shimoga",PRIVATE,342450
+2022,R2,D663,"Sharavathi Dental College,Shimoga",NRI,342450
+2022,R2,D663,"Sharavathi Dental College,Shimoga",OTHERS,342450
+2022,R2,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital,Chitr9a5d8u0rg8a",GOVT,262450
+2022,R2,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital,Chitr9a5d8u0rg8a",PRIVATE,287450
+2022,R2,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital,Chitr9a5d8u0rg8a",NRI,287450
+2022,R2,D665,"Subbaiah Institute of Dental Sciences,Shimoga",GOVT,95808
+2022,R2,D665,"Subbaiah Institute of Dental Sciences,Shimoga",PRIVATE,272450
+2022,R2,D665,"Subbaiah Institute of Dental Sciences,Shimoga",NRI,272450
+2022,R2,D665,"Subbaiah Institute of Dental Sciences,Shimoga",OTHERS,272450
+2022,R2,D666,"Employees State Insurance Corporation Dental College,Gulbar1g0a",GOVT,9850

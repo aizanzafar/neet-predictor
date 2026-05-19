@@ -1,0 +1,90 @@
+[
+  {
+    "total_pages": 80,
+    "rows_extracted": 1954,
+    "rows_skipped": 0,
+    "errors": [],
+    "source_id": 28,
+    "file": "states/karnataka/2023/2023_round1_karnataka_allotmentlist_04e0cb3f.pdf",
+    "year": 2023,
+    "round": "R1",
+    "output": "data\\parsed\\kea_allotments\\kea_2023_R1.csv"
+  },
+  {
+    "total_pages": 471,
+    "rows_extracted": 8014,
+    "rows_skipped": 0,
+    "errors": [],
+    "source_id": 29,
+    "file": "states/karnataka/2023/2023_round2_karnataka_allotmentlist_a36fea30.pdf",
+    "year": 2023,
+    "round": "R2",
+    "output": "data\\parsed\\kea_allotments\\kea_2023_R2.csv"
+  },
+  {
+    "total_pages": 54,
+    "rows_extracted": 889,
+    "rows_skipped": 0,
+    "errors": [],
+    "source_id": 27,
+    "file": "states/karnataka/2023/2023_mopup_karnataka_allotmentlist_48858628.pdf",
+    "year": 2023,
+    "round": "MOPUP",
+    "output": "data\\parsed\\kea_allotments\\kea_2023_MOPUP.csv"
+  },
+  {
+    "total_pages": 11,
+    "rows_extracted": 151,
+    "rows_skipped": 0,
+    "errors": [],
+    "source_id": 30,
+    "file": "states/karnataka/2023/2023_stray_karnataka_allotmentlist_bae991fc.pdf",
+    "year": 2023,
+    "round": "STRAY",
+    "output": "data\\parsed\\kea_allotments\\kea_2023_STRAY.csv"
+  },
+  {
+    "total_pages": 5,
+    "rows_extracted": 6,
+    "rows_skipped": 48,
+    "errors": [],
+    "source_id": 31,
+    "file": "states/karnataka/2024/2024_stray5_karnataka_allotmentlist_f558cf0b.pdf",
+    "year": 2024,
+    "round": "STRAY",
+    "output": "data\\parsed\\kea_allotments\\kea_2024_STRAY.csv"
+  },
+  {
+    "total_pages": 1,
+    "rows_extracted": 1,
+    "rows_skipped": 6,
+    "errors": [],
+    "source_id": 32,
+    "file": "states/karnataka/2024/2024_stray6_karnataka_allotmentlist_bdc7b9cf.pdf",
+    "year": 2024,
+    "round": "STRAY",
+    "output": "data\\parsed\\kea_allotments\\kea_2024_STRAY.csv"
+  },
+  {
+    "total_pages": 540,
+    "rows_extracted": 9566,
+    "rows_skipped": 1,
+    "errors": [],
+    "source_id": 33,
+    "file": "states/karnataka/2025/2025_round2_prov2_karnataka_allotmentlist_19bfff91.pdf",
+    "year": 2025,
+    "round": "R2",
+    "output": "data\\parsed\\kea_allotments\\kea_2025_R2.csv"
+  },
+  {
+    "total_pages": 60,
+    "rows_extracted": 967,
+    "rows_skipped": 0,
+    "errors": [],
+    "source_id": 34,
+    "file": "states/karnataka/2025/2025_round3_karnataka_allotmentlist_e2b2bb6d.pdf",
+    "year": 2025,
+    "round": "R3",
+    "output": "data\\parsed\\kea_allotments\\kea_2025_R3.csv"
+  }
+]

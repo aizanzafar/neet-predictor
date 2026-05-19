@@ -1,0 +1,149 @@
+year,college_code,college_name,discipline,course,seat_type,fee_per_annum
+2020,M037,"Belagavi Institute of Medical Sciences, Belagavi",MEDICAL,MBBS,GOVT,59850
+2020,M044,"Bidar Institute of Medical Sciences, Bidar",MEDICAL,MBBS,GOVT,59850
+2020,M066,"ESIC Medical College & PGIMSR, Bangalore",MEDICAL,MBBS,GOVT,109850
+2020,M070,"ESIC Medical College, Gulbarga",MEDICAL,MBBS,GOVT,109850
+2020,M074,"Gadag Institute of Medical Sciences, Gadag",MEDICAL,MBBS,GOVT,59850
+2020,M072,"Gulbarga Institute of Medical Sciences, Gulbarga",MEDICAL,MBBS,GOVT,59850
+2020,M025,"Hassan Institute of Medical Sciences, Hassan",MEDICAL,MBBS,GOVT,59850
+2020,M031,"Karnataka Institute of Medical Sciences, Hubli",MEDICAL,MBBS,GOVT,59850
+2020,M077,"Kodagu Institute of Medical Sciences, Madikeri",MEDICAL,MBBS,GOVT,59850
+2020,M073,"Koppal Institute of Medical Sciences, Koppal",MEDICAL,MBBS,GOVT,59850
+2020,M024,"Mandya Institute of Medical Sciences, Mandya",MEDICAL,MBBS,GOVT,59850
+2020,M021,"Mysore Medical College & Research Institute, Mysore",MEDICAL,MBBS,GOVT,59850
+2020,M045,"Raichur Institute of Medical Sciences, Raichur",MEDICAL,MBBS,GOVT,59850
+2020,M063,"Shimoga Institute of Medical Sciences, shimoga",MEDICAL,MBBS,GOVT,59850
+2020,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MEDICAL,MBBS,GOVT,59850
+2020,M068,"BGS Global Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,GOVT,141196
+2020,M068,"BGS Global Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,PRIV,994406
+2020,M068,"BGS Global Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,NRI,4512450
+2020,M068,"BGS Global Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,OTHERS,4512450
+2020,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MEDICAL,MBBS,GOVT,141196
+2020,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MEDICAL,MBBS,PRIV,994406
+2020,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MEDICAL,MBBS,NRI,3687450
+2020,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MEDICAL,MBBS,OTHERS,3687450
+2020,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,GOVT,141196
+2020,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,PRIV,994406
+2020,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,NRI,3612450
+2020,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,OTHERS,3612450
+2020,M004,"M.S.Ramaiah Medical College, Bangalore",MEDICAL,MBBS,GOVT,141196
+2020,M004,"M.S.Ramaiah Medical College, Bangalore",MEDICAL,MBBS,PRIV,994406
+2020,M004,"M.S.Ramaiah Medical College, Bangalore",MEDICAL,MBBS,NRI,4012450
+2020,M004,"M.S.Ramaiah Medical College, Bangalore",MEDICAL,MBBS,OTHERS,4012450
+2020,M042,"Mahadevappa Rampure Medical College, Gulbarga",MEDICAL,MBBS,GOVT,141196
+2020,M042,"Mahadevappa Rampure Medical College, Gulbarga",MEDICAL,MBBS,PRIV,994406
+2020,M042,"Mahadevappa Rampure Medical College, Gulbarga",MEDICAL,MBBS,NRI,4022950
+2020,M042,"Mahadevappa Rampure Medical College, Gulbarga",MEDICAL,MBBS,OTHERS,4022950
+2020,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,GOVT,141196
+2020,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,PRIV,994406
+2020,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,NRI,6012450
+2020,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MEDICAL,MBBS,OTHERS,6012450
+2020,M033,"Al-Ameen Medical College, Bijapur",MEDICAL,MBBS,GOVT,141196
+2020,M033,"Al-Ameen Medical College, Bijapur",MEDICAL,MBBS,PRIV,994406
+2020,M033,"Al-Ameen Medical College, Bijapur",MEDICAL,MBBS,NRI,3012450
+2020,M033,"Al-Ameen Medical College, Bijapur",MEDICAL,MBBS,OTHERS,3012450
+2020,M008,"M.V.J.Medical College and Research Hospital, Bangalore",MEDICAL,MBBS,GOVT,141196
+2020,M008,"M.V.J.Medical College and Research Hospital, Bangalore",MEDICAL,MBBS,PRIV,994406
+2020,M008,"M.V.J.Medical College and Research Hospital, Bangalore",MEDICAL,MBBS,NRI,4012450
+2020,M008,"M.V.J.Medical College and Research Hospital, Bangalore",MEDICAL,MBBS,OTHERS,4012450
+2020,M043,"Navodaya Medical College, Raichur",MEDICAL,MBBS,GOVT,141196
+2020,M043,"Navodaya Medical College, Raichur",MEDICAL,MBBS,PRIV,994406
+2020,M043,"Navodaya Medical College, Raichur",MEDICAL,MBBS,NRI,3112450
+2020,M043,"Navodaya Medical College, Raichur",MEDICAL,MBBS,OTHERS,3112450
+2020,M023,"Adichunchanagiri Institute of Medical Sciences, Mandya",MEDICAL,MBBS,GOVT,144246
+2020,M023,"Adichunchanagiri Institute of Medical Sciences, Mandya",MEDICAL,MBBS,PRIV,1815500
+2020,M023,"Adichunchanagiri Institute of Medical Sciences, Mandya",MEDICAL,MBBS,NRI,3415500
+2020,M023,"Adichunchanagiri Institute of Medical Sciences, Mandya",MEDICAL,MBBS,OTHERS,3415500
+2020,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MEDICAL,MBBS,GOVT,144246
+2020,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MEDICAL,MBBS,PRIV,1745200
+2020,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MEDICAL,MBBS,NRI,3240500
+2020,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MEDICAL,MBBS,OTHERS,3240500
+2020,M032,"Jawaharalal Nehru Medical College, Belgaum",MEDICAL,MBBS,GOVT,144246
+2020,M053,"K.S.Hegde Medical Academy, Mangalore",MEDICAL,MBBS,GOVT,144246
+2020,M051,"Kasturba Medical College, Mangalore",MEDICAL,MBBS,GOVT,144246
+2020,M052,"Yenepoya Medical College, Mangalore",MEDICAL,MBBS,GOVT,204246
+2020,D101,"Government Dental College, Bangalore",DENTAL,BDS,GOVT,49850
+2020,D661,"Bapuji Dental College and Hospital, Davangere",DENTAL,BDS,GOVT,95808
+2020,D661,"Bapuji Dental College and Hospital, Davangere",DENTAL,BDS,PRIV,678473
+2020,D661,"Bapuji Dental College and Hospital, Davangere",DENTAL,BDS,NRI,362450
+2020,D661,"Bapuji Dental College and Hospital, Davangere",DENTAL,BDS,OTHERS,362450
+2020,D662,"College of Dental Sciences, Davangere",DENTAL,BDS,GOVT,95808
+2020,D662,"College of Dental Sciences, Davangere",DENTAL,BDS,PRIV,678473
+2020,D662,"College of Dental Sciences, Davangere",DENTAL,BDS,NRI,362450
+2020,D662,"College of Dental Sciences, Davangere",DENTAL,BDS,OTHERS,362450
+2020,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",DENTAL,BDS,GOVT,95808
+2020,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",DENTAL,BDS,PRIV,515500
+2020,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",DENTAL,BDS,NRI,515500
+2020,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",DENTAL,BDS,OTHERS,515500
+2020,D119,"K L E S Institute of Dental Sciences, Bangalore",DENTAL,BDS,GOVT,95808
+2020,D119,"K L E S Institute of Dental Sciences, Bangalore",DENTAL,BDS,PRIV,678473
+2020,D119,"K L E S Institute of Dental Sciences, Bangalore",DENTAL,BDS,NRI,562450
+2020,D119,"K L E S Institute of Dental Sciences, Bangalore",DENTAL,BDS,OTHERS,562450
+2020,D121,"K.G.F. College of Dental Sciences & Hospital, K.G.F",DENTAL,BDS,GOVT,95808
+2020,D121,"K.G.F. College of Dental Sciences & Hospital, K.G.F",DENTAL,BDS,PRIV,312450
+2020,D121,"K.G.F. College of Dental Sciences & Hospital, K.G.F",DENTAL,BDS,NRI,312450
+2020,D121,"K.G.F. College of Dental Sciences & Hospital, K.G.F",DENTAL,BDS,OTHERS,312450
+2020,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",DENTAL,BDS,GOVT,95808
+2020,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",DENTAL,BDS,PRIV,562450
+2020,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",DENTAL,BDS,NRI,562450
+2020,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",DENTAL,BDS,OTHERS,562450
+2020,D445,"S.B.Patil Dental College and Hospital, Bidar",DENTAL,BDS,GOVT,95808
+2020,D445,"S.B.Patil Dental College and Hospital, Bidar",DENTAL,BDS,PRIV,312450
+2020,D445,"S.B.Patil Dental College and Hospital, Bidar",DENTAL,BDS,NRI,402450
+2020,D445,"S.B.Patil Dental College and Hospital, Bidar",DENTAL,BDS,OTHERS,402450
+2020,D663,"Sharavathi Dental College & Hospital, Shimoga",DENTAL,BDS,GOVT,95808
+2020,D663,"Sharavathi Dental College & Hospital, Shimoga",DENTAL,BDS,PRIV,342450
+2020,D663,"Sharavathi Dental College & Hospital, Shimoga",DENTAL,BDS,NRI,342450
+2020,D663,"Sharavathi Dental College & Hospital, Shimoga",DENTAL,BDS,OTHERS,342450
+2020,D120,"Sri Venkateswara Dental College & Hospital, Bangalore",DENTAL,BDS,GOVT,95808
+2020,D120,"Sri Venkateswara Dental College & Hospital, Bangalore",DENTAL,BDS,PRIV,407450
+2020,D120,"Sri Venkateswara Dental College & Hospital, Bangalore",DENTAL,BDS,NRI,507450
+2020,D120,"Sri Venkateswara Dental College & Hospital, Bangalore",DENTAL,BDS,OTHERS,407450
+2020,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",DENTAL,BDS,GOVT,95808
+2020,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",DENTAL,BDS,PRIV,397450
+2020,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",DENTAL,BDS,NRI,412450
+2020,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",DENTAL,BDS,OTHERS,412450
+2020,D556,"A.J. Institute of Dental Sciences, Mangalore",DENTAL,BDS,GOVT,95808
+2020,D556,"A.J. Institute of Dental Sciences, Mangalore",DENTAL,BDS,PRIV,678473
+2020,D556,"A.J. Institute of Dental Sciences, Mangalore",DENTAL,BDS,NRI,712450
+2020,D556,"A.J. Institute of Dental Sciences, Mangalore",DENTAL,BDS,OTHERS,712450
+2020,D443,"Al- Badar Rural Dental College and Hospital, Kalaburagi",DENTAL,BDS,GOVT,95808
+2020,D443,"Al- Badar Rural Dental College and Hospital, Kalaburagi",DENTAL,BDS,PRIV,252450
+2020,D443,"Al- Badar Rural Dental College and Hospital, Kalaburagi",DENTAL,BDS,NRI,417450
+2020,D443,"Al- Badar Rural Dental College and Hospital, Kalaburagi",DENTAL,BDS,OTHERS,337450
+2020,D333,"Al-Ameen Dental College, Bijapur",DENTAL,BDS,GOVT,95808
+2020,D333,"Al-Ameen Dental College, Bijapur",DENTAL,BDS,PRIV,412450
+2020,D333,"Al-Ameen Dental College, Bijapur",DENTAL,BDS,NRI,412450
+2020,D333,"Al-Ameen Dental College, Bijapur",DENTAL,BDS,OTHERS,412450
+2020,D551,"Coorg Institute of Dental Sciences, Coorg",DENTAL,BDS,GOVT,95808
+2020,D551,"Coorg Institute of Dental Sciences, Coorg",DENTAL,BDS,PRIV,678473
+2020,D551,"Coorg Institute of Dental Sciences, Coorg",DENTAL,BDS,NRI,737450
+2020,D551,"Coorg Institute of Dental Sciences, Coorg",DENTAL,BDS,OTHERS,737450
+2020,D224,"Farooquia Dental College & Hospital, Mysore",DENTAL,BDS,GOVT,95808
+2020,D224,"Farooquia Dental College & Hospital, Mysore",DENTAL,BDS,PRIV,507450
+2020,D224,"Farooquia Dental College & Hospital, Mysore",DENTAL,BDS,NRI,707450
+2020,D224,"Farooquia Dental College & Hospital, Mysore",DENTAL,BDS,OTHERS,657450
+2020,D447,"Navodaya Dental College & Hospital, Raichur",DENTAL,BDS,GOVT,95808
+2020,D447,"Navodaya Dental College & Hospital, Raichur",DENTAL,BDS,PRIV,312450
+2020,D447,"Navodaya Dental College & Hospital, Raichur",DENTAL,BDS,NRI,312450
+2020,D447,"Navodaya Dental College & Hospital, Raichur",DENTAL,BDS,OTHERS,312450
+2020,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",DENTAL,BDS,GOVT,95808
+2020,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",DENTAL,BDS,PRIV,678473
+2020,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",DENTAL,BDS,NRI,712450
+2020,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",DENTAL,BDS,OTHERS,612450
+2020,D557,"Srinivasa Institute of Dental Science, Mangalore",DENTAL,BDS,GOVT,95808
+2020,D557,"Srinivasa Institute of Dental Science, Mangalore",DENTAL,BDS,PRIV,337450
+2020,D557,"Srinivasa Institute of Dental Science, Mangalore",DENTAL,BDS,NRI,412450
+2020,D557,"Srinivasa Institute of Dental Science, Mangalore",DENTAL,BDS,OTHERS,362450
+2020,D665,"Subbaiah Institute of Dental Sciences, shimoga",DENTAL,BDS,GOVT,95808
+2020,D665,"Subbaiah Institute of Dental Sciences, shimoga",DENTAL,BDS,PRIV,311950
+2020,D665,"Subbaiah Institute of Dental Sciences, shimoga",DENTAL,BDS,NRI,311950
+2020,D665,"Subbaiah Institute of Dental Sciences, shimoga",DENTAL,BDS,OTHERS,311950
+2020,D112,"The Oxford Dental College, Bangalore",DENTAL,BDS,GOVT,95808
+2020,D112,"The Oxford Dental College, Bangalore",DENTAL,BDS,PRIV,678473
+2020,D112,"The Oxford Dental College, Bangalore",DENTAL,BDS,NRI,682450
+2020,D112,"The Oxford Dental College, Bangalore",DENTAL,BDS,OTHERS,682450
+2020,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",DENTAL,BDS,GOVT,98858
+2020,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",DENTAL,BDS,PRIV,681523
+2020,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",DENTAL,BDS,NRI,879500
+2020,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",DENTAL,BDS,OTHERS,879500

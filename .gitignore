@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# SQLite databases (regenerated from schema)
+*.db
+
+# Raw PDFs (large, downloaded separately)
+data/raw/**/*.pdf
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Env
+.env

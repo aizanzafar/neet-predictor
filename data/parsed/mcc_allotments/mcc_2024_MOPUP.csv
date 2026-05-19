@@ -1,0 +1,983 @@
+year,round,authority,counselling_scope,rank_raw,air,rank_type,allotted_quota,college_raw,course,seat_category,candidate_category,status,source_id
+2024,MOPUP,MCC,AIQ,880,880,AIR,Open Seat Quota,"AIIMS, Rishikesh ,ALL INDIA INSTITUTE OF MEDICAL SCIENCES, RISHIKESH Uttarakhand - 249203, Uttarakhand, 249203",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,5074,5074,AIR,Open Seat Quota,"AIIMS, Raipur,Tatibandh, G E Road, Raipur Chhattisgarh, Pin - 492099, Chhattisgarh, 492099",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,5268,5268,AIR,All India,"KGMC, LUCKNOW,SHAHMINA ROAD, CHOWK, LUCKNOW, Uttar Pradesh, 226003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,5455,5455,AIR,Open Seat Quota,"AIIMS Rajkot,Admission cell, Academic section, First floor, Academic block, Permanent Campus, AIIMS Rajkot, Khand, Gujarat, 360110",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,6924,6924,AIR,All India,"Dr. B.S.A. Medical College, Delhi,DR.BABA SAHEB AMBEDKAR MEDICAL COLLEGE and HOSPITAL, ROHINI SEC-6, DELHI-110085, Delhi (NCT), 110085",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,7381,7381,AIR,Open Seat Quota,"AIIMS, Deogarh ,AIIMS Deoghar Devipur, Jharkhand India, PIN - 814152, Jharkhand, 814152",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,7484,7484,AIR,Open Seat Quota,"AIIMS Guwahati,PO-CHANGSARI, DISTRICT-KAMRUP, Assam, 781101",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,7512,7512,AIR,All India,"GOVT. MEDICAL COLLEGE,PATIALA,Sangrur road Government Medical College, Patiala, Punjab, 147001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,7607,7607,AIR,All India,"GRANT MEDICAL COLL & SIR J.J.HOSP,MUMBAI,Sir JJ Group of HospitalCompound, Sir JJ Road, Byculla Mumbai, Maharashtra, 400008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,7737,7737,AIR,All India,"B.J. Government Medical College, Pune,Sassoon Hospital Compound, Near Pune Railway station J.P. Narayan Road, Pune, Maharashtra, 411001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,7815,7815,AIR,All India,"SARDAR PATEL MEDICAL COLLEGE, BIKANER,MEDICAL COLLEGE ROAD, BIKANER, Rajasthan, 334003",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,7847,7847,AIR,All India,"S.N. MEDICAL COLLEGE, AGRA,HOSPITAL ROAD AGRA, Uttar Pradesh, 282002",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,7881,7881,AIR,All India,"GRANT MEDICAL COLL & SIR J.J.HOSP,MUMBAI,Sir JJ Group of HospitalCompound, Sir JJ Road, Byculla Mumbai, Maharashtra, 400008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,8150,8150,AIR,All India,"Govt institute of Medcial Sciences, GREATER NOIDA,GOVERNMENT INSTITUTE OF MEDICAL SCIENCES GREATER NOIDA GAUTAM BUDH NAGAR UTTAR PRADESH, Uttar Pradesh, 201310",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,8363,8363,AIR,Open Seat Quota,"JIPMER KARAIKAL,JIPMER Academic Campus, FCI Link Road, Kovilpathu, Karaikal - 609602, Puducherry, 609602",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,8841,8841,AIR,All India,"DR.S.N. MEDICAL COLLEGE, JODHPUR,RESIDENCY ROAD SHASTRI NAGAR JODHPUR RAJASTHAN 342 003, Rajasthan, 342003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,9144,9144,AIR,All India,"Hinduhridayasamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital, Maharashtra,JUHU, VILEPARLE WEST MUMBAI, Maharashtra, 400056",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,9293,9293,AIR,All India,"Indira Gandhi Institute of Medical Sciences, Patna,RAZA BAZAR, SHEIKHPURA, PATNA, Bihar, 800014",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,9550,9550,AIR,All India,"Indira Gandhi Institute of Medical Sciences, Patna,RAZA BAZAR, SHEIKHPURA, PATNA, Bihar, 800014",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,9761,9761,AIR,All India,"JAWAHAR LAL NEHRU MEDICAL, AJMER,NEAR PATEL STADIUM AJMER, Rajasthan, 305001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,9797,9797,AIR,All India,"Govt institute of Medcial Sciences, GREATER NOIDA,GOVERNMENT INSTITUTE OF MEDICAL SCIENCES GREATER NOIDA GAUTAM BUDH NAGAR UTTAR PRADESH, Uttar Pradesh, 201310",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,9920,9920,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, SURAT,Out Side Majura Gate, New Civil Hospital Campus, Opp. Income Tax office, Surat - 395001, Gujarat, 395001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,9991,9991,AIR,All India,"ESIC Medical College, Faridabad,NH 3 NIT FARIDABAD, Haryana, 121001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,10023,10023,AIR,All India,"GOVT.MEDICAL COLLEGE, AMRITSAR,CIRCULAR ROAD, AMRITSAR-143001, Punjab, 143001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,10099,10099,AIR,All India,"GOVT.MEDICAL COLLEGE, AMRITSAR,CIRCULAR ROAD, AMRITSAR-143001, Punjab, 143001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,10310,10310,AIR,All India,"Govt Medical College, Churu,Shekhawat Colony, Civil Lines Road,Churu, Rajasthan, 331001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,10496,10496,AIR,All India,"Govt Medical College, Nagaur Bikaner Road, Nagaur,pmo-nag-rj@nic.in, Rajasthan, 341001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,10596,10596,AIR,All India,"Pt. D.D.U MEDICAL COLLEGE, RAJKOT,Civil Hospital Campus, Jamnagar Road Rajkot 360001, Gujarat, 360001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,10667,10667,AIR,All India,"M.G.M. MEDICAL COLLEGE, INDORE,AB ROAD INDORE, Madhya Pradesh, 452001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,10744,10744,AIR,All India,"TOPIWALA NATIONAL MEDICAL COLLEGE,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai, Maharashtra, 400008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11154,11154,AIR,Open Seat Quota,"JIPMER KARAIKAL,JIPMER Academic Campus, FCI Link Road, Kovilpathu, Karaikal - 609602, Puducherry, 609602",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11266,11266,AIR,All India,"NALANDA MEDICAL COLLEGE, PATNA,OLD BYEPASS ROAD, KANKERBAGH, PATNA, Bihar, 800026",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,11430,11430,AIR,All India,"Hinduhridayasamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital, Maharashtra,JUHU, VILEPARLE WEST MUMBAI, Maharashtra, 400056",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11513,11513,AIR,All India,"ESIC Medical College, Hyderbad,Sanathnagar, Hyderabad, Telangana, 500038",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11770,11770,AIR,All India,"G.S.V.M. MEDICAL COLLEGE, KANPUR,G.S.V.M Medical College Kanpur Swaroop Nagar Kanpur U.P 208002, Uttar Pradesh, 208002",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11894,11894,AIR,All India,"NALANDA MEDICAL COLLEGE, PATNA,OLD BYEPASS ROAD, KANKERBAGH, PATNA, Bihar, 800026",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11935,11935,AIR,All India,"GOVT.MEDICAL COLLEGE, AMRITSAR,CIRCULAR ROAD, AMRITSAR-143001, Punjab, 143001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,11958,11958,AIR,All India,"JHALAWAR MEDICAL COLLEGE, Jhalawar ,NH-52, KOTA ROAD,JHALAWAR,RAJASTHAN, Rajasthan, 326001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,12205,12205,AIR,All India,"MOTI LAL NEHRU MEDICAL COLL, ALLAHABAD,Principal Office Moti Lal Nehru Medical College, Lowther Road George Town Prayagraj, Uttar Pradesh, 211001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,12216,12216,AIR,All India,"Pt. Jawahar Lal Nehru Govt. Med. College, Chamba,Pt. Jawaharlal Nehru Govt. Medical College Chamba, Himachal Pradesh, 176310",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,12400,12400,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,12508,12508,AIR,All India,"G.S.V.M. MEDICAL COLLEGE, KANPUR,G.S.V.M Medical College Kanpur Swaroop Nagar Kanpur U.P 208002, Uttar Pradesh, 208002",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,12566,12566,AIR,All India,"Shri Atal Bihari Vajpayee Medical College & Research Institute, Bengaluru,SHIVAJINAGAR, BENGALURU, Karnataka, 560001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,12851,12851,AIR,All India,"G.S.V.M. MEDICAL COLLEGE, KANPUR,G.S.V.M Medical College Kanpur Swaroop Nagar Kanpur U.P 208002, Uttar Pradesh, 208002",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,12863,12863,AIR,Open Seat Quota,"JIPMER KARAIKAL,JIPMER Academic Campus, FCI Link Road, Kovilpathu, Karaikal - 609602, Puducherry, 609602",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,12892,12892,AIR,All India,"CALCUTTA NATIONAL MED COLL,KOLKATA,32, GORACHAND ROAD, PARK CIRCUS, KOLKATA - 700014, West Bengal, 700014",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,12968,12968,AIR,All India,"GRANT MEDICAL COLL & SIR J.J.HOSP,MUMBAI,Sir JJ Group of HospitalCompound, Sir JJ Road, Byculla Mumbai, Maharashtra, 400008",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,12988,12988,AIR,All India,"Dr. B.R. Ambedkar State Institute of Medical Sciences ,Sector 56 Mohali, Punjab, 160055",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,13063,13063,AIR,All India,"Government Medical College, Pali,NH-62,SumerpurRoad,Ramasia.Hemawas,Pali, Rajasthan, 306401",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,13080,13080,AIR,All India,"B.R.D. MEDICAL COLLEGE, GORAKHPUR,MAHARAJGANJ ROAD,GORAKHPUR, Uttar Pradesh, 273013",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,13287,13287,AIR,All India,"MOTI LAL NEHRU MEDICAL COLL, ALLAHABAD,Principal Office Moti Lal Nehru Medical College, Lowther Road George Town Prayagraj, Uttar Pradesh, 211001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,13572,13572,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,13576,13576,AIR,All India,"Hinduhridayasamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital, Maharashtra,JUHU, VILEPARLE WEST MUMBAI, Maharashtra, 400056",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,13691,13691,AIR,All India,"MOTI LAL NEHRU MEDICAL COLL, ALLAHABAD,Principal Office Moti Lal Nehru Medical College, Lowther Road George Town Prayagraj, Uttar Pradesh, 211001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,13707,13707,AIR,All India,"NETAJI SUBHASH CHANDRA BOSE MC,JABALPUR,NAGPUR ROAD, JABALPUR, STATE-M.P.PIN-482003, Madhya Pradesh, 482003",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,13790,13790,AIR,All India,"STANLEY MEDICAL COLLEGE, CHENNAI,No.1, Old Jail Road Chennai, Tamil Nadu, 600001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,13976,13976,AIR,All India,"INDIRA GANDHI MEDICAL COLL., SHIMLA,IGMC SHIMLA NEAR LAKKARBAZAR SHIMLA, Himachal Pradesh, 171001",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,14252,14252,AIR,All India,"LOKMANYA TILAK MUNICIPAL M C,MUMBAI,Dr. Babasaheb Ambedkar Road, Sion, Mumbai, Maharashtra, 400022",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,14500,14500,AIR,All India,"INDIRA GANDHI GOVT.MEDICAL COLL., NAGPUR,MAYO HOSPITAL CENTRAL AVENUE ROAD NEAR RAM ZULA NAGPUR, Maharashtra, 440018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,14519,14519,AIR,All India,"Shri Atal Bihari Vajpayee Medical College & Research Institute, Bengaluru,SHIVAJINAGAR, BENGALURU, Karnataka, 560001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,14536,14536,AIR,All India,"TOPIWALA NATIONAL MEDICAL COLLEGE,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai, Maharashtra, 400008",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,14853,14853,AIR,All India,"JHALAWAR MEDICAL COLLEGE, Jhalawar ,NH-52, KOTA ROAD,JHALAWAR,RAJASTHAN, Rajasthan, 326001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,14883,14883,AIR,All India,"Dr. B.R. Ambedkar State Institute of Medical Sciences ,Sector 56 Mohali, Punjab, 160055",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,14887,14887,AIR,All India,"M.P. SHAH MEDICAL COLLEGE, JAMNAGAR,PANDIT NEHRU MARG, JAMNAGAR 361008, Gujarat, 361008",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15033,15033,AIR,All India,"RAJIV GANDHI MEDICAL COLLEGE, THANE,THANE BELAPUR ROAD KALWA THANE WEST, Maharashtra, 400605",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15060,15060,AIR,All India,"MAHARANI LAXMI BAI MEDICAL COLL,JHANSI,M.L.B. MEDICAL COLLEGE, KANPUR ROAD, JHANSI, Uttar Pradesh, 284128",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15265,15265,AIR,All India,"G.S.V.M. MEDICAL COLLEGE, KANPUR,G.S.V.M Medical College Kanpur Swaroop Nagar Kanpur U.P 208002, Uttar Pradesh, 208002",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15279,15279,AIR,All India,"RAJIV GANDHI MEDICAL COLLEGE, THANE,THANE BELAPUR ROAD KALWA THANE WEST, Maharashtra, 400605",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15315,15315,AIR,All India,"M.P. SHAH MEDICAL COLLEGE, JAMNAGAR,PANDIT NEHRU MARG, JAMNAGAR 361008, Gujarat, 361008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15425,15425,AIR,All India,"Pt. Jawahar Lal Nehru Govt. Med. College, Chamba,Pt. Jawaharlal Nehru Govt. Medical College Chamba, Himachal Pradesh, 176310",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15633,15633,AIR,All India,"Uttar Pradesh University of Medical Sciences, Saifai, Etawah,SAIFAI ETAWAH, Uttar Pradesh, 206130",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15666,15666,AIR,All India,"GOVT. MEDICAL COLLEGE, NAGPUR,Hanuman Nagar,Nagpur, Maharashtra, 440003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15691,15691,AIR,All India,"SETH G.S. MEDICAL COLLEGE, MUMBAI,ACHARYA DONDE MARG PAREL MUMBAI, Maharashtra, 400012",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,15709,15709,AIR,All India,"MYSORE MED.& RESEARCH INST. MYSORE,Mysore Medical College and Research Institute,Irwin Road, Mysore, Karnataka, 570021",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15738,15738,AIR,All India,"MOTI LAL NEHRU MEDICAL COLL, ALLAHABAD,Principal Office Moti Lal Nehru Medical College, Lowther Road George Town Prayagraj, Uttar Pradesh, 211001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15756,15756,AIR,All India,"GURU GOVIND SINGH MED COLL,FARIDKOT,Sadiq Road, Faridkot., Punjab, 151203",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,15821,15821,AIR,All India,"MOTI LAL NEHRU MEDICAL COLL, ALLAHABAD,Principal Office Moti Lal Nehru Medical College, Lowther Road George Town Prayagraj, Uttar Pradesh, 211001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15871,15871,AIR,All India,"GOVT. MEDICAL COLLEGE, NAGPUR,Hanuman Nagar,Nagpur, Maharashtra, 440003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15914,15914,AIR,All India,"Govt Medical College, Nagaur Bikaner Road, Nagaur,pmo-nag-rj@nic.in, Rajasthan, 341001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,15973,15973,AIR,All India,"R.G. KAR MEDICAL COLLEGE,KOLKATA,R G Kar Medical College 1 Khudiram bose sarani, Kolkata, West Bengal, 700004",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16029,16029,AIR,All India,"GOA MEDICAL COLLEGE, PANAJI,RAJIV GANDHI MEDICAL COMPLEX, BAMBOLIM, GOA, Goa, 403202",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16034,16034,AIR,All India,"Government Medical College, ESIC, Kollam,Parippally Kollam 691574, Kerala, 691574",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16056,16056,AIR,All India,"GURU GOVIND SINGH MED COLL,FARIDKOT,Sadiq Road, Faridkot., Punjab, 151203",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16071,16071,AIR,All India,"GOVT.MEDICAL COLLEGE, AMRITSAR,CIRCULAR ROAD, AMRITSAR-143001, Punjab, 143001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16185,16185,AIR,All India,"ESI-MC&PGIMS&R, Banglore,ESICMC AND PGIMSR, Rajajinagar, Bengaluru, Karnataka, 560010",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16249,16249,AIR,All India,"L.L.R.M. MEDICAL COLLEGE, MEERUT,LALA LAJPAT RAI MEMORIAL, MEDICAL COLLEGE, GARH ROAD, MEERUT, Uttar Pradesh, 250004",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16344,16344,AIR,All India,"SETH G.S. MEDICAL COLLEGE, MUMBAI,ACHARYA DONDE MARG PAREL MUMBAI, Maharashtra, 400012",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,16380,16380,AIR,All India,"GOVT. MEDICAL COLLEGE,TIRUNELVELI,DEAN, TIRUNELVELI MEDICAL COLLEGE, HIGHGROUND, TIRUNELVELI-11, Tamil Nadu, 627011",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16404,16404,AIR,All India,"SHRI ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, CHHAINSA, FARIDABAD,Shri Atal Bihari Vajpayee Government Medical College Chhainsa Faridabad, Haryana, 121004",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16484,16484,AIR,All India,"GOVT. MEDICAL COLLEGE,PATIALA,Sangrur road Government Medical College, Patiala, Punjab, 147001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16493,16493,AIR,All India,"M.G.M. MEDICAL COLLEGE,JAMSHEDPUR,Dimna Road, Mango, Jamshedpur, Jharkhand, 831020",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16537,16537,AIR,All India,"INDIRA GANDHI GOVT.MEDICAL COLL., NAGPUR,MAYO HOSPITAL CENTRAL AVENUE ROAD NEAR RAM ZULA NAGPUR, Maharashtra, 440018",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16610,16610,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16611,16611,AIR,Delhi University Quota,"Lady Hardinge Medical College, New Delhi,Lady Hardinge Medical College, Shaheed Bhagat Singh Marg, New Delhi, Delhi (NCT), 110001 (Female Seat only )",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,16728,16728,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16749,16749,AIR,All India,"Andhra Medical College, Visakhapatnam,MAHARANI PETA NEAR COLLECTORATE KGH CAMPUS VISAKHAPATNAM, Andhra Pradesh, 530002",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,16789,16789,AIR,All India,"Govt Medical College, Dungarpur,VILLAGE- THANA DUNGARPUR, Rajasthan, 314001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17060,17060,AIR,All India,"Goverment Medical College, Datia,NEAR 29TH BATTALION, N.H.75, DATIA, Madhya Pradesh, 475661",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17203,17203,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17236,17236,AIR,All India,"Govt Medical College Badaun,Gunera Wazidpur Ujhani Road Badaun U.P. 243601",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17237,17237,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17365,17365,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17532,17532,AIR,All India,"Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research,BADRINATH MARG, SRIKOT, SRINAGAR - PAURI GARHWAL, Uttarakhand, 246178",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17607,17607,AIR,All India,"Hinduhridayasamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital, Maharashtra,JUHU, VILEPARLE WEST MUMBAI, Maharashtra, 400056",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,17642,17642,AIR,All India,"Pt. J N M MEDICAL COLLEGE, RAIPUR,In front of Central Jail, Jail Road Raipur C.G., Chhattisgarh, 492001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17692,17692,AIR,All India,"S.N. MEDICAL COLLEGE, AGRA,HOSPITAL ROAD AGRA, Uttar Pradesh, 282002",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17702,17702,AIR,All India,"Govt. Medical College Rajanna Sircilla,GOVERNMENT MEDICAL COLLEGE NEAR KASTURBA GIRLS SCHOOL PEDDUR SIRCILLA DISTRICT RAJANNA SIRCILLA, Telangana, 505301",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17778,17778,AIR,All India,"GOVT. MOHAN KUMARAMANGALAM M.C.,SALEM,MAJEERA KOLLAPPATTI, Salem steel Plant Road Salem 636030 TamilNadu, Tamil Nadu, 636030",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17797,17797,AIR,All India,"Govt Medical College, Palakkad,NH-544, EAST YAKKARA, KUNNATHURMEDU POST, PALAKKAD-678013, Kerala, 678013",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17824,17824,AIR,All India,"Dr. B.R. Ambedkar State Institute of Medical Sciences ,Sector 56 Mohali, Punjab, 160055",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17849,17849,AIR,All India,"PT. B.D. SHARMA PGIMS, ROHTAK,Pt. B.D. Sharma PGIMS, Rohtak, Haryana, 124001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17873,17873,AIR,All India,"R.G. KAR MEDICAL COLLEGE,KOLKATA,R G Kar Medical College 1 Khudiram bose sarani, Kolkata, West Bengal, 700004",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,17880,17880,AIR,All India,"Govt. Medical College, Khandwa,Luv-Kush Nagar,Mundi Road,Khandwa (M.P.), Madhya Pradesh, 450001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,17890,17890,AIR,All India,"Government Medical College, Konni ,GOVERNMENT MEDICAL COLLEGE KONNI KUMMANNOOR PO KONNI PATHANAMTHITTA 689691, Kerala, 689691",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,18044,18044,AIR,All India,"MYSORE MED.& RESEARCH INST. MYSORE,Mysore Medical College and Research Institute,Irwin Road, Mysore, Karnataka, 570021",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18062,18062,AIR,All India,"SOBAN SINGH JEENA GOVERNMENT INSTITUTE OF MEDICAL SCIENCE & RESEARCH, ALMORA,Near Vikas Bhawan Pandeykhola Almora, Uttarakhand, 263601",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,18129,18129,AIR,All India,"Govt Medical college Shivpuri,Near Katha Mill, Gwalior Bypass Highway, Shivpuri, Madhya Pradesh, 473638",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,18181,18181,AIR,All India,"CALCUTTA NATIONAL MED COLL,KOLKATA,32, GORACHAND ROAD, PARK CIRCUS, KOLKATA - 700014, West Bengal, 700014",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18373,18373,AIR,All India,"Govt Medical College, Dungarpur,VILLAGE- THANA DUNGARPUR, Rajasthan, 314001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18499,18499,AIR,All India,"Goverment Medical College, Bettiah,Government Medical College Bettiah West Champaran Bihar- 845438, Bihar, 845438",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,18571,18571,AIR,All India,"MAHARANI LAXMI BAI MEDICAL COLL,JHANSI,M.L.B. MEDICAL COLLEGE, KANPUR ROAD, JHANSI, Uttar Pradesh, 284128",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18623,18623,AIR,All India,"BELGAUM INST. OF MEDICAL SCI., BELGAUM,DR B R AMBEDKAR ROAD BELAGAVI., Karnataka, 590001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,18675,18675,AIR,All India,"Uttar Pradesh University of Medical Sciences, Saifai, Etawah,SAIFAI ETAWAH, Uttar Pradesh, 206130",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18749,18749,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18812,18812,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,18927,18927,AIR,All India,"M.G.M. MEDICAL COLLEGE,JAMSHEDPUR,Dimna Road, Mango, Jamshedpur, Jharkhand, 831020",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18947,18947,AIR,All India,"Sagar Dutta Medical College & Hospital, Kolkata,578, B.T. Road, Kamarhati, Kolkata, West Bengal, 700058",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,18953,18953,AIR,All India,"KANYAKUMARI GOVT. MED. COLL.,ASARIPALLAM,ASARIPALLAM, KANYAKUMARI DISTRICT-629201, Tamil Nadu, 629201",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,18981,18981,AIR,All India,"Sagar Dutta Medical College & Hospital, Kolkata,578, B.T. Road, Kamarhati, Kolkata, West Bengal, 700058",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19036,19036,AIR,All India,"Diamond Harbour Govt Medical College,New Town, Post-Diamond Harbour, PS- Diamond Harbour, District South 24 Parganas, West Bengal, 743331",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19148,19148,AIR,All India,"Govt Medical College, Nagaur Bikaner Road, Nagaur,pmo-nag-rj@nic.in, Rajasthan, 341001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19185,19185,AIR,All India,"M.G.M. MEDICAL COLLEGE, INDORE,AB ROAD INDORE, Madhya Pradesh, 452001",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,19188,19188,AIR,All India,"Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research,BADRINATH MARG, SRIKOT, SRINAGAR - PAURI GARHWAL, Uttarakhand, 246178",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,19199,19199,AIR,All India,"Government Medical College, Banswara, Rajasthan,MADARESHWAR, RATLAM ROAD BANSWARA, Rajasthan, 327001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,19242,19242,AIR,All India,"NETAJI SUBHASH CHANDRA BOSE MC,JABALPUR,NAGPUR ROAD, JABALPUR, STATE-M.P.PIN-482003, Madhya Pradesh, 482003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19252,19252,AIR,All India,"Sagar Dutta Medical College & Hospital, Kolkata,578, B.T. Road, Kamarhati, Kolkata, West Bengal, 700058",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19274,19274,AIR,All India,"M.G.M. MEDICAL COLLEGE,JAMSHEDPUR,Dimna Road, Mango, Jamshedpur, Jharkhand, 831020",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19304,19304,AIR,All India,"GOVT. VELLORE MEDICAL COLLEGE, VELLORE,Government Vellore Medical College and Hospital, Adukkamparai, Vellore., Tamil Nadu, 632011",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19310,19310,AIR,All India,"KARNATAK INST. OF MEDICAL SC.,HUBLI,VIDYANAGAR HUBBALLI, Karnataka, 580021",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19356,19356,AIR,All India,"S.S. MEDICAL COLLEGE, REWA,NEAR DHOBIYA TANKI, JAIL ROAD, REWA, Madhya Pradesh, 486001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19360,19360,AIR,All India,"Government Medical College, Nilgiris,No. 1, INDU NAGAR, MYSORE ROAD, UDHAGAMANDALAM, NILGIRIS DISTRICT, Tamil Nadu, 643005",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19454,19454,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19481,19481,AIR,All India,"Dr. B.R. Ambedkar State Institute of Medical Sciences ,Sector 56 Mohali, Punjab, 160055",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19497,19497,AIR,All India,"Govt. Medical College, Srinagar,Administrative Block Government Medical College Karan Nagar Srinagar, Jammu And Kashmir, 190010",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19578,19578,AIR,All India,"ESIC Medical College AND PGIMSR, Chennai,ASHOK PILLAR ROAD KK NAGAR CHENNAI, Tamil Nadu, 600078",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19678,19678,AIR,All India,"Chhindwara Institute of Medical Sciences,Teachers Colony, Chhindwara, Madhya Pradesh 480001, Madhya Pradesh, 480001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19700,19700,AIR,All India,"MRA MEDICAL COLLEGE AMBEDKAR NAGAR, UP,VILLAGE SADDARPUR POST SURAPUR DISTRICT AMBEDKAR NAGAR, Uttar Pradesh, 224227",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19705,19705,AIR,All India,"GURU GOVIND SINGH MED COLL,FARIDKOT,Sadiq Road, Faridkot., Punjab, 151203",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,19739,19739,AIR,All India,"NETAJI SUBHASH CHANDRA BOSE MC,JABALPUR,NAGPUR ROAD, JABALPUR, STATE-M.P.PIN-482003, Madhya Pradesh, 482003",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,19816,19816,AIR,All India,"GOVT. MEDICAL COLLEGE,TIRUNELVELI,DEAN, TIRUNELVELI MEDICAL COLLEGE, HIGHGROUND, TIRUNELVELI-11, Tamil Nadu, 627011",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,19839,19839,AIR,All India,"GUWAHATI MEDICAL COLLEGE, GUWAHATI,Narakasur Hill top , Bhangagarh, Guwahati, Assam, 781032",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19861,19861,AIR,All India,"GOVT. MEDICAL COLLEGE,TIRUNELVELI,DEAN, TIRUNELVELI MEDICAL COLLEGE, HIGHGROUND, TIRUNELVELI-11, Tamil Nadu, 627011",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19932,19932,AIR,All India,"KARNATAK INST. OF MEDICAL SC.,HUBLI,VIDYANAGAR HUBBALLI, Karnataka, 580021",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,19978,19978,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, BARAN, RAJASTHAN,Melkhedi, Chhapar Melkhedi Road Baran, Rajasthan, 325205",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,20236,20236,AIR,All India,"BELGAUM INST. OF MEDICAL SCI., BELGAUM,DR B R AMBEDKAR ROAD BELAGAVI., Karnataka, 590001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20313,20313,AIR,All India,"Govt Medical College Faizabad ,GANJA PARGANA- HAVELI AWADH, TAHSIL- SADAR AYODHYA (FAIZABAD), Uttar Pradesh, 224001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,20340,20340,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, MIRAJ,Pandharpur Road Miraj tal Miraj Dist sangli, Maharashtra, 416410",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20403,20403,AIR,All India,"M.G.M. MEDICAL COLLEGE,JAMSHEDPUR,Dimna Road, Mango, Jamshedpur, Jharkhand, 831020",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20504,20504,AIR,All India,"Mahatma Vidur Autonomous State Medical College,Bijnor Uttar Pradesh,Mahatma Vidur Autonomous State Medical College, Village Madhusudanpur Devidas, Post Kiratpur, Naziba, Uttar Pradesh, 246731",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,20548,20548,AIR,All India,"BELGAUM INST. OF MEDICAL SCI., BELGAUM,DR B R AMBEDKAR ROAD BELAGAVI., Karnataka, 590001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,20551,20551,AIR,All India,"Govt. Pudukkottai Medical College Hopt., Pudukkott,MULLUR PUDUKKOTTAI PO PUDUKKOTTAI, Tamil Nadu, 622004",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,20617,20617,AIR,All India,"Government Medical College, Pali,NH-62,SumerpurRoad,Ramasia.Hemawas,Pali, Rajasthan, 306401",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,20670,20670,AIR,All India,"THENI GOVT. MEDICAL COLLEGE, THENI,G. Vilakku, Shanmugasundarapuram village, Aundipatti Taluk, Theni District, Tamil Nadu, 625512",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20708,20708,AIR,All India,"Government Medical College, Ariyalur ,1 COLLEGE ROAD GOVERNMENT MEDICAL COLLEGE ARIYALUR TAMIL NADU PIN 621713, Tamil Nadu, 621713",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20871,20871,AIR,All India,"Goverment Medical College, Bettiah,Government Medical College Bettiah West Champaran Bihar- 845438, Bihar, 845438",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20897,20897,AIR,All India,"BELGAUM INST. OF MEDICAL SCI., BELGAUM,DR B R AMBEDKAR ROAD BELAGAVI., Karnataka, 590001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,20961,20961,AIR,All India,"Autonomous State Medical College, Gonda,Chhavanni Sarkar Infront of Circuit House Gonda, Uttar Pradesh, 271001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,20991,20991,AIR,All India,"Dr. B.R. Ambedkar State Institute of Medical Sciences ,Sector 56 Mohali, Punjab, 160055",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21125,21125,AIR,All India,"Andhra Medical College, Visakhapatnam,MAHARANI PETA NEAR COLLECTORATE KGH CAMPUS VISAKHAPATNAM, Andhra Pradesh, 530002",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21127,21127,AIR,All India,"DR. VAISHAMPAYAM MEMORIAL M.C.,SHOLAPUR,In Front of District Civil Court, Solapur., Maharashtra, 413003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21165,21165,AIR,All India,"Government Medical College, Seoni, Madhya Pradesh,Government Medical College, Kandipaar Village, Seoni, Madhya Pradesh, 480661",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21173,21173,AIR,All India,"V.S.S. MEDICAL COLLEGE, BURLA,AYURVIHAR,BURLA, SAMBALPUR, Odisha, 768017",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,21294,21294,AIR,All India,"BURDWAN MEDICAL COLLEGE,BURDWAN,BURDWAN MEDICAL COLLEGE, BABURBAG, POST- RAJBATI, DIST- PURBA BARDHAMAN, PIN-713104,WEST BENGAL, West Bengal, 713104",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,21315,21315,AIR,All India,"HASSAN INST. MEDICAL SCIENCES, HASSAN,K R PURAM, BEHIND DC OFFICE,HASSAN, Karnataka, 573201",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21322,21322,AIR,All India,"BURDWAN MEDICAL COLLEGE,BURDWAN,BURDWAN MEDICAL COLLEGE, BABURBAG, POST- RAJBATI, DIST- PURBA BARDHAMAN, PIN-713104,WEST BENGAL, West Bengal, 713104",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21356,21356,AIR,All India,"Pt. Jawahar Lal Nehru Govt. Med. College, Chamba,Pt. Jawaharlal Nehru Govt. Medical College Chamba, Himachal Pradesh, 176310",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,21362,21362,AIR,All India,"Jannayak Karpoori Thakur Medical college and Hospital, Madhepura,JAJHAT SABAILA SINGHESHWAR ROAD DISTRICT MADHEPURA, Bihar, 852128",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21457,21457,AIR,All India,"Autonomous State Medical College Society , Mirzapur,MAA VINDHYAVASINI AUTONOMOUS STATE MEDICAL COLLEGE PIPARDARH, VISHUNDERPUR, MIRZAPUR, Uttar Pradesh, 231001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,21465,21465,AIR,All India,"CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES, BILASP,GOND PARA, SADAR BAZAAR BILASPUR - 495001 (CG), Chhattisgarh, 495001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21510,21510,AIR,All India,"Andhra Medical College, Visakhapatnam,MAHARANI PETA NEAR COLLECTORATE KGH CAMPUS VISAKHAPATNAM, Andhra Pradesh, 530002",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21535,21535,AIR,All India,"Government Medical College, Bhandara,District Hospital Campus, Sant Kabir Ward, Bhandara, Maharashtra, 441904",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,21568,21568,AIR,All India,"Rani Durgavati Medical College, Banda,RANI DURGAVATI MEDICAL COLLEGE, NARAINI ROAD, BANDA-210001, Uttar Pradesh, 210001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21573,21573,AIR,All India,"CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES, BILASP,GOND PARA, SADAR BAZAAR BILASPUR - 495001 (CG), Chhattisgarh, 495001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21607,21607,AIR,All India,"Diamond Harbour Govt Medical College,New Town, Post-Diamond Harbour, PS- Diamond Harbour, District South 24 Parganas, West Bengal, 743331",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21642,21642,AIR,All India,"Gmc, Bahraich,K.D.C Road Bahraich-271801, Uttar Pradesh, 271801",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,21670,21670,AIR,All India,"Govt Medical College Shahdol,GRAM CHAMPA KUDRI ROAD NEAR NEW BUS STAND SHAHDOL MP, Madhya Pradesh, 484001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,21726,21726,AIR,All India,"Govt Medical College Basti,RAMPUR TAHSIL SADAR BASTI BASTI, Uttar Pradesh, 272124",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21812,21812,AIR,All India,"Govt Medical College, Palakkad,NH-544, EAST YAKKARA, KUNNATHURMEDU POST, PALAKKAD-678013, Kerala, 678013",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,21816,21816,AIR,All India,"ESIC Medical College AND PGIMSR, Chennai,ASHOK PILLAR ROAD KK NAGAR CHENNAI, Tamil Nadu, 600078",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,21939,21939,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,22029,22029,AIR,All India,"BURDWAN MEDICAL COLLEGE,BURDWAN,BURDWAN MEDICAL COLLEGE, BABURBAG, POST- RAJBATI, DIST- PURBA BARDHAMAN, PIN-713104,WEST BENGAL, West Bengal, 713104",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22076,22076,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22098,22098,AIR,All India,"GMC, Shahjhanpur,AUTONOMOUS STATE MEDICAL COLLEGE ALLIED PANDIT RAM PRASAD BISMIL HOSPITAL SHAHJAHANPUR UTTAR PRADESH, Uttar Pradesh, 242001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22103,22103,AIR,All India,"Maharaja Jitendra Narayan Medical College and Hospital Coochbehar,Vivekananda Street, Pilkhana, Beside Panchanan Barma University, Coochbehar, West Bengal, 736101",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,22132,22132,AIR,All India,"Goverment Medical College And Hospital Jalgaon,GOVERNMENT MEDICAL COLLEGE, JILHA PETH, NEAR MAIN POST OFFICE, JALGAON, Maharashtra, 425001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22138,22138,AIR,All India,"Indira Gandhi Medical College & RI, Puducherry,Vazhudavour Road, Kadirkamam, Puducherry, 605009",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22238,22238,AIR,All India,"ASSAM MEDICAL COLLEGE, DIBRUGARH,Borbari, Dibrugarh, Assam, 786002",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22348,22348,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, MIRAJ,Pandharpur Road Miraj tal Miraj Dist sangli, Maharashtra, 416410",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22351,22351,AIR,All India,"Andhra Medical College, Visakhapatnam,MAHARANI PETA NEAR COLLECTORATE KGH CAMPUS VISAKHAPATNAM, Andhra Pradesh, 530002",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22360,22360,AIR,All India,"SWAMI RAMANAND TiRTH RURAL M.C,AMBAJOGAI,SWAMI RAMNAND TEERTH RURAL GOVERNMENT MEDICAL COLLEGE AMBAJOGAI DIST BEED MAHARASHTRA PIN-431517, Maharashtra, 431517",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22392,22392,AIR,All India,"SH VASANT RAO NAIK GOVT.M.C.,YAVATMAL,CIVIL LINES YAVATMAL, Maharashtra, 445001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22419,22419,AIR,All India,"Autonomous State Medical College, Lalitpur, U.P,Amarpur Galla Mandi Jhansi Road Lalitpur, Uttar Pradesh, 284403",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22472,22472,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,22481,22481,AIR,All India,"Government Medical College, Thiruvallur,BLOCK 1 MASTER PLAN COMPLEX THIRUVALLUR COLLECTORATE PERUMBAKKAM VILLAGE THIRUVALLUR, Tamil Nadu, 602001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22516,22516,AIR,All India,"GUNTUR MEDICAL COLLEGE, GUNTUR,Kannavarithoa Opp. NGOs Association Building, Andhra Pradesh, 522004",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22527,22527,AIR,All India,"Indira Gandhi Medical College & RI, Puducherry,Vazhudavour Road, Kadirkamam, Puducherry, 605009",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22531,22531,AIR,All India,"Government Medical College, Tiruppur,18 DHARAPURAM ROAD TIRUPPUR TAMILNADU 641608, Tamil Nadu, 641608",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22571,22571,AIR,All India,"Government Medical College, Baramulla ,Kanth Bagh Baramulla, Jammu and Kashmir, Jammu And Kashmir, 193101",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22573,22573,AIR,All India,"RIMS Srikakulam,Balaga Srikakulam, Andhra Pradesh, 532001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22647,22647,AIR,All India,"Mahatma Vidur Autonomous State Medical College,Bijnor Uttar Pradesh,Mahatma Vidur Autonomous State Medical College, Village Madhusudanpur Devidas, Post Kiratpur, Naziba, Uttar Pradesh, 246731",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22648,22648,AIR,All India,"Government Medical College, Nashik,Civil Hospital Campus Trimbakeshwar Road Nashik 422002, Maharashtra, 422002",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22670,22670,AIR,All India,"Indira Gandhi Medical College & RI, Puducherry,Vazhudavour Road, Kadirkamam, Puducherry, 605009",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22687,22687,AIR,All India,"Government Medical College, Mahabubabad,Government Medical College, Mahabubabad, 551-1-P Mahabubabad Village Mahabubabad, Telangana, 506101",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22690,22690,AIR,All India,"GMERS Medical College, Navsari,Adarsh Nivasi Shala Campus, At- Khambhlav, Po- Sultanpur, Via- Abrama, Ta - Jalalpore, Dist - Navsar, Gujarat, 396406",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22779,22779,AIR,All India,"MALDA MED. COLLEGE, MALDA,MaldaMedicalCollege, PS,EnglishBazar PO Dist Malda, West Bengal, 732101",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22814,22814,AIR,All India,"Andaman and Nicobar Islands Institute of Medical S,Director ANIIMS, DHS Annexe Building, Atlanta Point, Port Blair-744104, Andaman And Nicobar Islands, 744104",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,22988,22988,AIR,All India,"Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur,Rajarshee Chhatrapati Shahu Maharaj Government Medical College, R. K. Nagar Road, Shenda Park, Kol, Maharashtra, 416012",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,22995,22995,AIR,All India,"Lt. B R K Government Medical College, Jagdalpur,LATE BALIRAM KASHYAP MEMORIAL GOVT. MEDICAL COLLEGE, DIMRAPAL GEEDAM ROAD , JAGDALPUR DIST-BASTAR, Chhattisgarh, 494001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23104,23104,AIR,All India,"Koppal Institute of Medical Sciences,DIRECTOR, KIMS,KOPPAL. GAGNAVATI ROAD, KIDDIDAL GATE,KOPPAL-583231, Karnataka, 583231",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23116,23116,AIR,All India,"MIDNAPORE MEDICAL COLLEGE, MIDNAPUR,5 Vidyasagar Road Midnapore 721101 Paschim Medinipur, West Bengal, 721101",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23123,23123,AIR,All India,"RAICHUR INST. OF MEDICAL SCI., RAICHUR,RAICHUR INSTITUTE OF MEDICAL SCIENCES INDUSTRIAL AREA, HYDERABAD ROAD, RAICHUR, Karnataka 584102, Karnataka, 584102",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23159,23159,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, OSMANABAD,New Building, Civil Hospital Compound, Marwad Galli, Osmanabad, Maharashtra, 413501",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23183,23183,AIR,All India,"Sri Jagannath Medical College & Hospital, Puri,BALIGUALI SAMANGARA PURI PIN 752004 (ODISHA), Odisha, 752004",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23204,23204,AIR,All India,"MG Inst. of Medical Sciences, Sevagram Wardha,VILLAGE AND PO SEVAGRAM DISTRICT WARDHA MAHARASHTRA 442102, Maharashtra, 442102",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23216,23216,AIR,All India,"Government Medical College, Mumbai, Maharashtra,Gokuldas Tejpal Hospital Premises L T Marg Near L T Marg Police Station Mumbai, Maharashtra, 400001",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,23237,23237,AIR,All India,"MIDNAPORE MEDICAL COLLEGE, MIDNAPUR,5 Vidyasagar Road Midnapore 721101 Paschim Medinipur, West Bengal, 721101",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23342,23342,AIR,All India,"MAHARAJA K.C. GAJAPATI M.C.,BRAHMAPUR,MKCG MEDICAL COLLEGE CAMPUS, BERHAMPUR, GANJAM, Odisha, 760004",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23365,23365,AIR,All India,"Government Medical college, Ambernath,Dr. B. G. CHHAYA SUB DISTRICT HOSPITAL,AMBERNATH MUNICIPALITY, SHIV MARKET, AMBERNATH, MAHARASHTRA 4, Maharashtra, 421501",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23389,23389,AIR,All India,"Government Medical College, Nashik,Civil Hospital Campus Trimbakeshwar Road Nashik 422002, Maharashtra, 422002",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23480,23480,AIR,All India,"Government Medical College, Kanker, Chhattisgarh,Late Smt. Indira Gandhi Memorial Government Medical College, Kanker, Chhattisgarh, Chhattisgarh, 494334",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23512,23512,AIR,All India,"Government Medical College, Konni ,GOVERNMENT MEDICAL COLLEGE KONNI KUMMANNOOR PO KONNI PATHANAMTHITTA 689691, Kerala, 689691",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23609,23609,AIR,All India,"Govt Medical College, Idukki,Principal, Govt Medical College Idukki, Idukki colony P.O.,Idukki District, Kerala, 685602",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23675,23675,AIR,All India,"Government Medical College and ESIC Hospital, Coimbatore,KAMARAJAR ROAD, VARADHARAJAPURAM, SINGANALLUR, COIMBATORE, Tamil Nadu, 641015",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,23687,23687,AIR,All India,"MG Inst. of Medical Sciences, Sevagram Wardha,VILLAGE AND PO SEVAGRAM DISTRICT WARDHA MAHARASHTRA 442102, Maharashtra, 442102",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23705,23705,AIR,All India,"Government Medical College, Doda,Government Medical College & Hospital Ghat Doda, Jammu And Kashmir, 182202",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23712,23712,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, HANDWARA,MAIDAN CHOGAL, HANDWARA, KUPWARA, Jammu And Kashmir, 193221",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23741,23741,AIR,All India,"Indira Gandhi Medical College & RI, Puducherry,Vazhudavour Road, Kadirkamam, Puducherry, 605009",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23802,23802,AIR,Deemed/Paid Seats Quota,"Hamdard Inst of Med Sciences and Research, New Delhi,HIMSR, Guru Ravidas Marg, Hamdard Nagar, New Delhi, Delhi (NCT), 110062",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23839,23839,AIR,All India,"Medinirai Medical College (previously Known as Palamu Medical College), Palamu,Pokhraha Khurd, P.O- Rajwadih, P.S- Medininagar, Dist. Palamu, Jharkhand, 822118",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23856,23856,AIR,All India,"RAICHUR INST. OF MEDICAL SCI., RAICHUR,RAICHUR INSTITUTE OF MEDICAL SCIENCES INDUSTRIAL AREA, HYDERABAD ROAD, RAICHUR, Karnataka 584102, Karnataka, 584102",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23892,23892,AIR,All India,"Government Medical College Khaleelwadi,R.P.Road, Near Bustand, Khaleelwadi Nizamabad, Telangana, 503001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23918,23918,AIR,All India,"Mursidabad M C & Hospital, Mursidabad,STATION ROAD, P.O. AND P.S. BERHAMPORE, DIST. MURSHIDABAD, West Bengal, 742101",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23931,23931,AIR,All India,"RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT ,RAMPURHAT GOVERNMENT MEDICAL COLLEGE AND HOSPITAL PO RAMPURHAT PS RAMPURHAT PIN 731224 DIST BIRBHUM, West Bengal, 731224",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23948,23948,AIR,All India,"Government Medical College Nirmal,530 PRIYADARSHINI NAGAR NIRMAL, Telangana, 504106",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23954,23954,AIR,All India,"Government Medical College & Hospital, Jalpaiguri,Hospital Road, Jalpaiguri, West Bengal- 735101, West Bengal, 735101",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,23962,23962,AIR,All India,"RAICHUR INST. OF MEDICAL SCI., RAICHUR,RAICHUR INSTITUTE OF MEDICAL SCIENCES INDUSTRIAL AREA, HYDERABAD ROAD, RAICHUR, Karnataka 584102, Karnataka, 584102",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,23981,23981,AIR,All India,"MG Inst. of Medical Sciences, Sevagram Wardha,VILLAGE AND PO SEVAGRAM DISTRICT WARDHA MAHARASHTRA 442102, Maharashtra, 442102",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24071,24071,AIR,All India,"Deben Mahata Government Medical College & Hospital,Vill Hatuara PO Vivekananda Nagar PS Purulia Muffasil Dist Purulia Pin 723147, West Bengal, 723147",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24090,24090,AIR,All India,"NEIGRIHMS, SHILLONG,Mawdiangdiang Shillong East Khasi Hills District, Meghalaya, 793018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24167,24167,AIR,All India,"Government of Medical College and Hospital, Balasore,Remuna, Balasore, 756019, Odisha, 756019",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24203,24203,AIR,All India,"Govt. Medical College Rajanna Sircilla,GOVERNMENT MEDICAL COLLEGE NEAR KASTURBA GIRLS SCHOOL PEDDUR SIRCILLA DISTRICT RAJANNA SIRCILLA, Telangana, 505301",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24212,24212,AIR,All India,"Haveri Institute of Medical Sciences, Karnataka,Devagiri-Yellapura, Haveri-581110, Karnataka, 581110",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24245,24245,AIR,All India,"Govt Medical College Baramati,Plot No P107 MIDC area Opposite Women Hospital Baramati Taluka Baramati District Pune, Maharashtra, 413133",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,24269,24269,AIR,All India,"GMERS Medical College, Porbandar,Nr. Maharani Rupaliba Lady Hospital, ST bus station road, Porbandar, Gujarat, 360575",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24272,24272,AIR,All India,"Government Medical College & Hospital, Jalpaiguri,Hospital Road, Jalpaiguri, West Bengal- 735101, West Bengal, 735101",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24273,24273,AIR,All India,"Sri Jagannath Medical College & Hospital, Puri,BALIGUALI SAMANGARA PURI PIN 752004 (ODISHA), Odisha, 752004",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24284,24284,AIR,All India,"Government Medical College, Sundargarh,At-Chitabhanga,Po-Sankara,Dist- Sundargarh,Odisha,Pin-770001, Odisha, 770001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24331,24331,AIR,All India,"Chitradurga Medical College and Research Institute,P B Road Chitradurga, Karnataka, 577501",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24421,24421,AIR,All India,"Haveri Institute of Medical Sciences, Karnataka,Devagiri-Yellapura, Haveri-581110, Karnataka, 581110",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24458,24458,AIR,All India,"Government Medical College, Amravati ,Government Medical College District Women Hospital Campus Daffrin Shrikrishna Peth Amravati, Maharashtra, 444601",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24497,24497,AIR,All India,"GMERS Medical College, Panchmahal Godhra,Government Engineering College Campus, Godhra Lunawada Road, Chabanpur, Godhra, Gujarat, 389001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24500,24500,AIR,All India,"Chikkamagaluru Institute of Medical Sciences,DIRECTOR CHIKKAMAGALURU INSTITUTE OF MEDICAL SCIENCES ARALAGUPPE MALLEGOWDA DISTRICT HOSPITAL TEG, Karnataka, 577101",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24628,24628,AIR,All India,"Government Medical College, Kanker, Chhattisgarh,Late Smt. Indira Gandhi Memorial Government Medical College, Kanker, Chhattisgarh, Chhattisgarh, 494334",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24633,24633,AIR,All India,"GMC Jangaon,gmc.jangaon@gmail.com, Telangana, 506167",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24664,24664,AIR,All India,"Government Medical College, Hingoli,Government Medical College, Washim Road, Balsond, Hingoli, Maharashtra, 431513",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24692,24692,AIR,All India,"Haveri Institute of Medical Sciences, Karnataka,Devagiri-Yellapura, Haveri-581110, Karnataka, 581110",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24699,24699,AIR,All India,"Lt. B R K Government Medical College, Jagdalpur,LATE BALIRAM KASHYAP MEMORIAL GOVT. MEDICAL COLLEGE, DIMRAPAL GEEDAM ROAD , JAGDALPUR DIST-BASTAR, Chhattisgarh, 494001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24710,24710,AIR,All India,"Saheed Laxman Nayak Med. College and Hos., Koraput,AT-JANIGUDA,KORAPUT, Odisha, 764020",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24714,24714,AIR,All India,"Saheed Rendo Majhi Medical College & Hospital, Bhawanipatna, Kalahandi,Odisha,At - Bhangabari, P.O. - Uditnarayanpur, Bhawanipatna, Dist - Kalahandi, Odisha, 766002",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24716,24716,AIR,All India,"RIMS Srikakulam,Balaga Srikakulam, Andhra Pradesh, 532001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24727,24727,AIR,All India,"Government Medical College and Hospital, Jajpur, Odisha (Renamed as Jajati Keshari Medical College and Hospital, Jajpur),Dean and Principal, Government Medical College and Hospital, Jajpur, Odisha Renamed as Jajati Keshar, Odisha, 755001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24731,24731,AIR,All India,"Chikkamagaluru Institute of Medical Sciences,DIRECTOR CHIKKAMAGALURU INSTITUTE OF MEDICAL SCIENCES ARALAGUPPE MALLEGOWDA DISTRICT HOSPITAL TEG, Karnataka, 577101",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24735,24735,AIR,All India,"Government Medical College, Amravati ,Government Medical College District Women Hospital Campus Daffrin Shrikrishna Peth Amravati, Maharashtra, 444601",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24738,24738,AIR,All India,"GOVT MEDICAL COLLEGE, WANAPARTHY ,Marrikunta, Pebbair Road, Wanaparthy District, Telangana state., Telangana, 509103",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24744,24744,AIR,All India,"GOVT MEDICAL COLLEGE VIZIANAGARAM,Opposite Central Tribal University , Near JNTU Gajularega, Vizianagaram, Andhra Pradesh, 535003, Andhra Pradesh, 535003",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24749,24749,AIR,All India,"GMERS Medical College, Porbandar,Nr. Maharani Rupaliba Lady Hospital, ST bus station road, Porbandar, Gujarat, 360575",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24763,24763,AIR,All India,"Lakhimpur Medical College, North Lakhimpur, Assam,Chowkham Saboti North Lakhimpur Lakhimpur, Assam, 787051",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24767,24767,AIR,All India,"GOVT MEDICAL COLLEGE VIZIANAGARAM,Opposite Central Tribal University , Near JNTU Gajularega, Vizianagaram, Andhra Pradesh, 535003, Andhra Pradesh, 535003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24782,24782,AIR,All India,"Government Medical College, Washim,Government Medical College, Washim District womens Hospital building, Nalanda Nagar, Chikhali Road, Maharashtra, 444505",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24795,24795,AIR,All India,"GMERS Medical College, Rajpipla,GMERS Medical College, Rajpipla Near Jakat Naka, Vadia Palace, Rajpipla Dist Narmada, GUJARAT., Gujarat, 393145",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24826,24826,AIR,All India,"GOVT MEDICAL COLLEGE VIZIANAGARAM,Opposite Central Tribal University , Near JNTU Gajularega, Vizianagaram, Andhra Pradesh, 535003, Andhra Pradesh, 535003",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24827,24827,AIR,All India,"Government Medical College, Bhadradri, Kothagudem,Besides Sammakka Saarakka temple, Opp KSM Petrol bunk, end of 6th Battalion Rd, Palvancha, Telangana, Telangana, 507118",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24829,24829,AIR,All India,"GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM ,KARA AGRAHARAM NEAR RADAR STATION MACHILIPATNAM, Andhra Pradesh, 521001",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24834,24834,AIR,All India,"Chitradurga Medical College and Research Institute,P B Road Chitradurga, Karnataka, 577501",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24861,24861,AIR,All India,"Government Medical College, Narayanpet, Telangana,Government Medical College Narayanpet Jajapur Narayanpet District Telangana Pincode 509210, Telangana, 509210",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24864,24864,AIR,All India,"Government Medical College, Nagarkurnool,Sy no. 237, Uyyalawada village, Nanagarkurnool, Telangana, 509209",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24873,24873,AIR,All India,"GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM ,KARA AGRAHARAM NEAR RADAR STATION MACHILIPATNAM, Andhra Pradesh, 521001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24878,24878,AIR,All India,"GMERS Medical College, Porbandar,Nr. Maharani Rupaliba Lady Hospital, ST bus station road, Porbandar, Gujarat, 360575",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24879,24879,AIR,All India,"Lakhimpur Medical College, North Lakhimpur, Assam,Chowkham Saboti North Lakhimpur Lakhimpur, Assam, 787051",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24891,24891,AIR,All India,"GMERS Medical College, Navsari,Adarsh Nivasi Shala Campus, At- Khambhlav, Po- Sultanpur, Via- Abrama, Ta - Jalalpore, Dist - Navsar, Gujarat, 396406",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24892,24892,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, HANDWARA,MAIDAN CHOGAL, HANDWARA, KUPWARA, Jammu And Kashmir, 193221",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24894,24894,AIR,All India,"Government Medical College Nirmal,530 PRIYADARSHINI NAGAR NIRMAL, Telangana, 504106",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24937,24937,AIR,All India,"Government Medical College, Maheshwaram, Telangana,Government Medical College Maheshwaram Govt Area Hospital Vanasthalipuram Sachivalaya Nagar Vanas, Telangana, 500070",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24940,24940,AIR,All India,"Govt. Medical College Jayashankar Bhupalpally,Manzoor Nagar Road, Besides thousand quarters, Jayashankar, Bhupalpally, Telangana, 506169",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,24944,24944,AIR,All India,"Govt. Medical College Rajanna Sircilla,GOVERNMENT MEDICAL COLLEGE NEAR KASTURBA GIRLS SCHOOL PEDDUR SIRCILLA DISTRICT RAJANNA SIRCILLA, Telangana, 505301",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24946,24946,AIR,All India,"Government Medical College, Bhadradri, Kothagudem,Besides Sammakka Saarakka temple, Opp KSM Petrol bunk, end of 6th Battalion Rd, Palvancha, Telangana, Telangana, 507118",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24958,24958,AIR,All India,"Govt Medical College Vikarabad ,ANANTHAGIRI HILLS VIKARABAD VIKARABAD DISTRICT TELANGANA 501101, Telangana, 501101",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24964,24964,AIR,All India,"Govt. Medical College Rajanna Sircilla,GOVERNMENT MEDICAL COLLEGE NEAR KASTURBA GIRLS SCHOOL PEDDUR SIRCILLA DISTRICT RAJANNA SIRCILLA, Telangana, 505301",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24979,24979,AIR,All India,"GOVERNMENT MEDICAL COLLEGE ,MEDAK,PILLIKOTYAL, MEDAK MANDAL, MEDAK DISTRICT, Telangana, 502110",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24984,24984,AIR,All India,"ASSAM MEDICAL COLLEGE, DIBRUGARH,Borbari, Dibrugarh, Assam, 786002",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24993,24993,AIR,All India,"Government Medical College Narsampet, Telangana,Sarwapuram, Pakhal road, Land mark- Bharath petrol pump, Narsamapet, Telangana, 506132",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,24994,24994,AIR,All India,"JLN IMS, IMPHAL,Prompat, Imphal East, Manipur, Manipur, 795005",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25001,25001,AIR,All India,"REGIONAL INST OF MEDICAL SCI, IMPHAL,PO Lamphelpat, Imphal West District, Manipur, 795004",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25002,25002,AIR,All India,"Tinsukia Medical College & Hospital, Tinsukia,Lohari Bangali Gaon, Tinsukia, Assam, 786146",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25004,25004,AIR,All India,"Government medical College, Thalarasingi village, Paderu,THALARASINGI VILLAGE,PADERU, ASR DISTRICT, Andhra Pradesh, 524341",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25005,25005,AIR,All India,"GMERS Medical College, Panchmahal Godhra,Government Engineering College Campus, Godhra Lunawada Road, Chabanpur, Godhra, Gujarat, 389001",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25013,25013,AIR,All India,"Andaman and Nicobar Islands Institute of Medical S,Director ANIIMS, DHS Annexe Building, Atlanta Point, Port Blair-744104, Andaman And Nicobar Islands, 744104",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25019,25019,AIR,All India,"AGARTALA GOVT. MEDICAL COLLEGE,AGARTALA,Kunjaban, Agartala, Tripura West, Tripura, 799006",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25028,25028,AIR,All India,"Andaman and Nicobar Islands Institute of Medical S,Director ANIIMS, DHS Annexe Building, Atlanta Point, Port Blair-744104, Andaman And Nicobar Islands, 744104",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25029,25029,AIR,All India,"Kokrajhar Medical College & Hospital Rangalikhata,Rangalikhata Pt.-1, Kokrajhar, Assam, 783370",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25032,25032,AIR,All India,"NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE, KOHIMA - 797001,Phreibagei, Kohima, Nagaland, 797001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,25036,25036,AIR,All India,"ZORAM MEDICAL COLLEGE Falkawn,Falkawn, Aizawl District, Mizoram, 796005",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25038,25038,AIR,All India,"GMERS Medical College, Porbandar,Nr. Maharani Rupaliba Lady Hospital, ST bus station road, Porbandar, Gujarat, 360575",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25044,25044,AIR,All India,"Government Medical College, Churachandpur,Hiangtam Lamka, I.B. Road, Churachandpur District, Manipur, 795128",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25047,25047,AIR,All India,"Government Medical College, Churachandpur,Hiangtam Lamka, I.B. Road, Churachandpur District, Manipur, 795128",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25050,25050,AIR,All India,"Government Medical College, Churachandpur,Hiangtam Lamka, I.B. Road, Churachandpur District, Manipur, 795128",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25056,25056,AIR,All India,"GMERS Medical College, Rajpipla,GMERS Medical College, Rajpipla Near Jakat Naka, Vadia Palace, Rajpipla Dist Narmada, GUJARAT., Gujarat, 393145",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25058,25058,AIR,All India,"ZORAM MEDICAL COLLEGE Falkawn,Falkawn, Aizawl District, Mizoram, 796005",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25073,25073,AIR,All India,"Government Medical College, Churachandpur,Hiangtam Lamka, I.B. Road, Churachandpur District, Manipur, 795128",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25079,25079,AIR,All India,"Andaman and Nicobar Islands Institute of Medical S,Director ANIIMS, DHS Annexe Building, Atlanta Point, Port Blair-744104, Andaman And Nicobar Islands, 744104",MBBS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25094,25094,AIR,All India,"Government Medical College, Kathua,Chak Sajjan Kathua, Jammu And Kashmir, 184101",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,25196,25196,AIR,All India,"Maulana Azad Institute of Dental Sciences, New Delhi,MAMC Complex, B.S. Zafar Marg, New Delhi, Delhi (NCT), 110002",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25321,25321,AIR,All India,"Bhima Bhoi Medical College and Hospital , Balangir,PO - Rajendra College, District- Balangir, Odisha., Odisha, 767002",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,25535,25535,AIR,All India,"ESIC Dental College and Hospital Rohini,ESIC DENTAL COLLEGE AND HOSPITAL SECTOR 15 ROHINI, Delhi (NCT), 110085",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25752,25752,AIR,Delhi University Quota,"Maulana Azad Institute of Dental Sciences, New Delhi,MAMC Complex, B.S. Zafar Marg, New Delhi, Delhi (NCT), 110002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,25867,25867,AIR,All India,"Maulana Azad Institute of Dental Sciences, New Delhi,MAMC Complex, B.S. Zafar Marg, New Delhi, Delhi (NCT), 110002",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25878,25878,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25895,25895,AIR,Delhi University Quota,"Maulana Azad Institute of Dental Sciences, New Delhi,MAMC Complex, B.S. Zafar Marg, New Delhi, Delhi (NCT), 110002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,25937,25937,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25956,25956,AIR,All India,"FACULTY OF DEN SCI, KG MED UNIV,LUCKNOW,SHAHMINA ROAD, CHOWK,LUCKNOW, Uttar Pradesh, 226003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,25967,25967,AIR,All India,"JLN IMS, IMPHAL,Prompat, Imphal East, Manipur, Manipur, 795005",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,26149,26149,AIR,Open Seat Quota,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi,Faculty of Dentistry Jamia Millia Islamia A Central University Maulana Mohammad Ali Jauhar Marg, Delhi (NCT), 110025",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,26156,26156,AIR,All India,"BANKURA SAMMILANI MED COLL,BANKURA,Principal, Bankura Sammilani Medical College, Lokepur, PO- Kenduadihi, Bankura, Pin- 722102, West Bengal, 722102",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,26205,26205,AIR,Open Seat Quota,"Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH,ALIGARH MUSLIM UNIVERSITY, ALIGARH, Uttar Pradesh, 202002",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,26282,26282,AIR,All India,"Lt. B R K Government Medical College, Jagdalpur,LATE BALIRAM KASHYAP MEMORIAL GOVT. MEDICAL COLLEGE, DIMRAPAL GEEDAM ROAD , JAGDALPUR DIST-BASTAR, Chhattisgarh, 494001",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,26444,26444,AIR,All India,"Government Medical College and District General Hospital,Ratnagiri,Hodekar Road, Udyamnagar, Patwardhanwadi, Ratnagiri, Maharashtra-415612, Maharashtra, 415612",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,26471,26471,AIR,All India,"Indira Gandhi Medical College & RI, Puducherry,Vazhudavour Road, Kadirkamam, Puducherry, 605009",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,26585,26585,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,26953,26953,AIR,All India,"Chitradurga Medical College and Research Institute,P B Road Chitradurga, Karnataka, 577501",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,27037,27037,AIR,All India,"GOVT. DENTAL COLLEGE, KOZIKODE,MEDICAL COLLEGE CAMPUS, MEDICAL COLLEGE P.O., KOZHIKODE, Kerala, 673008",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,27085,27085,AIR,All India,"GMERS Medical College, Porbandar,Nr. Maharani Rupaliba Lady Hospital, ST bus station road, Porbandar, Gujarat, 360575",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,27120,27120,AIR,All India,"RUHS College of Dental Science, Jaipur,Ruhs College of dental science , johtwara road jaipur, Rajasthan, 302016",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,27152,27152,AIR,All India,"GOVT. DENTAL COLLEGE, TRIVANDRUM,Govt Dental College Thiruvananthapuram Kerala, Kerala, 695011",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,27248,27248,AIR,All India,"Government Medical College, Omandurar,GOVERNMENT MEDICAL COLLEGE, OMANDURAR GOVERNMENT ESTATE, WALAJA ROAD, CHENNAI - 600 002., Tamil Nadu, 600002",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,27298,27298,AIR,All India,"Deben Mahata Government Medical College & Hospital,Vill Hatuara PO Vivekananda Nagar PS Purulia Muffasil Dist Purulia Pin 723147, West Bengal, 723147",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,27343,27343,AIR,Open Seat Quota,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi,Faculty of Dentistry Jamia Millia Islamia A Central University Maulana Mohammad Ali Jauhar Marg, Delhi (NCT), 110025",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,27345,27345,AIR,All India,"Government Medical College, ESIC, Kollam,Parippally Kollam 691574, Kerala, 691574",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,27635,27635,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,27846,27846,AIR,All India,"THANJAVUR MEDICAL COLL.,THANJAVUR,Thanjavur Medical College,Thanjavur, Tamil Nadu, 613004",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,27867,27867,AIR,Open Seat Quota,"Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH,ALIGARH MUSLIM UNIVERSITY, ALIGARH, Uttar Pradesh, 202002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,27918,27918,AIR,All India,"GDC,PT.BDS UNIV.OF HEALTH SCI,ROHTAK,Post Graduate Institute of Dental Sciences, Rohtak, Haryana, 124001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,28512,28512,AIR,All India,"GMC Jangaon,gmc.jangaon@gmail.com, Telangana, 506167",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,28524,28524,AIR,Deemed/Paid Seats Quota,"Manipal Tata Medical College,,Kadani Road, Baridih, Jamshedpur, East Singbhum District, Jharkhand, 831017",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,28717,28717,AIR,All India,"Govt Medical College, Idukki,Principal, Govt Medical College Idukki, Idukki colony P.O.,Idukki District, Kerala, 685602",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,28731,28731,AIR,All India,"Government Medical College, Jagtial,Government Medical College, Jagtial, Jagtial Village, Jagtial Tehsil, Jagtial Dist, Telangana, 505327",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,28776,28776,AIR,All India,"ZORAM MEDICAL COLLEGE Falkawn,Falkawn, Aizawl District, Mizoram, 796005",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,28836,28836,AIR,All India,"NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE, KOHIMA - 797001,Phreibagei, Kohima, Nagaland, 797001",MBBS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,28928,28928,AIR,Open Seat Quota,"Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH,ALIGARH MUSLIM UNIVERSITY, ALIGARH, Uttar Pradesh, 202002",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,28949,28949,AIR,All India,"AGARTALA GOVT. DENTAL COLLEGE,AGARTAL,IGM Hospital Complex, Agartala, West Tripura, PIN- 799001, Tripura, 799001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,29053,29053,AIR,All India,"ESIC Dental College and Hospital Rohini,ESIC DENTAL COLLEGE AND HOSPITAL SECTOR 15 ROHINI, Delhi (NCT), 110085",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,29172,29172,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,29533,29533,AIR,All India,"S.C.B. MEDICAL COLL(DENTAL),CUTTACK,S.C.B. Dental College and Hospital, Mangalabag, Cuttack, Pin-753 007, Odisha, 753007",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,29920,29920,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,30064,30064,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,30317,30317,AIR,Muslim OBC Quota,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi,Faculty of Dentistry Jamia Millia Islamia A Central University Maulana Mohammad Ali Jauhar Marg, Delhi (NCT), 110025",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,30589,30589,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,30705,30705,AIR,All India,"NAIR HOSP DENTAL COLLEGE & HOSP,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai - 400 008, Maharashtra, 400008",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,30915,30915,AIR,Deemed/Paid Seats Quota,"Manipal Tata Medical College,,Kadani Road, Baridih, Jamshedpur, East Singbhum District, Jharkhand, 831017",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,31144,31144,AIR,Open Seat Quota,"Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH,ALIGARH MUSLIM UNIVERSITY, ALIGARH, Uttar Pradesh, 202002",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,31195,31195,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,31912,31912,AIR,Muslim OBC Quota,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi,Faculty of Dentistry Jamia Millia Islamia A Central University Maulana Mohammad Ali Jauhar Marg, Delhi (NCT), 110025",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,32045,32045,AIR,All India,"AGARTALA GOVT. DENTAL COLLEGE,AGARTAL,IGM Hospital Complex, Agartala, West Tripura, PIN- 799001, Tripura, 799001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,32355,32355,AIR,Deemed/Paid Seats Quota,"GITAM Institue of Med. Sce. and Res., Visakhapatnam,Gandhi Institute of Technology and Management (GITAM), Rushikonda, Visakhapatnam, Andhra Pradesh, 530045",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,32823,32823,AIR,Open Seat Quota,"Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH,ALIGARH MUSLIM UNIVERSITY, ALIGARH, Uttar Pradesh, 202002",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,33347,33347,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,33496,33496,AIR,All India,"GDC,PT.BDS UNIV.OF HEALTH SCI,ROHTAK,Post Graduate Institute of Dental Sciences, Rohtak, Haryana, 124001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,34794,34794,AIR,All India,"GOVT. DENTAL COLLEGE, SHIMLA,HP GOVERNMENT DENTAL COLLEGE AND HOSPITAL SHIMLA, Himachal Pradesh, 171001",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,34846,34846,AIR,All India,"GOVT DENTAL COLLEGE Kannur,Pariyaram Medical College P O, Kannur, Kerala- 670503., Kerala, 670503",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,35265,35265,AIR,All India,"GOVT. DENTAL COLLEGE, KOTTAYAM,Government Dental College, P.O.Gandhinagar Kottayam- 686008, Kerala, 686008",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,35553,35553,AIR,All India,"GOVT DEN COLL DENTAL WING PATIALA,Govt.Dental College and Hospital,Patiala, Punjab, 147001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,35592,35592,AIR,All India,"Government Dental College, Alappuzha,Government Dental College T.D Medical College (PO) Alappuzha,Kerala, Kerala, 688005",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,35973,35973,AIR,All India,"Government DentalCollege and Hospital Paithna Bhaganbigha Rahui Nalanda,Paithna- Bhaganbigha, Rahui, Nalanda, Bihar, 803118",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,36148,36148,AIR,All India,"GDC,PT.BDS UNIV.OF HEALTH SCI,ROHTAK,Post Graduate Institute of Dental Sciences, Rohtak, Haryana, 124001",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,36350,36350,AIR,All India,"GOVT DENTAL COLLEGE Kannur,Pariyaram Medical College P O, Kannur, Kerala- 670503., Kerala, 670503",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,36830,36830,AIR,All India,"NORTH BENGAL DENT.COLL,SUSHRUTNAGAR,P.O SHUSHRUTA NAGAR, DIST. DARJEELING,, West Bengal, 734012",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,37269,37269,AIR,Deemed/Paid Seats Quota,"Kasturba Medical College, Manipal Univ., Mangalore,Light house Hill Road, Mangalore, India, Karnataka, 575001",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,37406,37406,AIR,All India,"ESIC Dental College and Hospital Rohini,ESIC DENTAL COLLEGE AND HOSPITAL SECTOR 15 ROHINI, Delhi (NCT), 110085",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,38174,38174,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,39135,39135,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,39539,39539,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,39960,39960,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,41176,41176,AIR,All India,"AGARTALA GOVT. DENTAL COLLEGE,AGARTAL,IGM Hospital Complex, Agartala, West Tripura, PIN- 799001, Tripura, 799001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,41296,41296,AIR,All India,"GOVT. DENTAL COLL.& HOSP., JAMNAGAR,Opp. City Police Line, Navagam Ghed, Jamnagar, Gujarat, 361008",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,41802,41802,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,41943,41943,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,42088,42088,AIR,All India,"Government Dental College, Thrissur,MEDICAL COLLEGE(P O) THRISSUR, Kerala, 680596",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,42209,42209,AIR,All India,"S.C.B. MEDICAL COLL(DENTAL),CUTTACK,S.C.B. Dental College and Hospital, Mangalabag, Cuttack, Pin-753 007, Odisha, 753007",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,42375,42375,AIR,All India,"RUHS College of Dental Science, Jaipur,Ruhs College of dental science , johtwara road jaipur, Rajasthan, 302016",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,42390,42390,AIR,All India,"AGARTALA GOVT. DENTAL COLLEGE,AGARTAL,IGM Hospital Complex, Agartala, West Tripura, PIN- 799001, Tripura, 799001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,42613,42613,AIR,All India,"GOVT. DENTAL COLLEGE, KOTTAYAM,Government Dental College, P.O.Gandhinagar Kottayam- 686008, Kerala, 686008",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,42671,42671,AIR,All India,"DR. R. AHMED DENT.COLL & HOSP,KOLKATA,114 AJC BOSE ROAD, West Bengal, 700014",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,43195,43195,AIR,All India,"GOVT. DENTAL COLLEGE, SHIMLA,HP GOVERNMENT DENTAL COLLEGE AND HOSPITAL SHIMLA, Himachal Pradesh, 171001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,43554,43554,AIR,All India,"GOVT. DENTAL COLL.& HOSP., JAMNAGAR,Opp. City Police Line, Navagam Ghed, Jamnagar, Gujarat, 361008",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,43573,43573,AIR,Deemed/Paid Seats Quota,"K.S Hegde Medical Academy, Mangaluru,Deralakatte, Mangaluru, Dakshina Kannada Dist,, Karnataka, 575018",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,43982,43982,AIR,All India,"Dental Institue, RIMS, Ranchi,Dental Institute, Rajendra Institute of Medical Sciences, Bariatu, Ranchi, Jharkhand, 843009",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,44237,44237,AIR,All India,"ESIC Dental College and Hospital Rohini,ESIC DENTAL COLLEGE AND HOSPITAL SECTOR 15 ROHINI, Delhi (NCT), 110085",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,44640,44640,AIR,All India,"AGARTALA GOVT. DENTAL COLLEGE,AGARTAL,IGM Hospital Complex, Agartala, West Tripura, PIN- 799001, Tripura, 799001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,44742,44742,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,45013,45013,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,45238,45238,AIR,All India,"GDC,PT.BDS UNIV.OF HEALTH SCI,ROHTAK,Post Graduate Institute of Dental Sciences, Rohtak, Haryana, 124001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,46139,46139,AIR,Muslim Quota,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi,Faculty of Dentistry Jamia Millia Islamia A Central University Maulana Mohammad Ali Jauhar Marg, Delhi (NCT), 110025",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,46412,46412,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,46633,46633,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,47113,47113,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,47381,47381,AIR,All India,"Government Dental College Hyderabad,GOVERNMENT DENTAL COLLEGE AND HOSPITAL, AFZALGUNJ, HYDERABAD - 500012, Telangana, 500012",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,47454,47454,AIR,All India,"GOVT DEN COLL DENTAL WING PATIALA,Govt.Dental College and Hospital,Patiala, Punjab, 147001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,47852,47852,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,48082,48082,AIR,Open Seat Quota,"INST.OF MED.SCIENCES, BHU,VARANASI,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 211005",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,48175,48175,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,48264,48264,AIR,Deemed/Paid Seats Quota,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,48673,48673,AIR,All India,"DR. R. AHMED DENT.COLL & HOSP,KOLKATA,114 AJC BOSE ROAD, West Bengal, 700014",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,48979,48979,AIR,All India,"GOVT. DENTAL COLL.& HOSP., JAMNAGAR,Opp. City Police Line, Navagam Ghed, Jamnagar, Gujarat, 361008",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,49232,49232,AIR,All India,"S.C.B. MEDICAL COLL(DENTAL),CUTTACK,S.C.B. Dental College and Hospital, Mangalabag, Cuttack, Pin-753 007, Odisha, 753007",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,49788,49788,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,49981,49981,AIR,All India,"Dental Institue, RIMS, Ranchi,Dental Institute, Rajendra Institute of Medical Sciences, Bariatu, Ranchi, Jharkhand, 843009",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,50012,50012,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,50247,50247,AIR,All India,"Govt dental college Pudukkottai,GOVT DENTAL COLLEGE MULLUR PUDUKKOTTAI, Tamil Nadu, 622003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,50364,50364,AIR,All India,"GOVT. DENTAL COLLEGE, KOTTAYAM,Government Dental College, P.O.Gandhinagar Kottayam- 686008, Kerala, 686008",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,50469,50469,AIR,All India,"NAIR HOSP DENTAL COLLEGE & HOSP,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai - 400 008, Maharashtra, 400008",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,50763,50763,AIR,All India,"Government Dental College, Thrissur,MEDICAL COLLEGE(P O) THRISSUR, Kerala, 680596",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,51021,51021,AIR,All India,"Government Dental College, Alappuzha,Government Dental College T.D Medical College (PO) Alappuzha,Kerala, Kerala, 688005",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,51247,51247,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,51279,51279,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,51404,51404,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,52838,52838,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,53020,53020,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,53626,53626,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,53759,53759,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,54006,54006,AIR,All India,"GOVT DEN COLL DENTAL WING PATIALA,Govt.Dental College and Hospital,Patiala, Punjab, 147001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,54212,54212,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,54579,54579,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,54607,54607,AIR,All India,"GOVT DENTAL COLLEGE Kannur,Pariyaram Medical College P O, Kannur, Kerala- 670503., Kerala, 670503",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,54764,54764,AIR,All India,"Dental Institue, RIMS, Ranchi,Dental Institute, Rajendra Institute of Medical Sciences, Bariatu, Ranchi, Jharkhand, 843009",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,54983,54983,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,55024,55024,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,55275,55275,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,NAGPUR,Government Dental College And Hospital GMC Campus Nagpur, Maharashtra, 440003",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,55719,55719,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,55788,55788,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,56361,56361,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,56556,56556,AIR,All India,"GOVT. D.C. & RESEARCH INST,BANGALORE,FORT, VICTORIA HOSPITAL CAMPUS, BANGALORE, Karnataka, 560002",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,56602,56602,AIR,All India,"S.C.B. MEDICAL COLL(DENTAL),CUTTACK,S.C.B. Dental College and Hospital, Mangalabag, Cuttack, Pin-753 007, Odisha, 753007",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,56617,56617,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,56968,56968,AIR,All India,"Indira Gandhi Govt. Dental College, Jammu,Indira Gandhi Govt. Dental College, Rehari Chungi, Jammu, Jammu And Kashmir, 180005",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,56993,56993,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,57047,57047,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,NAGPUR,Government Dental College And Hospital GMC Campus Nagpur, Maharashtra, 440003",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,57491,57491,AIR,All India,"Government Dental College & Hospital, Srinagar,Shireen Bagh Karan Nagar Srinagar Jammu and Kashmir India, Jammu And Kashmir, 190010",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,57691,57691,AIR,All India,"GOVT. COLLEGE OF DENTISTRY, INDORE,1 Sardar Patel Marg Indore, Madhya Pradesh, 452001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,57754,57754,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,57952,57952,AIR,All India,"ESIC Dental College and Hospital Rohini,ESIC DENTAL COLLEGE AND HOSPITAL SECTOR 15 ROHINI, Delhi (NCT), 110085",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,58345,58345,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,58789,58789,AIR,All India,"Indira Gandhi Govt. Dental College, Jammu,Indira Gandhi Govt. Dental College, Rehari Chungi, Jammu, Jammu And Kashmir, 180005",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,59011,59011,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,59142,59142,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,59295,59295,AIR,All India,"GOVT. COLLEGE OF DENTISTRY, INDORE,1 Sardar Patel Marg Indore, Madhya Pradesh, 452001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,59724,59724,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,59983,59983,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,60103,60103,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,60302,60302,AIR,All India,"NAIR HOSP DENTAL COLLEGE & HOSP,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai - 400 008, Maharashtra, 400008",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,60346,60346,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,60352,60352,AIR,All India,"REGIONAL DENTAL COLLEGE, GUWAHATI,Regional Dental College, Bhangagarh, PO Indrapur, Dist.-Kamrup Metro, Assam, 781032",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,60500,60500,AIR,All India,"GOVT. DC & RESEARCH INSt., BELLARY,GOVT DENTAL COLLEGE AND RI, VIMS CAMPUS, CANTONMENT BELLARY, Karnataka, 583104",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,60542,60542,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,60606,60606,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,60623,60623,AIR,All India,"Government Dental College Hyderabad,GOVERNMENT DENTAL COLLEGE AND HOSPITAL, AFZALGUNJ, HYDERABAD - 500012, Telangana, 500012",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,60664,60664,AIR,All India,"GOVT. COLLEGE OF DENTISTRY, INDORE,1 Sardar Patel Marg Indore, Madhya Pradesh, 452001",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,60711,60711,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,61139,61139,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,61314,61314,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,NAGPUR,Government Dental College And Hospital GMC Campus Nagpur, Maharashtra, 440003",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,61323,61323,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,61466,61466,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,61483,61483,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,61521,61521,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,61593,61593,AIR,All India,"Govt dental college Pudukkottai,GOVT DENTAL COLLEGE MULLUR PUDUKKOTTAI, Tamil Nadu, 622003",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,61626,61626,AIR,All India,"Government Dental College & Hospital, Srinagar,Shireen Bagh Karan Nagar Srinagar Jammu and Kashmir India, Jammu And Kashmir, 190010",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,61747,61747,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,61749,61749,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,61795,61795,AIR,All India,"Government Dental College and Hospital, Vijayawada,Government Dental College and Hospital, Machavaram Post, Vijayawada - 520004, Andhra Pradesh, 520004",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,61898,61898,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,62128,62128,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,62526,62526,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,62681,62681,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,62818,62818,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,62865,62865,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,63076,63076,AIR,All India,"GOVT. COLLEGE OF DENTISTRY, INDORE,1 Sardar Patel Marg Indore, Madhya Pradesh, 452001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,63111,63111,AIR,Deemed/Paid Seats Quota,"JSS Medical College, Mysuru,The Principal JSS Medical College and Hospital Medical Institutions Campus S S Nagar Mysuru, Karnataka, 570015",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,63316,63316,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,63535,63535,AIR,Deemed/Paid Seats Quota,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,63649,63649,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,63652,63652,AIR,All India,"GOVT. DC & RESEARCH INSt., BELLARY,GOVT DENTAL COLLEGE AND RI, VIMS CAMPUS, CANTONMENT BELLARY, Karnataka, 583104",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,63813,63813,AIR,All India,"Government Dental College and Hospital, Vijayawada,Government Dental College and Hospital, Machavaram Post, Vijayawada - 520004, Andhra Pradesh, 520004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,63990,63990,AIR,All India,"Jawaharlal Nehru Institute of Dental Sciences, Imphal,Porompat, Imphal East, Manipur, Manipur, 795005",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,64197,64197,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,64340,64340,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,64523,64523,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,64588,64588,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,65027,65027,AIR,All India,"Indira Gandhi Govt. Dental College, Jammu,Indira Gandhi Govt. Dental College, Rehari Chungi, Jammu, Jammu And Kashmir, 180005",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,65062,65062,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,65074,65074,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,65207,65207,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,65265,65265,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,65421,65421,AIR,All India,"Government Dental College and Hospital, Vijayawada,Government Dental College and Hospital, Machavaram Post, Vijayawada - 520004, Andhra Pradesh, 520004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,65855,65855,AIR,All India,"GOVT. DC & RESEARCH INSt., BELLARY,GOVT DENTAL COLLEGE AND RI, VIMS CAMPUS, CANTONMENT BELLARY, Karnataka, 583104",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,66020,66020,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,66061,66061,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,66431,66431,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,66879,66879,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,67112,67112,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,67137,67137,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,67499,67499,AIR,All India,"GOVT. DENTAL COLL.& HOSP., JAMNAGAR,Opp. City Police Line, Navagam Ghed, Jamnagar, Gujarat, 361008",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,67566,67566,AIR,All India,"Jawaharlal Nehru Institute of Dental Sciences, Imphal,Porompat, Imphal East, Manipur, Manipur, 795005",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,67669,67669,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,67986,67986,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,68155,68155,AIR,Muslim Minority Quota,"Hamdard Inst of Med Sciences and Research, New Delhi,HIMSR, Guru Ravidas Marg, Hamdard Nagar, New Delhi, Delhi (NCT), 110062",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,68162,68162,AIR,All India,"GOVT. DC & RESEARCH INSt., BELLARY,GOVT DENTAL COLLEGE AND RI, VIMS CAMPUS, CANTONMENT BELLARY, Karnataka, 583104",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,68348,68348,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,68728,68728,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,68853,68853,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,68915,68915,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,69347,69347,AIR,All India,"AGARTALA GOVT. DENTAL COLLEGE,AGARTAL,IGM Hospital Complex, Agartala, West Tripura, PIN- 799001, Tripura, 799001",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,69986,69986,AIR,All India,"Jawaharlal Nehru Institute of Dental Sciences, Imphal,Porompat, Imphal East, Manipur, Manipur, 795005",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,70923,70923,AIR,All India,"Jawaharlal Nehru Institute of Dental Sciences, Imphal,Porompat, Imphal East, Manipur, Manipur, 795005",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,71034,71034,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,71130,71130,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,71275,71275,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,71563,71563,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,71640,71640,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,72150,72150,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,72162,72162,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,72169,72169,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,73362,73362,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,73715,73715,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,73725,73725,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,73804,73804,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,74666,74666,AIR,Employees State Insurance Scheme(ESI),"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,75772,75772,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,76028,76028,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,77943,77943,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,79167,79167,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,79643,79643,AIR,All India,"Government Dental College, Thrissur,MEDICAL COLLEGE(P O) THRISSUR, Kerala, 680596",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,79649,79649,AIR,Deemed/Paid Seats Quota,"MGM Medical College, Navi Mumbai,MGM Medical College, Plot No. 1-2, Sector 1, Kamothe, Navi Mumbai - 410 209, Maharashtra, 410209",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,80899,80899,AIR,All India,"Govt dental college Pudukkottai,GOVT DENTAL COLLEGE MULLUR PUDUKKOTTAI, Tamil Nadu, 622003",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,81297,81297,AIR,Deemed/Paid Seats Quota,"MGM Medical College, Navi Mumbai,MGM Medical College, Plot No. 1-2, Sector 1, Kamothe, Navi Mumbai - 410 209, Maharashtra, 410209",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,81559,81559,AIR,Employees State Insurance Scheme(ESI),"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,81751,81751,AIR,All India,"GOVT DENTAL COLLEGE Kannur,Pariyaram Medical College P O, Kannur, Kerala- 670503., Kerala, 670503",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,82012,82012,AIR,All India,"JAWAHAR LAL NEHRU MEDICAL, AJMER,NEAR PATEL STADIUM AJMER, Rajasthan, 305001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,82194,82194,AIR,All India,"GOVT. DENTAL COLLEGE, TRIVANDRUM,Govt Dental College Thiruvananthapuram Kerala, Kerala, 695011",BDS,EWS,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,82428,82428,AIR,Employees State Insurance Scheme(ESI),"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,OBC,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,82828,82828,AIR,Deemed/Paid Seats Quota,"SDU Medical College, Kolar,SRI DEVARAJ URS MEDICAL COLLEGE, TAMAKA, KOLAR, Karnataka, 563103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,83508,83508,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Mission Medical College, Nerul,Sector-8, Nerul West Navi Mumbai, Maharashtra, 400706",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,83574,83574,AIR,Deemed/Paid Seats Quota,"Graphic Era Institute Of Medical Science,Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun Uttarakhand 2480, Uttarakhand, 248007",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,84139,84139,AIR,Deemed/Paid Seats Quota,"Amrita Institute of Medical Science, Kochi,Amrita School of Medicine, Amrita Institute of Medical Sciences AIMS Ponekkara P.O Kochi 682041, Kerala, 682041",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,87672,87672,AIR,Internal -Puducherry UT Domicile,"JIPMER PUDUCHERRY,Dhanvantari Nagar Gorimedu Puducherry, Puducherry, 605006",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,89512,89512,AIR,Deemed/Paid Seats Quota,"Jawahar Lal Nehru Medical College, Belagavi,J.N. Medical College Campus, Nehru Nagar, Belagavi-590010. Karnataka, India., Karnataka, 590010",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,96416,96416,AIR,All India,"Bangalore Medical College and Research Institute,K R ROAD FORT BENGALURU, Karnataka, 560002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,99466,99466,AIR,All India,"Indira Gandhi Institute of Medical Sciences, Patna,RAZA BAZAR, SHEIKHPURA, PATNA, Bihar, 800014",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,99762,99762,AIR,Open Seat Quota,"AIIMS Guwahati,PO-CHANGSARI, DISTRICT-KAMRUP, Assam, 781101",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,100374,100374,AIR,All India,"Government Medical College, Pali,NH-62,SumerpurRoad,Ramasia.Hemawas,Pali, Rajasthan, 306401",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,102100,102100,AIR,All India,"KGMC, LUCKNOW,SHAHMINA ROAD, CHOWK, LUCKNOW, Uttar Pradesh, 226003",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,104015,104015,AIR,All India,"S.N. MEDICAL COLLEGE, AGRA,HOSPITAL ROAD AGRA, Uttar Pradesh, 282002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,104254,104254,AIR,All India,"S.N. MEDICAL COLLEGE, AGRA,HOSPITAL ROAD AGRA, Uttar Pradesh, 282002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,105492,105492,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,105591,105591,AIR,Deemed/Paid Seats Quota,"JLN Medical College, Datta Meghe, Wardha,Sawangi (Meghe), Wardha, Maharashtra State,India, Maharashtra, 442107",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,107606,107606,AIR,Deemed/Paid Seats Quota,"Malla Reddy Institute of Medical Sciences, Hyderabad ,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,109133,109133,AIR,All India,"M.G.M. MEDICAL COLLEGE, INDORE,AB ROAD INDORE, Madhya Pradesh, 452001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,112218,112218,AIR,Deemed/Paid Seats Quota,"SRI LALITHAMBIGAI MEDICAL COLLEGE & HOSPITAL,Faculty of Medicine - Sri Lalithambigai Medical College and Hospital, 1, Periyar EVR High Road, Ada, Tamil Nadu, 600095",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,112611,112611,AIR,All India,"GRANT MEDICAL COLL & SIR J.J.HOSP,MUMBAI,Sir JJ Group of HospitalCompound, Sir JJ Road, Byculla Mumbai, Maharashtra, 400008",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,113976,113976,AIR,All India,"M.P. SHAH MEDICAL COLLEGE, JAMNAGAR,PANDIT NEHRU MARG, JAMNAGAR 361008, Gujarat, 361008",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,115319,115319,AIR,All India,"NILRATAN SIRKAR MEDICAL COLLEGE, KOLKATA,138 AJC Bose Road, Kolkata - 700014, West Bengal, 700014",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,116769,116769,AIR,Deemed/Paid Seats Quota,"Sri Siddhartha Medical College DU, Tumkur,SRI SIDDHARTHA MEDICAL COLLEGE B.H. ROAD, AGALAKOTE TUMKUR, Karnataka, 572107",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,117108,117108,AIR,Deemed/Paid Seats Quota,"Sri Siddhartha Academy T Begur,SRI SIDDHARTHA INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE T BEGUR NELAMANGALA TALUK BANGALOR, Karnataka, 562123",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,117426,117426,AIR,All India,"MAHARANI LAXMI BAI MEDICAL COLL,JHANSI,M.L.B. MEDICAL COLLEGE, KANPUR ROAD, JHANSI, Uttar Pradesh, 284128",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,117453,117453,AIR,All India,"SHRI ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, CHHAINSA, FARIDABAD,Shri Atal Bihari Vajpayee Government Medical College Chhainsa Faridabad, Haryana, 121004",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,118172,118172,AIR,All India,"LOKMANYA TILAK MUNICIPAL M C,MUMBAI,Dr. Babasaheb Ambedkar Road, Sion, Mumbai, Maharashtra, 400022",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,120894,120894,AIR,Open Seat Quota,"JIPMER KARAIKAL,JIPMER Academic Campus, FCI Link Road, Kovilpathu, Karaikal - 609602, Puducherry, 609602",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,120992,120992,AIR,All India,"CALCUTTA NATIONAL MED COLL,KOLKATA,32, GORACHAND ROAD, PARK CIRCUS, KOLKATA - 700014, West Bengal, 700014",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,121723,121723,AIR,All India,"GOVT. MEDICAL COLLEGE,PATIALA,Sangrur road Government Medical College, Patiala, Punjab, 147001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,122641,122641,AIR,Deemed/Paid Seats Quota,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Hubballi,KLE Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College Gabbur Cross Hubballi, Karnataka, 580028",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,123465,123465,AIR,All India,"Government Doon Medcial College, Dehradun,Government Doon Medical College, Dehrakhas Patel Nagar, Dehradun 248001, Uttarakhand, 248001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,125554,125554,AIR,Deemed/Paid Seats Quota,"Raja Rajeswari Medical College Bengaluru,202, Kambipura, Bengaluru Mysuru High Way,Kengeri Hobli, Bangalore, Karnataka, Karnataka, 560074",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,125662,125662,AIR,All India,"Dr.Radhakrishnan Government Medical College, Hamirpur,Dr.Radhakrishnan Government Medical College,Hamirpur, Himachal Pradesh, 177001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,125688,125688,AIR,All India,"Uttar Pradesh University of Medical Sciences, Saifai, Etawah,SAIFAI ETAWAH, Uttar Pradesh, 206130",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,125764,125764,AIR,All India,"SLBS Govt. Medical College, Mandi,Mandi at Nerchowk Tehsil Balh PO Bhangrotu, Himachal Pradesh, 175021",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,125785,125785,AIR,All India,"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA,NH 86 INFRONT OF KHEL PARISAR SANCHI ROAD VIDISHA, Madhya Pradesh, 464001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,126524,126524,AIR,All India,"Government Medical College, Jhunjhunu, Rajasthan,jjnmedicalcollege@gmail.com, Rajasthan, 333001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,127188,127188,AIR,All India,"GMC KARAULI,mandrayal road karauli, Rajasthan, 322241",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,127247,127247,AIR,All India,"ESI-MC&PGIMS&R, Banglore,ESICMC AND PGIMSR, Rajajinagar, Bengaluru, Karnataka, 560010",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,127612,127612,AIR,Deemed/Paid Seats Quota,"Bharati Vidyapeeth DU Medical College,Dhankawadi, Pune-Satara Road, Pune, Maharashtra, 411043",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,127722,127722,AIR,All India,"SHRI ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, CHHAINSA, FARIDABAD,Shri Atal Bihari Vajpayee Government Medical College Chhainsa Faridabad, Haryana, 121004",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,128345,128345,AIR,All India,"Pt. Jawahar Lal Nehru Govt. Med. College, Chamba,Pt. Jawaharlal Nehru Govt. Medical College Chamba, Himachal Pradesh, 176310",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,128593,128593,AIR,All India,"GURU GOVIND SINGH MED COLL,FARIDKOT,Sadiq Road, Faridkot., Punjab, 151203",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,128809,128809,AIR,All India,"INDIRA GANDHI GOVT.MEDICAL COLL., NAGPUR,MAYO HOSPITAL CENTRAL AVENUE ROAD NEAR RAM ZULA NAGPUR, Maharashtra, 440018",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,129004,129004,AIR,All India,"JHALAWAR MEDICAL COLLEGE, Jhalawar ,NH-52, KOTA ROAD,JHALAWAR,RAJASTHAN, Rajasthan, 326001",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,129129,129129,AIR,All India,"UTTARANCHAL F HOSP TRUST MC,HALDWANI,Government Medical College, Rampur Road Haldwani, Distt. Nainiatl, Uttarakhand, 263139",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,129699,129699,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,130086,130086,AIR,Deemed/Paid Seats Quota,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,130301,130301,AIR,All India,"SKIMS Medical College, Bemina, Srinagar,SKIMS MC BEMINA , SRINAGAR, JAMMU KASHMIR, Jammu And Kashmir, 190018",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,130922,130922,AIR,All India,"Chhindwara Institute of Medical Sciences,Teachers Colony, Chhindwara, Madhya Pradesh 480001, Madhya Pradesh, 480001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131131,131131,AIR,All India,"Bhima Bhoi Medical College and Hospital , Balangir,PO - Rajendra College, District- Balangir, Odisha., Odisha, 767002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131203,131203,AIR,Deemed/Paid Seats Quota,"DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,Hinaga Road Wanadongri Nagpur Maharashtra India, Maharashtra, 441110",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,131396,131396,AIR,All India,"GMERS Medical College, Morbi,Gibson middle school, Opp railway station, Morbi, Gujarat, 363641",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131519,131519,AIR,All India,"Maulana Azad Institute of Dental Sciences, New Delhi,MAMC Complex, B.S. Zafar Marg, New Delhi, Delhi (NCT), 110002",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131769,131769,AIR,All India,"Shri Atal Bihari Vajpayee Medical College & Research Institute, Bengaluru,SHIVAJINAGAR, BENGALURU, Karnataka, 560001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131807,131807,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, AKOLA,Collector Office Road, Near Ashok Watika, Akola. State Maharashtra. Pin 444001, Maharashtra, 444001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131886,131886,AIR,All India,"MYSORE MED.& RESEARCH INST. MYSORE,Mysore Medical College and Research Institute,Irwin Road, Mysore, Karnataka, 570021",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,131964,131964,AIR,All India,"DR.S.C.GOVT MEDICAL COLLEGE,,NANDED,VISHNUPURI NANDED MAHARASHTRA 431606, Maharashtra, 431606",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,132079,132079,AIR,All India,"CALCUTTA NATIONAL MED COLL,KOLKATA,32, GORACHAND ROAD, PARK CIRCUS, KOLKATA - 700014, West Bengal, 700014",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,132777,132777,AIR,All India,"Autonomous State Medical College Society , Mirzapur,MAA VINDHYAVASINI AUTONOMOUS STATE MEDICAL COLLEGE PIPARDARH, VISHUNDERPUR, MIRZAPUR, Uttar Pradesh, 231001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,133069,133069,AIR,All India,"ESIC PGIMSR, Joka, Kolkata, WB,DIAMOND HARBOUR ROAD POST OFFICE JOKA KOLKATA 700104, West Bengal, 700104",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,133379,133379,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,133932,133932,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, MIRAJ,Pandharpur Road Miraj tal Miraj Dist sangli, Maharashtra, 416410",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134017,134017,AIR,All India,"Autonomous State Medical College, Ghazipur,Principal Prashasnik Bhawan MV Autonomous State Medical College RTI Chauraha Ghazipur, Uttar Pradesh, 233001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134139,134139,AIR,All India,"SRI KRISHNA MEDICAL COLLEGE, MUZAFFARPUR,UMANAGAR MUZAFFARPUR, Bihar, 842004",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134168,134168,AIR,All India,"STANLEY MEDICAL COLLEGE, CHENNAI,No.1, Old Jail Road Chennai, Tamil Nadu, 600001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134173,134173,AIR,All India,"Goverment Medical College, Bettiah,Government Medical College Bettiah West Champaran Bihar- 845438, Bihar, 845438",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134195,134195,AIR,All India,"Autonomous State Medical Collage, Kushinagar, Uttar Pradesh,Autonomous State Medical Collage, Kubersthan Road, Harka, Kushinagar, Uttar Pradesh, 274304",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134200,134200,AIR,All India,"Shaheed Nirmal Mahto Medical College & Hospital, Dhanbad,PO BCCL TOWNSHIP KOYLANAGAR DHANBAD, Jharkhand, 826005",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134293,134293,AIR,All India,"Autonomous State Medical College, Sonebhadra,Rounp Rd, Churk,Robertsganj, Sonebhadra, Uttar Pradesh, 231216",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134355,134355,AIR,All India,"Government Medical College, Doda,Government Medical College & Hospital Ghat Doda, Jammu And Kashmir, 182202",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134455,134455,AIR,All India,"Diamond Harbour Govt Medical College,New Town, Post-Diamond Harbour, PS- Diamond Harbour, District South 24 Parganas, West Bengal, 743331",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134502,134502,AIR,All India,"Indira Gandhi Medical College & RI, Puducherry,Vazhudavour Road, Kadirkamam, Puducherry, 605009",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134551,134551,AIR,All India,"GUNTUR MEDICAL COLLEGE, GUNTUR,Kannavarithoa Opp. NGOs Association Building, Andhra Pradesh, 522004",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134802,134802,AIR,All India,"GOVERNMENT MEDICAL COLLEGE AND GENERAL HOSPITAL, SATARA,GOVERNMENT MEDICAL COLLEGE AND GENERAL HOSPITAL SATARA DISTRICT CIVIL HOSPITAL CAMPUS SADAR BAZAR CA, Maharashtra, 415001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134838,134838,AIR,All India,"GMERS Medical College, Panchmahal Godhra,Government Engineering College Campus, Godhra Lunawada Road, Chabanpur, Godhra, Gujarat, 389001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134844,134844,AIR,All India,"Government Medical college, Ambernath,Dr. B. G. CHHAYA SUB DISTRICT HOSPITAL,AMBERNATH MUNICIPALITY, SHIV MARKET, AMBERNATH, MAHARASHTRA 4, Maharashtra, 421501",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,134894,134894,AIR,All India,"Jhargram Government Medical College and Hospital, West Bengal,Jhargram Government Medical College and Hospital, Vidyasagarpally, Jhargram, West Bengal., West Bengal, 721507",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135171,135171,AIR,All India,"GOVT.MEDICAL COLLEGE, THRISSUR,Govt.Medical College,Thrissur,Medical College P.O, Pin -680596, Thrissur District., Kerala, 680596",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135292,135292,AIR,All India,"Siddartha Medical College, Vijayawada,Beside New Government General Hospital Gunadala Vijayawada, Andhra Pradesh, 520008",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135357,135357,AIR,All India,"GOVT. MEDICAL COLLEGE,TIRUNELVELI,DEAN, TIRUNELVELI MEDICAL COLLEGE, HIGHGROUND, TIRUNELVELI-11, Tamil Nadu, 627011",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135366,135366,AIR,All India,"Tamralipto Government Medical College & Hospital, West Bengal,227 Haldia Tamluk Mecheda Road, Tamluk, Purba Medinipur, West Bengal, 721636",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135397,135397,AIR,All India,"Government Medical College and Hospital, Jajpur, Odisha (Renamed as Jajati Keshari Medical College and Hospital, Jajpur),Dean and Principal, Government Medical College and Hospital, Jajpur, Odisha Renamed as Jajati Keshar, Odisha, 755001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135403,135403,AIR,All India,"Government Medical College, Hingoli,Government Medical College, Washim Road, Balsond, Hingoli, Maharashtra, 431513",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135421,135421,AIR,All India,"Government Medical College, Parbhani,ITI CAMPUS, BEHIND DSM COLLEGE, JINTUR ROAD, PARBHANI - 431401, Maharashtra, 431401",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135475,135475,AIR,All India,"Chikkamagaluru Institute of Medical Sciences,DIRECTOR CHIKKAMAGALURU INSTITUTE OF MEDICAL SCIENCES ARALAGUPPE MALLEGOWDA DISTRICT HOSPITAL TEG, Karnataka, 577101",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135700,135700,AIR,All India,"Jorhat Medical College and Hospital, JORHAT,Kushal Konwar Path, Barbheta, Jorhat, Assam, 785001, Assam, 785001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135701,135701,AIR,All India,"Saheed Rendo Majhi Medical College & Hospital, Bhawanipatna, Kalahandi,Odisha,At - Bhangabari, P.O. - Uditnarayanpur, Bhawanipatna, Dist - Kalahandi, Odisha, 766002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135756,135756,AIR,All India,"GMERS Medical College, Morbi,Gibson middle school, Opp railway station, Morbi, Gujarat, 363641",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,135918,135918,AIR,All India,"Saheed Rendo Majhi Medical College & Hospital, Bhawanipatna, Kalahandi,Odisha,At - Bhangabari, P.O. - Uditnarayanpur, Bhawanipatna, Dist - Kalahandi, Odisha, 766002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136018,136018,AIR,All India,"GMC Kamareddy,Office of the Principal, Government Medical College Devanpally, Kamareddy, Telangana, Telangana, 503111",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136024,136024,AIR,All India,"Rangaraya Medical College, Kakinada,PITHAPURAM ROAD, KAKINADA, Andhra Pradesh, 533003",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136092,136092,AIR,All India,"RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES, KADAPA,GOVERNMENT MEDICAL COLLEGE RIMS PUTLAMPALLI, YSR KADAPA DIST. G.M.C.,KADAPA.,A.P, Andhra Pradesh, 516002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136266,136266,AIR,All India,"Government Medical College, Konni ,GOVERNMENT MEDICAL COLLEGE KONNI KUMMANNOOR PO KONNI PATHANAMTHITTA 689691, Kerala, 689691",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136327,136327,AIR,All India,"Government Medical College, Konni ,GOVERNMENT MEDICAL COLLEGE KONNI KUMMANNOOR PO KONNI PATHANAMTHITTA 689691, Kerala, 689691",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136389,136389,AIR,All India,"MG Inst. of Medical Sciences, Sevagram Wardha,VILLAGE AND PO SEVAGRAM DISTRICT WARDHA MAHARASHTRA 442102, Maharashtra, 442102",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136434,136434,AIR,All India,"RIMS, Ongole,BHAGYANAGAR 5TH LANE, RIMS, ONGOLE, PRAKASAM DISTRICT, ANDHRA PRADESH, Andhra Pradesh, 523001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136463,136463,AIR,All India,"RIMS, Ongole,BHAGYANAGAR 5TH LANE, RIMS, ONGOLE, PRAKASAM DISTRICT, ANDHRA PRADESH, Andhra Pradesh, 523001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136611,136611,AIR,All India,"Government Medical College, Nagarkurnool,Sy no. 237, Uyyalawada village, Nanagarkurnool, Telangana, 509209",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136638,136638,AIR,All India,"Rajah Muthiah Medical College, Annamalai Universit,Government Medical College and Hospital, Cuddalore District, Erstwhile Rajah Muthiah Medical College, Tamil Nadu, 608002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136699,136699,AIR,All India,"Rajah Muthiah Medical College, Annamalai Universit,Government Medical College and Hospital, Cuddalore District, Erstwhile Rajah Muthiah Medical College, Tamil Nadu, 608002",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136790,136790,AIR,All India,"MG Inst. of Medical Sciences, Sevagram Wardha,VILLAGE AND PO SEVAGRAM DISTRICT WARDHA MAHARASHTRA 442102, Maharashtra, 442102",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,136857,136857,AIR,All India,"Govt Medical College, Idukki,Principal, Govt Medical College Idukki, Idukki colony P.O.,Idukki District, Kerala, 685602",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137174,137174,AIR,All India,"MG Inst. of Medical Sciences, Sevagram Wardha,VILLAGE AND PO SEVAGRAM DISTRICT WARDHA MAHARASHTRA 442102, Maharashtra, 442102",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137242,137242,AIR,All India,"JLN IMS, IMPHAL,Prompat, Imphal East, Manipur, Manipur, 795005",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137400,137400,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, SANGAREDDY,OPP. TOWN POLICE STATION, NETAJI NAGAR, SANGAREDDY DISTRICT, TELANGANA - 502001, Telangana, 502001",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137466,137466,AIR,All India,"Government Medical College, Dindigul,1 Nallampatti Road Adiyanoothu village Dindigul, Tamil Nadu, 624003",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137468,137468,AIR,All India,"GMERS Medical College, Navsari,Adarsh Nivasi Shala Campus, At- Khambhlav, Po- Sultanpur, Via- Abrama, Ta - Jalalpore, Dist - Navsar, Gujarat, 396406",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137518,137518,AIR,All India,"Andaman and Nicobar Islands Institute of Medical S,Director ANIIMS, DHS Annexe Building, Atlanta Point, Port Blair-744104, Andaman And Nicobar Islands, 744104",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137624,137624,AIR,All India,"Government Medical College, Krishnagiri,Block-1, Polupalli, Krishnagiri, Tamil Nadu, 635115",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137713,137713,AIR,All India,"GMC, Rajamahendravaram,Government Medical College,D.No.55-4-1,Central Jail Road ,Near CTRI, Rajamahendravaram., Andhra Pradesh, 533105",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,137759,137759,AIR,All India,"Andaman and Nicobar Islands Institute of Medical S,Director ANIIMS, DHS Annexe Building, Atlanta Point, Port Blair-744104, Andaman And Nicobar Islands, 744104",MBBS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,138303,138303,AIR,Deemed/Paid Seats Quota,"Raja Rajeswari Medical College Bengaluru,202, Kambipura, Bengaluru Mysuru High Way,Kengeri Hobli, Bangalore, Karnataka, Karnataka, 560074",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,138712,138712,AIR,All India,"PATNA DENTAL COLLEGE & HOSPITAL, PATNA,BANKIPUR,ASHOK RAJPATH,PATNA, Bihar, 800004",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,138908,138908,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,139333,139333,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,140552,140552,AIR,Deemed/Paid Seats Quota,"Malla Reddy Institute of Medical Sciences, Hyderabad ,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,141245,141245,AIR,All India,"GRANT MEDICAL COLL & SIR J.J.HOSP,MUMBAI,Sir JJ Group of HospitalCompound, Sir JJ Road, Byculla Mumbai, Maharashtra, 400008",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,143796,143796,AIR,All India,"LOKMANYA TILAK MUNICIPAL M C,MUMBAI,Dr. Babasaheb Ambedkar Road, Sion, Mumbai, Maharashtra, 400022",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,145161,145161,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,145910,145910,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,147563,147563,AIR,All India,"RUHS College of Dental Science, Jaipur,Ruhs College of dental science , johtwara road jaipur, Rajasthan, 302016",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,149304,149304,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,150069,150069,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,150350,150350,AIR,All India,"GOVT. MEDICAL COLLEGE, NAGPUR,Hanuman Nagar,Nagpur, Maharashtra, 440003",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,150774,150774,AIR,All India,"ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE, GAYA,SHERGHATIROAD, GAYA, Bihar, 823001",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,153064,153064,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,154207,154207,AIR,Deemed/Paid Seats Quota,"Malla Reddy Medical College for Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,154390,154390,AIR,Deemed/Paid Seats Quota,"Amrita Institute of Medical Science, Kochi,Amrita School of Medicine, Amrita Institute of Medical Sciences AIMS Ponekkara P.O Kochi 682041, Kerala, 682041",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,154977,154977,AIR,Deemed/Paid Seats Quota,"Malla Reddy Institute of Medical Sciences, Hyderabad ,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,155127,155127,AIR,All India,"Government DentalCollege and Hospital Paithna Bhaganbigha Rahui Nalanda,Paithna- Bhaganbigha, Rahui, Nalanda, Bihar, 803118",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,156695,156695,AIR,All India,"GOVT.MEDICAL COLLEGE, AMRITSAR,CIRCULAR ROAD, AMRITSAR-143001, Punjab, 143001",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,158726,158726,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,158754,158754,AIR,All India,"GOVT. DENTAL COLLEGE, TRIVANDRUM,Govt Dental College Thiruvananthapuram Kerala, Kerala, 695011",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,158981,158981,AIR,Deemed/Paid Seats Quota,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,159542,159542,AIR,All India,"ESIC Medical College & Hospital, Bihta,ESIC Medical College and Hospital, Bihta, Patna- 801103, Bihar, 801103",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,160184,160184,AIR,All India,"GOVT. DENTAL COLLEGE, SHIMLA,HP GOVERNMENT DENTAL COLLEGE AND HOSPITAL SHIMLA, Himachal Pradesh, 171001",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,160265,160265,AIR,All India,"Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research,BADRINATH MARG, SRIKOT, SRINAGAR - PAURI GARHWAL, Uttarakhand, 246178",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,160747,160747,AIR,All India,"Government Medical College, Baramulla ,Kanth Bagh Baramulla, Jammu and Kashmir, Jammu And Kashmir, 193101",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,162581,162581,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,162758,162758,AIR,All India,"GMERS Medical College, Rajpipla,GMERS Medical College, Rajpipla Near Jakat Naka, Vadia Palace, Rajpipla Dist Narmada, GUJARAT., Gujarat, 393145",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,163366,163366,AIR,All India,"MIDNAPORE MEDICAL COLLEGE, MIDNAPUR,5 Vidyasagar Road Midnapore 721101 Paschim Medinipur, West Bengal, 721101",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,164329,164329,AIR,All India,"Government Medical College, Amravati ,Government Medical College District Women Hospital Campus Daffrin Shrikrishna Peth Amravati, Maharashtra, 444601",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,165453,165453,AIR,All India,"BELGAUM INST. OF MEDICAL SCI., BELGAUM,DR B R AMBEDKAR ROAD BELAGAVI., Karnataka, 590001",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,165708,165708,AIR,All India,"Sagar Dutta Medical College & Hospital, Kolkata,578, B.T. Road, Kamarhati, Kolkata, West Bengal, 700058",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,166206,166206,AIR,All India,"Siddartha Medical College, Vijayawada,Beside New Government General Hospital Gunadala Vijayawada, Andhra Pradesh, 520008",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,166364,166364,AIR,Deemed/Paid Seats Quota,"Malla Reddy Medical College for Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,166720,166720,AIR,All India,"Government Medical college, Ambernath,Dr. B. G. CHHAYA SUB DISTRICT HOSPITAL,AMBERNATH MUNICIPALITY, SHIV MARKET, AMBERNATH, MAHARASHTRA 4, Maharashtra, 421501",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,166881,166881,AIR,All India,"Government Dental College & Hospital, Srinagar,Shireen Bagh Karan Nagar Srinagar Jammu and Kashmir India, Jammu And Kashmir, 190010",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,166907,166907,AIR,All India,"GOVERNMENT MEDICAL COLLEGE Karimnagar Telangana,The Principal, Government Medical College Karimnagar, 127, Christian Colony, Karimnagar, Telangana, 505001",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,167199,167199,AIR,All India,"GOVT. DENTAL COLL.& HOSP., JAMNAGAR,Opp. City Police Line, Navagam Ghed, Jamnagar, Gujarat, 361008",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,167218,167218,AIR,All India,"Government Medical College, Nagarkurnool,Sy no. 237, Uyyalawada village, Nanagarkurnool, Telangana, 509209",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,167467,167467,AIR,All India,"Goverment Medical College, Gadchiroli,Government Medical College, Mul road complex, Gadchiroli, Maharashtra, 442605",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,167546,167546,AIR,All India,"GMC Kamareddy,Office of the Principal, Government Medical College Devanpally, Kamareddy, Telangana, Telangana, 503111",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,167635,167635,AIR,All India,"Tinsukia Medical College & Hospital, Tinsukia,Lohari Bangali Gaon, Tinsukia, Assam, 786146",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,167885,167885,AIR,All India,"GMERS Medical College, Morbi,Gibson middle school, Opp railway station, Morbi, Gujarat, 363641",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,168372,168372,AIR,All India,"NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE, KOHIMA - 797001,Phreibagei, Kohima, Nagaland, 797001",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,168407,168407,AIR,All India,"AGARTALA GOVT. MEDICAL COLLEGE,AGARTALA,Kunjaban, Agartala, Tripura West, Tripura, 799006",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,168640,168640,AIR,All India,"ZORAM MEDICAL COLLEGE Falkawn,Falkawn, Aizawl District, Mizoram, 796005",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,168688,168688,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,170509,170509,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,170994,170994,AIR,All India,"Maulana Azad Institute of Dental Sciences, New Delhi,MAMC Complex, B.S. Zafar Marg, New Delhi, Delhi (NCT), 110002",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,171614,171614,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,171947,171947,AIR,Deemed/Paid Seats Quota,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,172934,172934,AIR,Open Seat Quota,"IMS BHU Dental, Varanasi,Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, 221105",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,174451,174451,AIR,Deemed/Paid Seats Quota,"Malla Reddy Medical College for Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,175407,175407,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,176578,176578,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,176775,176775,AIR,All India,"NAIR HOSP DENTAL COLLEGE & HOSP,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai - 400 008, Maharashtra, 400008",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,179583,179583,AIR,Deemed/Paid Seats Quota,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,182277,182277,AIR,All India,"DR. R. AHMED DENT.COLL & HOSP,KOLKATA,114 AJC BOSE ROAD, West Bengal, 700014",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,185389,185389,AIR,Deemed/Paid Seats Quota,"Amrita Institute of Medical Science, Kochi,Amrita School of Medicine, Amrita Institute of Medical Sciences AIMS Ponekkara P.O Kochi 682041, Kerala, 682041",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,187870,187870,AIR,All India,"REGIONAL DENTAL COLLEGE, GUWAHATI,Regional Dental College, Bhangagarh, PO Indrapur, Dist.-Kamrup Metro, Assam, 781032",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,188324,188324,AIR,All India,"NAIR HOSP DENTAL COLLEGE & HOSP,MUMBAI,Dr. A.L. Nair Road, Mumbai Central, Mumbai - 400 008, Maharashtra, 400008",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,188951,188951,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,NAGPUR,Government Dental College And Hospital GMC Campus Nagpur, Maharashtra, 440003",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,189900,189900,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,190542,190542,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,190956,190956,AIR,Deemed/Paid Seats Quota,"Vinayaka Missions Medical College and Hospital, Karaikal,KEEZHAKASAKUDIMEDU, KOTTUCHERRY(P.O), KARAIKAL - 609 609, U.T. OF PUDUCHERRY, Puducherry, 609609",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,191041,191041,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,191823,191823,AIR,All India,"GOVT. COLLEGE OF DENTISTRY, INDORE,1 Sardar Patel Marg Indore, Madhya Pradesh, 452001",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,193315,193315,AIR,All India,"DC, RIMS, Imphal,PO Lamphelpat, Imphal West District, Manipur, 795004",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,193414,193414,AIR,Deemed/Paid Seats Quota,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,193440,193440,AIR,Delhi University Quota,"University College of Medical Sciences, New Delhi,Dilshad Garden, Delhi (NCT), 110095",MBBS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,195886,195886,AIR,Deemed/Paid Seats Quota,"SRM Medical College and Hospital, Chennai,SRM MEDICAL COLLEGE HOSPITAL AND RESEARCH CENTRE, POTHERI, KATTANKULATHUR 603203, CHENGALPATTU DIST,, Tamil Nadu, 603203",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,198204,198204,AIR,All India,"Jawaharlal Nehru Institute of Dental Sciences, Imphal,Porompat, Imphal East, Manipur, Manipur, 795005",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,198488,198488,AIR,Deemed/Paid Seats Quota,"Amrita School of Medicine Faridabad,Mata Amritanandmayi Marg, Sector-88, Faridabad, Haryana, 121002",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,198579,198579,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,199867,199867,AIR,Deemed/Paid Seats Quota,"Vinayaka Missions Medical College and Hospital, Karaikal,KEEZHAKASAKUDIMEDU, KOTTUCHERRY(P.O), KARAIKAL - 609 609, U.T. OF PUDUCHERRY, Puducherry, 609609",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,200135,200135,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,201531,201531,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,NAGPUR,Government Dental College And Hospital GMC Campus Nagpur, Maharashtra, 440003",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,201635,201635,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,202861,202861,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,NAGPUR,Government Dental College And Hospital GMC Campus Nagpur, Maharashtra, 440003",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,203013,203013,AIR,Deemed/Paid Seats Quota,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,203142,203142,AIR,All India,"Government Dental College, Thrissur,MEDICAL COLLEGE(P O) THRISSUR, Kerala, 680596",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,205493,205493,AIR,All India,"GOVT. DENTAL COLLEGE, KOZIKODE,MEDICAL COLLEGE CAMPUS, MEDICAL COLLEGE P.O., KOZHIKODE, Kerala, 673008",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,205908,205908,AIR,All India,"Government Dental College Hyderabad,GOVERNMENT DENTAL COLLEGE AND HOSPITAL, AFZALGUNJ, HYDERABAD - 500012, Telangana, 500012",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,206351,206351,AIR,All India,"Government Dental College Hyderabad,GOVERNMENT DENTAL COLLEGE AND HOSPITAL, AFZALGUNJ, HYDERABAD - 500012, Telangana, 500012",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,206636,206636,AIR,Deemed/Paid Seats Quota,"JSS Dental College, Mysuru,The Principal JSS Dental College and Hospital Medical Institutions Campus Bannimantap S S Nagar Mysu, Karnataka, 570015",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,207338,207338,AIR,All India,"FACULTY OF DEN SCI, KG MED UNIV,LUCKNOW,SHAHMINA ROAD, CHOWK,LUCKNOW, Uttar Pradesh, 226003",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,209155,209155,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,209294,209294,AIR,All India,"Govt dental college Pudukkottai,GOVT DENTAL COLLEGE MULLUR PUDUKKOTTAI, Tamil Nadu, 622003",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,210372,210372,AIR,All India,"Government Dental College, Silchar,Government Dental College,Silchar,Hailakandi road,Near Silchar Medical College,Ghungoor,Silchar, Assam, 788014",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,211141,211141,AIR,All India,"GOVT. DC & RESEARCH INSt., BELLARY,GOVT DENTAL COLLEGE AND RI, VIMS CAMPUS, CANTONMENT BELLARY, Karnataka, 583104",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,212215,212215,AIR,All India,"Government Dental College, Alappuzha,Government Dental College T.D Medical College (PO) Alappuzha,Kerala, Kerala, 688005",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,212797,212797,AIR,All India,"Government Dental College, Alappuzha,Government Dental College T.D Medical College (PO) Alappuzha,Kerala, Kerala, 688005",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,213244,213244,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College, Navi Mumbai,Plot No. 2, Sector 7, Nerul, Navi Mumbai, Maharashtra, Maharashtra, 400706",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,214727,214727,AIR,Deemed/Paid Seats Quota,"Vinayaka Missions Medical College and Hospital, Karaikal,KEEZHAKASAKUDIMEDU, KOTTUCHERRY(P.O), KARAIKAL - 609 609, U.T. OF PUDUCHERRY, Puducherry, 609609",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,216189,216189,AIR,Deemed/Paid Seats Quota,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,217534,217534,AIR,Deemed/Paid Seats Quota,"Malla Reddy Dental College For Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,217738,217738,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,219929,219929,AIR,All India,"GOVT DENTAL COLLEGE Kannur,Pariyaram Medical College P O, Kannur, Kerala- 670503., Kerala, 670503",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,220623,220623,AIR,All India,"GOVT. DENTAL COLLEGE, KOTTAYAM,Government Dental College, P.O.Gandhinagar Kottayam- 686008, Kerala, 686008",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,221758,221758,AIR,All India,"GOVT. DENTAL COLLEGE, KOZIKODE,MEDICAL COLLEGE CAMPUS, MEDICAL COLLEGE P.O., KOZHIKODE, Kerala, 673008",BDS,SC,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,233543,233543,AIR,All India,"M.G.D.C. & HOSPITAL, PUDUCHERRY,GOVT. OF PUDUCHERRY INSTITUTION, GORIMEDU, PONDICHERRY, Puducherry, 605006",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,234151,234151,AIR,Deemed/Paid Seats Quota,"Indira Gandhi Institute of Dental Sciences, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam,, Puducherry, 607402",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,236316,236316,AIR,All India,"Burdwan Dental College & Hospital, Burdwan,POWER HOUSE PARA, BURDWAN TOWN. PURBA BARDHAMAN. W.B- 713101, West Bengal, 713101",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,237048,237048,AIR,Deemed/Paid Seats Quota,"Sri Ramachandra Med. College and Res. Inst., Chennai,No. One Ramachandra Nagar, Porur, Chennai., Tamil Nadu, 600116",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,241986,241986,AIR,All India,"TAMILNADU GOVT D.C. & HOSP, CHENNAI,No. 1, TNPSC SALAI, PARK TOWN, CHENNAI 600003, Tamil Nadu, 600003",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,245798,245798,AIR,All India,"GOA DENTAL COLLEGE & HOSPITAL, GOA,Bambolim,Goa, Goa, 403202",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,247261,247261,AIR,Deemed/Paid Seats Quota,"Manipal College of Dental Science, Mangalore,Light House Hill Road, Mangalore India, Karnataka, 575001",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,250178,250178,AIR,All India,"Dental Institue, RIMS, Ranchi,Dental Institute, Rajendra Institute of Medical Sciences, Bariatu, Ranchi, Jharkhand, 843009",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,254350,254350,AIR,Deemed/Paid Seats Quota,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,259770,259770,AIR,All India,"GOVT. DENTAL COLL.& HOSP., JAMNAGAR,Opp. City Police Line, Navagam Ghed, Jamnagar, Gujarat, 361008",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,267327,267327,AIR,All India,"Govt Dental College RIMS Kadapa,PRINCIPAL GOVT DENTAL COLLEGE, RIMS, PUTLAMPALLI KADAPA State ANDHRA PRADESH Pin 516004, Andhra Pradesh, 516004",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,269290,269290,AIR,All India,"Government Dental College Hyderabad,GOVERNMENT DENTAL COLLEGE AND HOSPITAL, AFZALGUNJ, HYDERABAD - 500012, Telangana, 500012",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,270532,270532,AIR,Deemed/Paid Seats Quota,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,271101,271101,AIR,Deemed/Paid Seats Quota,"Aarupadai Veedu Medical College and Hospt., Puducherry,PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY, Puducherry, 607403",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,271525,271525,AIR,Deemed/Paid Seats Quota,"Vinayaka Missions Medical College and Hospital, Karaikal,KEEZHAKASAKUDIMEDU, KOTTUCHERRY(P.O), KARAIKAL - 609 609, U.T. OF PUDUCHERRY, Puducherry, 609609",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,273671,273671,AIR,Deemed/Paid Seats Quota,"Santosh Medical College and Hospital, Ghaziabad,No.1, Santosh Nagar, Ghaziabad, NCR Delhi, Uttar Pradesh, 201009",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,273882,273882,AIR,Deemed/Paid Seats Quota,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,274139,274139,AIR,Deemed/Paid Seats Quota,"Indira Gandhi Institute of Dental Sciences, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam,, Puducherry, 607402",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,274177,274177,AIR,All India,"DR. R. AHMED DENT.COLL & HOSP,KOLKATA,114 AJC BOSE ROAD, West Bengal, 700014",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,276080,276080,AIR,All India,"PATNA DENTAL COLLEGE & HOSPITAL, PATNA,BANKIPUR,ASHOK RAJPATH,PATNA, Bihar, 800004",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,277176,277176,AIR,Deemed/Paid Seats Quota,"Aarupadai Veedu Medical College and Hospt., Puducherry,PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY, Puducherry, 607403",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,278038,278038,AIR,Deemed/Paid Seats Quota,"Graphic Era Institute Of Medical Science,Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun Uttarakhand 2480, Uttarakhand, 248007",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,281923,281923,AIR,Deemed/Paid Seats Quota,"VMKV Medical College and Hospital, Salem,Sankari Main Road, NH-47, Seeragapadi, Salem, Tamil Nadu, 636308",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,284011,284011,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,286259,286259,AIR,Deemed/Paid Seats Quota,"KLE VK Inst. of Dental Scie. Belagavi,KLE V.K. Institute of Dental Sciences, J.N. Medical College Campus, Nehru Nagar,Belagavi-590010.Karn, Karnataka, 590010",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,286698,286698,AIR,All India,"GOVT. DENTAL COLLEGE, RAIPUR,Near Marahi Mata Mandir, Rajbandha Maidan, Raipur (C.G.), Chhattisgarh, 492001",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,290076,290076,AIR,All India,"ESIC Dental College, Gulbarga,ESIC MEDICAL COLLEGE & HOSPITAL CAMPUS, Sedam Road, Gulbarga, Karnataka, 585106",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,291341,291341,AIR,All India,"Government Dental College Dibrugarh,I Lane, inside Assam Medical college campus, Barbari, Dibrugarh-786002, Assam, 786002",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,293097,293097,AIR,Deemed/Paid Seats Quota,"Aarupadai Veedu Medical College and Hospt., Puducherry,PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY, Puducherry, 607403",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,293883,293883,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,MUMBAI,St Georges Hospital Compound P D Mellow road Fort Mumbai, Maharashtra, 400001",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,295547,295547,AIR,Deemed/Paid Seats Quota,"Malla Reddy Dental College For Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",BDS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,296122,296122,AIR,Deemed/Paid Seats Quota,"BHAARATH MEDICAL COLLEGE AND HOSPITAL,173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073, Tamil Nadu, 600073",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,296641,296641,AIR,Deemed/Paid Seats Quota,"Chettinad Hos. and Res. Inst., Kancheepuram,Rajiv Gandhi Salai, Kelambakkam, Chengalpattu District, Tamil Nadu, 603103",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,297538,297538,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,298408,298408,AIR,Deemed/Paid Seats Quota,"VELS MEDICAL COLLEGE & HOSPITAL,12-123, Velan Nagar, Manjankaranai Village, Periyapalayam Road, Uthukottai Taluk, Tiruvallur Dist., Tamil Nadu, 601102",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,301132,301132,AIR,All India,"REGIONAL DENTAL COLLEGE, GUWAHATI,Regional Dental College, Bhangagarh, PO Indrapur, Dist.-Kamrup Metro, Assam, 781032",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,302770,302770,AIR,All India,"Rajah Muthiah Dental College and Hos. , Annamalai ,GOVT DENTAL COLLEGE AND HOSPITAL, CUDDALORE DT- ANNAMALAINAGAR CHIDAMBARAM, Tamil Nadu, 608002",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,302937,302937,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,304558,304558,AIR,Deemed/Paid Seats Quota,"Aarupadai Veedu Medical College and Hospt., Puducherry,PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY, Puducherry, 607403",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,306029,306029,AIR,All India,"GOVT DENTAL COLLEGE Kannur,Pariyaram Medical College P O, Kannur, Kerala- 670503., Kerala, 670503",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,306825,306825,AIR,Deemed/Paid Seats Quota,"VMKV Medical College and Hospital, Salem,Sankari Main Road, NH-47, Seeragapadi, Salem, Tamil Nadu, 636308",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,308157,308157,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College, Navi Mumbai,Plot No. 2, Sector 7, Nerul, Navi Mumbai, Maharashtra, Maharashtra, 400706",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,308212,308212,AIR,Deemed/Paid Seats Quota,"Malla Reddy Dental College For Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,308545,308545,AIR,All India,"GOVT. DENTAL COLLEGE & HOSP.,AURANGABAD,Government Medical College and Hospital Campus Dhanwantari Nagar Ghati Chha. Sambhajinagar Aurangaba, Maharashtra, 431001",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,311280,311280,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,313630,313630,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,313727,313727,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,321163,321163,AIR,Deemed/Paid Seats Quota,"Sharad Pawar Dental College and Hospital, Wardha,Sawangi (Meghe), Wardha, Maharashtra State, INDIA, Maharashtra, 442107",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,322118,322118,AIR,Deemed/Paid Seats Quota,"Aarupadai Veedu Medical College and Hospt., Puducherry,PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY, Puducherry, 607403",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,322195,322195,AIR,Deemed/Paid Seats Quota,"Malla Reddy Dental College For Women, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055 (Female Seat only )",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,322811,322811,AIR,Deemed/Paid Seats Quota,"Indira Gandhi Institute of Dental Sciences, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam,, Puducherry, 607402",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,323938,323938,AIR,Deemed/Paid Seats Quota,"Santosh Medical College and Hospital, Ghaziabad,No.1, Santosh Nagar, Ghaziabad, NCR Delhi, Uttar Pradesh, 201009",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,324000,324000,AIR,All India,"Jawaharlal Nehru Institute of Dental Sciences, Imphal,Porompat, Imphal East, Manipur, Manipur, 795005",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,324694,324694,AIR,All India,"GOVT. DENTAL COLLEGE, KOTTAYAM,Government Dental College, P.O.Gandhinagar Kottayam- 686008, Kerala, 686008",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,325552,325552,AIR,All India,"S.C.B. MEDICAL COLL(DENTAL),CUTTACK,S.C.B. Dental College and Hospital, Mangalabag, Cuttack, Pin-753 007, Odisha, 753007",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,327405,327405,AIR,Deemed/Paid Seats Quota,"Graphic Era Institute Of Medical Science,Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun Uttarakhand 2480, Uttarakhand, 248007",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,329841,329841,AIR,Deemed/Paid Seats Quota,"Sri Siddhartha DentalCollege, Tumkur,AGALAKOTE B H ROAD TUMKUR, Karnataka, 572107",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,330174,330174,AIR,Deemed/Paid Seats Quota,"Aarupadai Veedu Medical College and Hospt., Puducherry,PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY, Puducherry, 607403",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,333485,333485,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Dental College and Hosp. Pune,Mahesh Nagar, Pimpri, Pune - 411018, Maharashtra, 411018",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,333529,333529,AIR,Deemed/Paid Seats Quota,"Amrita School of Medicine Faridabad,Mata Amritanandmayi Marg, Sector-88, Faridabad, Haryana, 121002",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,335502,335502,AIR,Deemed/Paid Seats Quota,"Sri Siddhartha DentalCollege, Tumkur,AGALAKOTE B H ROAD TUMKUR, Karnataka, 572107",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,338859,338859,AIR,Deemed/Paid Seats Quota,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru,Deralakatte, Mangaluru, Dakshina Kannada, Karnataka, 575018",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,339420,339420,AIR,All India,"Jawaharlal Nehru Medical College, Bhagalpur,SUKHRAJ RAI PATH, BHAGALPUR, Bihar, 812001",MBBS,Open PwD,GNYes,Allotted,19
+2024,MOPUP,MCC,AIQ,340911,340911,AIR,Deemed/Paid Seats Quota,"KLE VK Inst. of Dental Scie. Belagavi,KLE V.K. Institute of Dental Sciences, J.N. Medical College Campus, Nehru Nagar,Belagavi-590010.Karn, Karnataka, 590010",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,343368,343368,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,344441,344441,AIR,Deemed/Paid Seats Quota,"BHAARATH MEDICAL COLLEGE AND HOSPITAL,173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073, Tamil Nadu, 600073",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,346659,346659,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,346901,346901,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,347275,347275,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,353486,353486,AIR,Deemed/Paid Seats Quota,"Graphic Era Institute Of Medical Science,Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun Uttarakhand 2480, Uttarakhand, 248007",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,355902,355902,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,359210,359210,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,363419,363419,AIR,Deemed/Paid Seats Quota,"Graphic Era Institute Of Medical Science,Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun Uttarakhand 2480, Uttarakhand, 248007",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,365927,365927,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,366391,366391,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,371938,371938,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,372374,372374,AIR,Deemed/Paid Seats Quota,"Chettinad Hos. and Res. Inst., Kancheepuram,Rajiv Gandhi Salai, Kelambakkam, Chengalpattu District, Tamil Nadu, 603103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,372878,372878,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,373723,373723,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,375698,375698,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,376018,376018,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,377929,377929,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,377950,377950,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,380275,380275,AIR,Non-Resident Indian,"Sri Ramachandra Med. College and Res. Inst., Chennai,No. One Ramachandra Nagar, Porur, Chennai., Tamil Nadu, 600116",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,380793,380793,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,383340,383340,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,386641,386641,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,388625,388625,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,394423,394423,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,394681,394681,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,403808,403808,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,406501,406501,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,408495,408495,AIR,Deemed/Paid Seats Quota,"Chettinad Hos. and Res. Inst., Kancheepuram,Rajiv Gandhi Salai, Kelambakkam, Chengalpattu District, Tamil Nadu, 603103",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,412259,412259,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Dental College and Hosp. Pune,Mahesh Nagar, Pimpri, Pune - 411018, Maharashtra, 411018",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,412262,412262,AIR,Deemed/Paid Seats Quota,"Shri Sathya Sai Medical College and Research Institute, Chennai,SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai, Tamil Nadu, 603108",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,412772,412772,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,412803,412803,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,416394,416394,AIR,Deemed/Paid Seats Quota,"Chettinad Hos. and Res. Inst., Kancheepuram,Rajiv Gandhi Salai, Kelambakkam, Chengalpattu District, Tamil Nadu, 603103",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,417539,417539,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,418227,418227,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,423613,423613,AIR,Deemed/Paid Seats Quota,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara,Sumandeep Vidyapeeth Piparia Waghodia Vadodara Gujarat, Gujarat, 391760",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,424915,424915,AIR,Deemed/Paid Seats Quota,"Santosh Medical College and Hospital, Ghaziabad,No.1, Santosh Nagar, Ghaziabad, NCR Delhi, Uttar Pradesh, 201009",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,425143,425143,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,425456,425456,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,425714,425714,AIR,Deemed/Paid Seats Quota,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,428946,428946,AIR,Deemed/Paid Seats Quota,"BHAARATH MEDICAL COLLEGE AND HOSPITAL,173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073, Tamil Nadu, 600073",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,429077,429077,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,430292,430292,AIR,Non-Resident Indian,"B.L.D.E University, Bijapur,SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD VIJAYAPURA KARNATAKA, Karnataka, 586103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,437307,437307,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,438275,438275,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,443076,443076,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,445500,445500,AIR,Deemed/Paid Seats Quota,"BHAARATH MEDICAL COLLEGE AND HOSPITAL,173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073, Tamil Nadu, 600073",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,447572,447572,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,449591,449591,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,452221,452221,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,453629,453629,AIR,Deemed/Paid Seats Quota,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,458543,458543,AIR,IP University Quota,"ESIC Dental College and Hospital,ESIC Hospital, Sector 15, Rohini, Delhi (NCT), 110089",BDS,ST,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,462959,462959,AIR,All India,"Government Medical college, Haridwar,jagjeetpur Laksar road Haridwar, Uttarakhand, 249408",MBBS,Open PwD,EWS PwD,Allotted,19
+2024,MOPUP,MCC,AIQ,463509,463509,AIR,Deemed/Paid Seats Quota,"BHAARATH MEDICAL COLLEGE AND HOSPITAL,173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073, Tamil Nadu, 600073",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,469160,469160,AIR,Deemed/Paid Seats Quota,"Santosh Medical College and Hospital, Ghaziabad,No.1, Santosh Nagar, Ghaziabad, NCR Delhi, Uttar Pradesh, 201009",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,475290,475290,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,478340,478340,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,480015,480015,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,481629,481629,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,483440,483440,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,488021,488021,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,500321,500321,AIR,Non-Resident Indian,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,500431,500431,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,501511,501511,AIR,Non-Resident Indian,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,503824,503824,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,504609,504609,AIR,All India,"Autonomous State Medical College, Sultanpur, Uttar Pradesh,Autonomous State Medical College Dubepur Sultanpur, Uttar Pradesh, 227815",MBBS,Open PwD,OBC PwD,Allotted,19
+2024,MOPUP,MCC,AIQ,506330,506330,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,510316,510316,AIR,Non-Resident Indian,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,526249,526249,AIR,Non-Resident Indian,"B.L.D.E University, Bijapur,SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD VIJAYAPURA KARNATAKA, Karnataka, 586103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,528402,528402,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,529704,529704,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,531656,531656,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,534006,534006,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,543515,543515,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,543798,543798,AIR,Deemed/Paid Seats Quota,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,548572,548572,AIR,Non-Resident Indian,"Yenepoya Medical College, Mangalore,University Road Deralakatte Mangaluru, Karnataka, 575018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,550063,550063,AIR,All India,"Kakatiya Medical College Warangal,SVP Road, Warangal, Telangana, 506007",MBBS,Open PwD,EWS PwD,Allotted,19
+2024,MOPUP,MCC,AIQ,551773,551773,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,553694,553694,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,560021,560021,AIR,Deemed/Paid Seats Quota,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry,OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY, Puducherry, 605502",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,570867,570867,AIR,Non-Resident Indian,"Malla Reddy Institute of Dental Sciences, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana 500055, Telangana, 500055",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,571021,571021,AIR,Non-Resident Indian,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,597816,597816,AIR,Non-Resident Indian,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,599739,599739,AIR,Non-Resident Indian,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,616255,616255,AIR,Non-Resident Indian,"B.L.D.E University, Bijapur,SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD VIJAYAPURA KARNATAKA, Karnataka, 586103",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,639272,639272,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,645032,645032,AIR,Non-Resident Indian,"Meenakshi Medical College Hospital and Research Institute, Kanchipuram,Enathur, Karaipettai Post, Kanchipuram, Tamil Nadu, 631552",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,650209,650209,AIR,Non-Resident Indian,"Santosh Medical College and Hospital, Ghaziabad,No.1, Santosh Nagar, Ghaziabad, NCR Delhi, Uttar Pradesh, 201009",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,654051,654051,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,656309,656309,AIR,Non-Resident Indian,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,663111,663111,AIR,Non-Resident Indian,"SDU Medical College, Kolar,SRI DEVARAJ URS MEDICAL COLLEGE, TAMAKA, KOLAR, Karnataka, 563103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,663271,663271,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,666339,666339,AIR,Non-Resident Indian,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth,Sumandeep Vidyapeeth Deemed to be University Campus, At. Po.Piparia, Tal.Waghodia, Dist.Vadodara, Gujarat, 391760",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,668522,668522,AIR,Non-Resident Indian,"Raja Rajeswari Medical College Bengaluru,202, Kambipura, Bengaluru Mysuru High Way,Kengeri Hobli, Bangalore, Karnataka, Karnataka, 560074",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,676948,676948,AIR,Non-Resident Indian,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth,Sumandeep Vidyapeeth Deemed to be University Campus, At. Po.Piparia, Tal.Waghodia, Dist.Vadodara, Gujarat, 391760",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,681665,681665,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,707107,707107,AIR,Non-Resident Indian,"Krishna Inst. of Med. Scie., Karad,KARAD, DIST. SATARA (MAHARASHTRA STATE)., Maharashtra, 415110",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,716834,716834,AIR,Non-Resident Indian,"Krishna Inst. of Med. Scie., Karad,KARAD, DIST. SATARA (MAHARASHTRA STATE)., Maharashtra, 415110",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,720893,720893,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,728414,728414,AIR,Non-Resident Indian,"Amrita School of Medicine Faridabad,Mata Amritanandmayi Marg, Sector-88, Faridabad, Haryana, 121002",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,735341,735341,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,739602,739602,AIR,Non-Resident Indian,"Malla Reddy Institute of Medical Sciences, Hyderabad ,Suraram X Roads Jeedimetla Hyderabad Telangana, Telangana, 500055",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,741777,741777,AIR,Non-Resident Indian,"MM Inst. Med. and Research, Mullana,M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA., Haryana, 133207",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,746033,746033,AIR,Open Seat Quota,"AIIMS, Madurai,AIIMS MADURAI, Tamil Nadu, 625008",MBBS,OBC PwD,OBC PwD,Allotted,19
+2024,MOPUP,MCC,AIQ,766267,766267,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,768898,768898,AIR,Non-Resident Indian(AMU)Quota,"Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH,ALIGARH MUSLIM UNIVERSITY, ALIGARH, Uttar Pradesh, 202002",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,774838,774838,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,796837,796837,AIR,All India,"GOVT.MEDICAL COLLEGE, AMRITSAR,CIRCULAR ROAD, AMRITSAR-143001, Punjab, 143001",MBBS,Open PwD,GNYes,Allotted,19
+2024,MOPUP,MCC,AIQ,803042,803042,AIR,Non-Resident Indian,"BVDU Dental College and Hospital, Navi Mumbai,Bharati Vidyapeeth Dental College and Hospital, Sec.7, Belapur Navi Mumbai., Maharashtra, 400614",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,843680,843680,AIR,Non-Resident Indian,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth,Sumandeep Vidyapeeth Deemed to be University Campus, At. Po.Piparia, Tal.Waghodia, Dist.Vadodara, Gujarat, 391760",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,855149,855149,AIR,Non-Resident Indian,"ACS Medical College and Hospital, Chennai,Periyar EVR High Raod, Velappanchavadi, Chennai-77, Tamil Nadu, 600077",MBBS,Open,ST,Allotted,19
+2024,MOPUP,MCC,AIQ,858646,858646,AIR,Non-Resident Indian,"VELS MEDICAL COLLEGE & HOSPITAL,12-123, Velan Nagar, Manjankaranai Village, Periyapalayam Road, Uthukottai Taluk, Tiruvallur Dist., Tamil Nadu, 601102",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,858988,858988,AIR,Non-Resident Indian,"GITAM Institue of Med. Sce. and Res., Visakhapatnam,Gandhi Institute of Technology and Management (GITAM), Rushikonda, Visakhapatnam, Andhra Pradesh, 530045",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,863618,863618,AIR,All India,"MAHARAJA K.C. GAJAPATI M.C.,BRAHMAPUR,MKCG MEDICAL COLLEGE CAMPUS, BERHAMPUR, GANJAM, Odisha, 760004",MBBS,Open PwD,GNYes,Allotted,19
+2024,MOPUP,MCC,AIQ,867611,867611,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,907454,907454,AIR,Non-Resident Indian,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,936575,936575,AIR,Non-Resident Indian,"B.L.D.E University, Bijapur,SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD VIJAYAPURA KARNATAKA, Karnataka, 586103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,968866,968866,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,969130,969130,AIR,Non-Resident Indian,"Bharati Vidyapeeth DU Medical College,Dhankawadi, Pune-Satara Road, Pune, Maharashtra, 411043",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,974011,974011,AIR,Non-Resident Indian,"B.L.D.E University, Bijapur,SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD VIJAYAPURA KARNATAKA, Karnataka, 586103",MBBS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,976904,976904,AIR,All India,"Pt. J N M MEDICAL COLLEGE, RAIPUR,In front of Central Jail, Jail Road Raipur C.G., Chhattisgarh, 492001",MBBS,Open PwD,GNYes,Allotted,19
+2024,MOPUP,MCC,AIQ,998593,998593,AIR,All India,"Government Medical College, Amravati ,Government Medical College District Women Hospital Campus Daffrin Shrikrishna Peth Amravati, Maharashtra, 444601",MBBS,OBC PwD,OBC PwD,Allotted,19
+2024,MOPUP,MCC,AIQ,1004503,1004503,AIR,Non-Resident Indian,"Graphic Era Institute Of Medical Science,Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun Uttarakhand 2480, Uttarakhand, 248007",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1043045,1043045,AIR,Non-Resident Indian,"Yenepoya Dental College, Yenepoya,University Road Deralakatte Mangaluru, Karnataka, 575018",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,1051292,1051292,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,1091985,1091985,AIR,Non-Resident Indian,"KLE VK Inst. of Dental Scie. Belagavi,KLE V.K. Institute of Dental Sciences, J.N. Medical College Campus, Nehru Nagar,Belagavi-590010.Karn, Karnataka, 590010",BDS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,1095839,1095839,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1106658,1106658,AIR,Non-Resident Indian,"B.L.D.E University, Bijapur,SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD VIJAYAPURA KARNATAKA, Karnataka, 586103",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1110789,1110789,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1113836,1113836,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,1115517,1115517,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,1122250,1122250,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,General,Allotted,19
+2024,MOPUP,MCC,AIQ,1132204,1132204,AIR,Non-Resident Indian,"Malla Reddy Institute of Dental Sciences, Hyderabad,Suraram X Roads Jeedimetla Hyderabad Telangana 500055, Telangana, 500055",BDS,Open,EWS,Allotted,19
+2024,MOPUP,MCC,AIQ,1162559,1162559,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,SC,Allotted,19
+2024,MOPUP,MCC,AIQ,1191666,1191666,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1203557,1203557,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1229862,1229862,AIR,All India,"GOVERNMENT MEDICAL COLLEGE, BUNDI,GOVT MEDICAL COLLEGE BUNDI, Rajasthan, 323001",MBBS,OBC PwD,OBC PwD,Allotted,19
+2024,MOPUP,MCC,AIQ,1246205,1246205,AIR,Non-Resident Indian,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1258853,1258853,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1263663,1263663,AIR,All India,"Govt Medical College Shahdol,GRAM CHAMPA KUDRI ROAD NEAR NEW BUS STAND SHAHDOL MP, Madhya Pradesh, 484001",MBBS,Open PwD,GNYes,Allotted,19
+2024,MOPUP,MCC,AIQ,1268851,1268851,AIR,Non-Resident Indian,"Dr. DY Patil Medical College and Hospt., Pune,Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune., Maharashtra, 411018",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1280094,1280094,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1296396,1296396,AIR,Non-Resident Indian,"Yenepoya Dental College, Yenepoya,University Road Deralakatte Mangaluru, Karnataka, 575018",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1311447,1311447,AIR,Non-Resident Indian,"Sree Balaji Medical College and Hospital, Chennai,NO 7 WORKS ROAD CHROMEPET CHENNAI, Tamil Nadu, 600044",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1334342,1334342,AIR,Non-Resident Indian,"Mahatma Gandhi Medical College, Pondicherry,SBV Pondicherry Campus, Pillaiyarkuppam, Puducherry, 607402",MBBS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1355797,1355797,AIR,Non-Resident Indian,"Yenepoya Dental College, Yenepoya,University Road Deralakatte Mangaluru, Karnataka, 575018",BDS,Open,OBC,Allotted,19
+2024,MOPUP,MCC,AIQ,1375142,1375142,AIR,Non-Resident Indian,"Yenepoya Dental College, Yenepoya,University Road Deralakatte Mangaluru, Karnataka, 575018",BDS,Open,OBC,Allotted,19

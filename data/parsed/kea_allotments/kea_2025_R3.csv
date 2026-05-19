@@ -1,0 +1,968 @@
+year,round,authority,counselling_scope,rank_raw,air,rank_type,allotted_quota,college_raw,course,seat_category,candidate_category,fee,status,source_id
+2025,R3,KEA,STATE_KA,3478,3478,AIR,,"Bangalore Medical College,NO- 2, Fort , K R ROAD,Bangalore",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,10468,10468,AIR,,"Shri Atal Bihari Vajpayee Institute of Medical Science,,Bengaluru",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,17479,17479,AIR,,"Mysore Medical College,Irwin Road,,Mysore",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,21922,21922,AIR,,"Chikkamagaluru Institute of Medical Sciences,,Chikkamagaluru",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,29482,29482,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,30115,30115,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,32055,32055,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,33999,33999,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,36379,36379,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,40653,40653,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,,Ban galore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,41216,41216,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,41774,41774,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,42574,42574,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,42725,42725,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,43243,43243,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,44094,44094,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,47549,47549,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,48881,48881,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,50727,50727,AIR,,"Jaya Jagadguru Murugharajendra Medical College,,Davangere District",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,51854,51854,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,52049,52049,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,52630,52630,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,53382,53382,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,53748,53748,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,54305,54305,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,55082,55082,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,56164,56164,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,58142,58142,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,58192,58192,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,58227,58227,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,2BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,58767,58767,AIR,,"Chitradurga Medical College and Research Institute,,Chitradurga",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,58928,58928,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2BG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,59470,59470,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,59847,59847,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMR,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,60316,60316,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,60456,60456,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,60728,60728,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,60852,60852,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,61027,61027,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,61125,61125,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,61685,61685,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,62389,62389,AIR,,"Chitradurga Medical College and Research Institute,,Chitradurga",MBBS,GM,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,62554,62554,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,62630,62630,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,62809,62809,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,62858,62858,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,63155,63155,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2AG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,63162,63162,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,63403,63403,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,63478,63478,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,3AG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,63542,63542,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,63581,63581,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,63749,63749,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,64359,64359,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,64525,64525,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,64821,64821,AIR,,"Chitradurga Medical College and Research Institute,,Chitradurga",MBBS,GMR,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,65543,65543,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,65627,65627,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,66060,66060,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,3BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,66133,66133,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,66155,66155,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,67376,67376,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,67796,67796,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,67981,67981,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,68009,68009,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,68080,68080,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,68416,68416,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,68724,68724,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,3BG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,68792,68792,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,69155,69155,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,69352,69352,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,69775,69775,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,3AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,69960,69960,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,70086,70086,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,70113,70113,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,70160,70160,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,70162,70162,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,70390,70390,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,70476,70476,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,70485,70485,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,70627,70627,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GM,,182371,Allotted,34
+2025,R3,KEA,STATE_KA,70743,70743,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,3AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,71051,71051,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,3BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,71309,71309,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,71507,71507,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,71867,71867,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,71976,71976,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,71995,71995,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,72124,72124,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,72137,72137,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,72303,72303,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,72675,72675,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,72679,72679,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,72776,72776,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,72779,72779,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,2BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,72854,72854,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,3AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,72954,72954,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,73149,73149,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,73393,73393,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,73488,73488,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,73545,73545,AIR,,"Koppal Institute of Medical Sciences,GANGAVATI ROAD, KIDDIDAL GATE,,KOPPAL",MBBS,2AG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,73559,73559,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,73645,73645,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,73735,73735,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,3AG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,73875,73875,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74011,74011,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74105,74105,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74169,74169,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74200,74200,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74263,74263,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,74270,74270,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,74304,74304,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74462,74462,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74554,74554,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,74702,74702,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,74708,74708,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74727,74727,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,74736,74736,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75089,75089,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75410,75410,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75476,75476,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75498,75498,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,75560,75560,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,75568,75568,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75580,75580,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,GM,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,75652,75652,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,75737,75737,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,75755,75755,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75812,75812,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75863,75863,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,3BH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,75887,75887,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,75900,75900,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,75976,75976,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GM,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,76023,76023,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,76894,76894,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GM,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,76952,76952,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,GM,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,77300,77300,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,GM,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,77509,77509,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,GM,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,77734,77734,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,3AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,77912,77912,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,3AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,77989,77989,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,3BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,78126,78126,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,78637,78637,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,3AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,79075,79075,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,2BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,79106,79106,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,3BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,79158,79158,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,79231,79231,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,2BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,79508,79508,AIR,,"Yadgiri Institute of Medical Sciences,,Yadgiri",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,79520,79520,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2BH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,79565,79565,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,3BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,79636,79636,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,79869,79869,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,80138,80138,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,2BG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,80276,80276,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,1G,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,80365,80365,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,80581,80581,AIR,,"Chikkaballapura Institute of Medical Science,,Chikkaballapura",MBBS,3BH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,81100,81100,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,81143,81143,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,1G,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,81730,81730,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,82063,82063,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,2AG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,82306,82306,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,Kengeri, Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,82423,82423,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMR,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,82466,82466,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,82851,82851,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,83057,83057,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,2BG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,83118,83118,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,83291,83291,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,83397,83397,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,83515,83515,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,83731,83731,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,3AH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,83777,83777,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,83949,83949,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,84002,84002,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,84042,84042,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,2AG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,84232,84232,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,84272,84272,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,84310,84310,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMR,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,84503,84503,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,84580,84580,AIR,,"Jaya Jagadguru Murugharajendra Medical College,,Davangere District",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,84735,84735,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,3BR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,84802,84802,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,85294,85294,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,85357,85357,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,85377,85377,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,1H,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,85841,85841,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,85938,85938,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,85941,85941,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,86032,86032,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,86607,86607,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,86635,86635,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,2BH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,86682,86682,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,87142,87142,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,87165,87165,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,87614,87614,AIR,,"Kodagu Institute of Medical Sciences,,MADIKERI",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,87728,87728,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,87819,87819,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,87920,87920,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,88169,88169,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2AH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,88187,88187,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,88485,88485,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,3AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,88497,88497,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,2AG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,88626,88626,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMH,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,88641,88641,AIR,,"Yadgiri Institute of Medical Sciences,,Yadgiri",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,88702,88702,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,88770,88770,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,89108,89108,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,89193,89193,AIR,,"Chitradurga Medical College and Research Institute,,Chitradurga",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,89369,89369,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,89664,89664,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,GMR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,89705,89705,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,89722,89722,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,3BR,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,90044,90044,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,90339,90339,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,90509,90509,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,GMR,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,90769,90769,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,GMKH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,90854,90854,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,2AR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,90857,90857,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,90884,90884,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,90941,90941,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,90990,90990,AIR,,"Chitradurga Medical College and Research Institute,,Chitradurga",MBBS,GMH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,91204,91204,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,GMH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,91238,91238,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,91342,91342,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2AH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,91433,91433,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,91495,91495,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,1G,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,91687,91687,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,91735,91735,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,91742,91742,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,91917,91917,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,92129,92129,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,92264,92264,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2AH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,92300,92300,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,92347,92347,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,3BH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,92397,92397,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,2AR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,92825,92825,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,2AG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,92905,92905,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,92961,92961,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,93032,93032,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMKH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,93141,93141,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,GMR,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,93185,93185,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,93187,93187,AIR,,"Yenepoya Medical College,University Road, Nithyanandar,Mangalore",MBBS,3BH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,93353,93353,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,93568,93568,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,93612,93612,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,94028,94028,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,94231,94231,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,94557,94557,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,94791,94791,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,2ARH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,95024,95024,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMK,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,95163,95163,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,3AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,95305,95305,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,3AH,,182371,Allotted,34
+2025,R3,KEA,STATE_KA,95321,95321,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,3AH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,95410,95410,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,95448,95448,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,95682,95682,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,95767,95767,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,95905,95905,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,2AG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,95918,95918,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,95963,95963,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,96066,96066,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,2AG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,96177,96177,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,2AG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,96179,96179,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,2AG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,96678,96678,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,2AG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,96808,96808,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,1G,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,97030,97030,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,2AG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,97108,97108,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,98063,98063,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,98133,98133,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,,Muddenahalli,CHIKK ABALLAPURA",MBBS,2AG,,0,Allotted,34
+2025,R3,KEA,STATE_KA,98449,98449,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,98704,98704,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,1G,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,98890,98890,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,2AG,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,99168,99168,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,99251,99251,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMRH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,99395,99395,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,99604,99604,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,99640,99640,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,99642,99642,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,99816,99816,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,1G,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,100154,100154,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,1G,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,100337,100337,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,100486,100486,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,100552,100552,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,101455,101455,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,2AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,101580,101580,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,102283,102283,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,102289,102289,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,102349,102349,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,103054,103054,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,2AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,103351,103351,AIR,,"Yadgiri Institute of Medical Sciences,,Yadgiri",MBBS,GMRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,103581,103581,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,103870,103870,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,104024,104024,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,1R,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,104305,104305,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,104338,104338,AIR,,"Koppal Institute of Medical Sciences,GANGAVATI ROAD, KIDDIDAL GATE,,KOPPAL",MBBS,3BRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,104507,104507,AIR,,"Yadgiri Institute of Medical Sciences,,Yadgiri",MBBS,GMRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,105225,105225,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,2AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,105818,105818,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,106022,106022,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,106131,106131,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,2AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,106278,106278,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,106404,106404,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,106652,106652,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,107053,107053,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,107205,107205,AIR,,"Chamarajanagar Institute of Medical Science,SURVEY NO 124, YADAPURA,CHAMARAJANAG AR",MBBS,1H,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,107383,107383,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,2AH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,107775,107775,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,108000,108000,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,2AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,108184,108184,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,108689,108689,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,108713,108713,AIR,,"Chitradurga Medical College and Research Institute,,Chitradurga",MBBS,1H,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,108919,108919,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,2AH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,109065,109065,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,Kengeri, Bangalore",MBBS,2ARH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,109071,109071,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,109275,109275,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,1H,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,109348,109348,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,109556,109556,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,109806,109806,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,109855,109855,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,111042,111042,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,111304,111304,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,111883,111883,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,2AH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,112438,112438,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,113183,113183,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,115135,115135,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,115192,115192,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,116672,116672,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,117193,117193,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,117218,117218,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,117739,117739,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,117882,117882,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMKH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,117892,117892,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,117899,117899,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OPN,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,119015,119015,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,119484,119484,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,121898,121898,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,122249,122249,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,2AK,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,122569,122569,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,,Ban galore",MBBS,GMK,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,122959,122959,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,GMK,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,123624,123624,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,123759,123759,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,124610,124610,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,124901,124901,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,GMKH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,125447,125447,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,125727,125727,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,125760,125760,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMK,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,126223,126223,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMK,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,126359,126359,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,127024,127024,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,127326,127326,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,128019,128019,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,128626,128626,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,129344,129344,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,129558,129558,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,129738,129738,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,130037,130037,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,130180,130180,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,130411,130411,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,131152,131152,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,131431,131431,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,131586,131586,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,131680,131680,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMP,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,132379,132379,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,OPN,,1629965,Allotted,34
+2025,R3,KEA,STATE_KA,133279,133279,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,,Muddenahalli,CHIKK ABALLAPURA",MBBS,OPN,,2200000,Allotted,34
+2025,R3,KEA,STATE_KA,134706,134706,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Dharwad",MBBS,OPN,,2015000,Allotted,34
+2025,R3,KEA,STATE_KA,135917,135917,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,MM,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,135955,135955,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,136489,136489,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,137110,137110,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Dharwad",MBBS,GMP,,2015000,Allotted,34
+2025,R3,KEA,STATE_KA,137867,137867,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,OPN,,1629965,Allotted,34
+2025,R3,KEA,STATE_KA,138839,138839,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,139076,139076,AIR,,"Chikkaballapura Institute of Medical Science,,Chikkaballapura",MBBS,OTH,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,143243,143243,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,144372,144372,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,GMP,,1629965,Allotted,34
+2025,R3,KEA,STATE_KA,144379,144379,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,145559,145559,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,147541,147541,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,148875,148875,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,149059,149059,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,149193,149193,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,149320,149320,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,149912,149912,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,150925,150925,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,152589,152589,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,154234,154234,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,155937,155937,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,156006,156006,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,158722,158722,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,161043,161043,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,161570,161570,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,161794,161794,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,161838,161838,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,162080,162080,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,162287,162287,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,163709,163709,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,164062,164062,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,165521,165521,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,168886,168886,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,169744,169744,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,173033,173033,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,173409,173409,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,174009,174009,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,SCG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,174089,174089,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,174599,174599,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,175120,175120,AIR,,"Hassan Institute of Medical Sciences,Near Chamarajendra Hospital,Hassan",MBBS,SCG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,179582,179582,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,179823,179823,AIR,,"Chikkaballapura Institute of Medical Science,,Chikkaballapura",MBBS,OTH,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,180761,180761,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,186420,186420,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,188972,188972,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,192236,192236,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,STG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,192550,192550,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,192713,192713,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,193443,193443,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,STG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,194564,194564,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,194766,194766,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,195020,195020,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,STH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,195136,195136,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,STRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,195339,195339,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Bangalore",MBBS,GMP,,2515000,Allotted,34
+2025,R3,KEA,STATE_KA,197201,197201,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,197423,197423,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,197977,197977,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,199010,199010,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,201573,201573,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,202596,202596,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,STG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,204165,204165,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,205710,205710,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,SCRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,207509,207509,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,210755,210755,AIR,,"Shri Atal Bihari Vajpayee Institute of Medical Science,,Bengaluru",MBBS,SCG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,210918,210918,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,SCK,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,211032,211032,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,212423,212423,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,213459,213459,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,213485,213485,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,213615,213615,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,SCG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,214020,214020,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,SCH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,214196,214196,AIR,,"Koppal Institute of Medical Sciences,GANGAVATI ROAD, KIDDIDAL GATE,,KOPPAL",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,214498,214498,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,215603,215603,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,SCH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,216076,216076,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,SCR,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,216219,216219,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,217226,217226,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,,Mangalore",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,218641,218641,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,OTH,,4411950,Allotted,34
+2025,R3,KEA,STATE_KA,219268,219268,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,219567,219567,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,219621,219621,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,219776,219776,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,220268,220268,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,STG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,221329,221329,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,221454,221454,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,222418,222418,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,STH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,223023,223023,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,223243,223243,AIR,,"Mandya Institute of Medical Sciences,District Hospital,,Mandya",MBBS,SCG,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,223250,223250,AIR,,"Yenepoya Medical College,University Road, Nithyanandar,Mangalore",MBBS,STG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,224247,224247,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,224710,224710,AIR,,"Chamarajanagar Institute of Medical Science,SURVEY NO 124, YADAPURA,CHAMARAJANAG AR",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,224821,224821,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,SCH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,225296,225296,AIR,,"Yadgiri Institute of Medical Sciences,,Yadgiri",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,225379,225379,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,STG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,225742,225742,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,226624,226624,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,226772,226772,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,228572,228572,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,228628,228628,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,228829,228829,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,229033,229033,AIR,,"Yadgiri Institute of Medical Sciences,,Yadgiri",MBBS,SCH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,229374,229374,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,229378,229378,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,SCH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,229799,229799,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,SCG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,229811,229811,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,SCG,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,229815,229815,AIR,,"Sri Basaveshwara Medical College and Hospital,NH-4, S.J.M.I.T Campus,,Chitradurga",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,229829,229829,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,229864,229864,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,230103,230103,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,230273,230273,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,SCH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,230982,230982,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,SCR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,231092,231092,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,231129,231129,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,231180,231180,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,231214,231214,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,231384,231384,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,GMPH,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,231399,231399,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,231642,231642,AIR,,"Chikkamagaluru Institute of Medical Sciences,,Chikkamagaluru",MBBS,SCRH,,64350,Allotted,34
+2025,R3,KEA,STATE_KA,231946,231946,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,231995,231995,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,SCH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,232347,232347,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,232400,232400,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,233194,233194,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,SCG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,233221,233221,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,STH,,156621,Allotted,34
+2025,R3,KEA,STATE_KA,233354,233354,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,233364,233364,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,SCG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,233366,233366,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,SCR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,233474,233474,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,234353,234353,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,SCG,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,234577,234577,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,GMPH,,1629965,Allotted,34
+2025,R3,KEA,STATE_KA,235065,235065,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,SCG,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,235100,235100,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,SCH,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,235878,235878,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,SCRH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,236976,236976,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,SCRH,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,239235,239235,AIR,,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College,,Dharward",MBBS,SCR,,609084,Allotted,34
+2025,R3,KEA,STATE_KA,239435,239435,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,STR,,166621,Allotted,34
+2025,R3,KEA,STATE_KA,240993,240993,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,STR,,153571,Allotted,34
+2025,R3,KEA,STATE_KA,247773,247773,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Dharwad",MBBS,GMPH,,2015000,Allotted,34
+2025,R3,KEA,STATE_KA,263485,263485,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,272587,272587,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,275464,275464,AIR,,"Raichur Institute of Medical Sciences,Sy No.307 & 308,,Raichur",MBBS,OTH,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,275869,275869,AIR,,"M.S.Ramaiah Medical College,MSR Nagar, MSRIT Post,Bangalore",MBBS,OTH,,4515000,Allotted,34
+2025,R3,KEA,STATE_KA,285930,285930,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,,Mangalore",MBBS,MC,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,294829,294829,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,OTH,,2711950,Allotted,34
+2025,R3,KEA,STATE_KA,299569,299569,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,299679,299679,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,MMH,,1629965,Allotted,34
+2025,R3,KEA,STATE_KA,307278,307278,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,309555,309555,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,314018,314018,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,,Muddenahalli,CHIKK ABALLAPURA",MBBS,GMP,,2200000,Allotted,34
+2025,R3,KEA,STATE_KA,324487,324487,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,325218,325218,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,325840,325840,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,332584,332584,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,Kengeri, Bangalore",MBBS,OTH,,4286950,Allotted,34
+2025,R3,KEA,STATE_KA,339832,339832,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,343527,343527,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,345678,345678,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,347641,347641,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,348230,348230,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,353852,353852,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,361383,361383,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,361634,361634,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,361885,361885,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,368144,368144,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,369190,369190,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,371329,371329,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,376770,376770,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,379521,379521,AIR,,"Al-Ameen Medical College,ADMINISTRATIVE BLOCK,VIJAYAPUR",MBBS,OTH,,2711950,Allotted,34
+2025,R3,KEA,STATE_KA,380719,380719,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,GMPH,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,382260,382260,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,388972,388972,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,393328,393328,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,394544,394544,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,395111,395111,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,397208,397208,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,399528,399528,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,403962,403962,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,405639,405639,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,406430,406430,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,407062,407062,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,407085,407085,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,407286,407286,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OTH,,4311950,Allotted,34
+2025,R3,KEA,STATE_KA,408137,408137,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,408617,408617,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,408652,408652,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,411542,411542,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,413273,413273,AIR,,"Raichur Institute of Medical Sciences,Sy No.307 & 308,,Raichur",MBBS,OTH,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,415565,415565,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,415678,415678,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,418145,418145,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,418211,418211,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,418543,418543,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,419975,419975,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,OTH,,4411950,Allotted,34
+2025,R3,KEA,STATE_KA,421423,421423,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,421433,421433,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,421737,421737,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,426245,426245,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,427012,427012,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Dharwad",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,427841,427841,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,OTH,,4411950,Allotted,34
+2025,R3,KEA,STATE_KA,428318,428318,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,428753,428753,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,429318,429318,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,,Mangalore",MBBS,OTH,,3511950,Allotted,34
+2025,R3,KEA,STATE_KA,429546,429546,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,430781,430781,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,433256,433256,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,433821,433821,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,433854,433854,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,434406,434406,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,434845,434845,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,ME,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,435232,435232,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,436705,436705,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OPN,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,439568,439568,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,OTH,,4411950,Allotted,34
+2025,R3,KEA,STATE_KA,439665,439665,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GMP,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,443601,443601,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,OTH,,2500000,Allotted,34
+2025,R3,KEA,STATE_KA,444950,444950,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,445758,445758,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OPN,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,447301,447301,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,448505,448505,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,448939,448939,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,449153,449153,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GMP,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,451351,451351,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,451611,451611,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GMP,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,451763,451763,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,452196,452196,AIR,,"Belgaum Institute of Medical Sciences,Dr B R Ambedkar Road,,Belgaum",MBBS,OTH,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,453251,453251,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,459875,459875,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,,Muddenahalli,CHIKK ABALLAPURA",MBBS,GMP,,2200000,Allotted,34
+2025,R3,KEA,STATE_KA,460082,460082,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,460083,460083,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OTH,,4540750,Allotted,34
+2025,R3,KEA,STATE_KA,460219,460219,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,461050,461050,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GMP,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,461709,461709,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,462872,462872,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,463245,463245,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,464209,464209,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GMP,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,464985,464985,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,468590,468590,AIR,,"BGS Global Institute of Medical Sciences,# 67, BGS Health & Education,Kengeri, Bangalore",MBBS,OTH,,4286950,Allotted,34
+2025,R3,KEA,STATE_KA,468656,468656,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,472185,472185,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,473617,473617,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,476470,476470,AIR,,"Raichur Institute of Medical Sciences,Sy No.307 & 308,,Raichur",MBBS,OTH,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,476889,476889,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,477354,477354,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,477437,477437,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,,Muddenahalli,CHIKK ABALLAPURA",MBBS,GMP,,2200000,Allotted,34
+2025,R3,KEA,STATE_KA,481439,481439,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,481571,481571,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,481822,481822,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,482246,482246,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,483572,483572,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,485180,485180,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,486717,486717,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,487011,487011,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,487307,487307,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,488730,488730,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMP,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,489526,489526,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,489618,489618,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,490879,490879,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,,Ban galore",MBBS,OTH,,3511950,Allotted,34
+2025,R3,KEA,STATE_KA,490997,490997,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,491708,491708,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3815000,Allotted,34
+2025,R3,KEA,STATE_KA,492202,492202,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,OTH,,2736950,Allotted,34
+2025,R3,KEA,STATE_KA,492426,492426,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,492633,492633,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,493017,493017,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,493311,493311,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,494047,494047,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,496103,496103,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,499564,499564,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,502115,502115,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,502375,502375,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3815000,Allotted,34
+2025,R3,KEA,STATE_KA,502421,502421,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,505360,505360,AIR,,"SDM College of Medical Sciences and Hospital,Manjushree Nagar, PB ROAD,Dharwad",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,505496,505496,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,506980,506980,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,508018,508018,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OTH,,4311950,Allotted,34
+2025,R3,KEA,STATE_KA,508866,508866,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,MU,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,509632,509632,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,509735,509735,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,OTH,,2500000,Allotted,34
+2025,R3,KEA,STATE_KA,511158,511158,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,512954,512954,AIR,,"Father Muller Institute of Med. Education & Research,Father Muller Road,,Mangalore",MBBS,OTH,,3511950,Allotted,34
+2025,R3,KEA,STATE_KA,513156,513156,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,OTH,,2861950,Allotted,34
+2025,R3,KEA,STATE_KA,513398,513398,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,OTH,,3415000,Allotted,34
+2025,R3,KEA,STATE_KA,513932,513932,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,OTH,,4540750,Allotted,34
+2025,R3,KEA,STATE_KA,514703,514703,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,515174,515174,AIR,,"Hassan Institute of Medical Sciences,Near Chamarajendra Hospital,Hassan",MBBS,NRI,,2509350,Allotted,34
+2025,R3,KEA,STATE_KA,521981,521981,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,523072,523072,AIR,,"Kempegowda Institute of Medical Sciences,B.S.K II Stage,,Bangalore",MBBS,OTH,,4311950,Allotted,34
+2025,R3,KEA,STATE_KA,527528,527528,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,529855,529855,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,530319,530319,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,OTH,,2861950,Allotted,34
+2025,R3,KEA,STATE_KA,531428,531428,AIR,,"Siddaganga Medical College and Research Institute,,Tumakuru",MBBS,OTH,,2861950,Allotted,34
+2025,R3,KEA,STATE_KA,531655,531655,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,532136,532136,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,533935,533935,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,534329,534329,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,535000,535000,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,536763,536763,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,537208,537208,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,538229,538229,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,OTH,,2500000,Allotted,34
+2025,R3,KEA,STATE_KA,540517,540517,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,540734,540734,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,541252,541252,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,543006,543006,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,543693,543693,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMPH,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,545562,545562,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,GMPH,,2215000,Allotted,34
+2025,R3,KEA,STATE_KA,546492,546492,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,546736,546736,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,547159,547159,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,547990,547990,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,549306,549306,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,551286,551286,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,552403,552403,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,553463,553463,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,554862,554862,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,555696,555696,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,555931,555931,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,,Ban galore",MBBS,OTH,,3511950,Allotted,34
+2025,R3,KEA,STATE_KA,557043,557043,AIR,,"Dr. B.R. Ambedkar Medical College,Kadugondanahalli,,Ban galore",MBBS,OTH,,3511950,Allotted,34
+2025,R3,KEA,STATE_KA,557416,557416,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,560494,560494,AIR,,"Sapthagiri Institute of Medical Sciences,No.15, chikkasandra,,Bangalore",MBBS,GMPH,,2240750,Allotted,34
+2025,R3,KEA,STATE_KA,561036,561036,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,562310,562310,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,563508,563508,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,565488,565488,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,566730,566730,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,568177,568177,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,OTH,,4411950,Allotted,34
+2025,R3,KEA,STATE_KA,574379,574379,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,577413,577413,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,577786,577786,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,579295,579295,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,OTH,,2500000,Allotted,34
+2025,R3,KEA,STATE_KA,579993,579993,AIR,,"Sri Madhusudan Sai Institute of Medical Sciences and Research,,Muddenahalli,CHIKK ABALLAPURA",MBBS,GMPH,,2200000,Allotted,34
+2025,R3,KEA,STATE_KA,581641,581641,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OPN,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,581696,581696,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,584493,584493,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,587327,587327,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,587923,587923,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,589468,589468,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,592135,592135,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,593003,593003,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,595585,595585,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,595929,595929,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,596029,596029,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,597637,597637,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,600868,600868,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,601874,601874,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,603267,603267,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,604931,604931,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3815000,Allotted,34
+2025,R3,KEA,STATE_KA,610009,610009,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,610980,610980,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,612057,612057,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,612357,612357,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,612792,612792,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,613502,613502,AIR,,"Vydehi Institute of Medical Science and Research Centre,No. 82,EPIP Area, Nallurahalli,Bangalore",MBBS,OTH,,4411950,Allotted,34
+2025,R3,KEA,STATE_KA,614720,614720,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,616779,616779,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3815000,Allotted,34
+2025,R3,KEA,STATE_KA,617200,617200,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,618977,618977,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,620026,620026,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,620858,620858,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,622484,622484,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,623573,623573,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,624401,624401,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,625247,625247,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,625853,625853,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,626673,626673,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,627848,627848,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,628575,628575,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,630526,630526,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,633161,633161,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,633402,633402,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,633650,633650,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMP,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,633870,633870,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,OTH,,2500000,Allotted,34
+2025,R3,KEA,STATE_KA,639642,639642,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,641719,641719,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,642922,642922,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,644906,644906,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMPH,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,645661,645661,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,649646,649646,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,651093,651093,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,653017,653017,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,OTH,,2736950,Allotted,34
+2025,R3,KEA,STATE_KA,653370,653370,AIR,,"Navodaya Medical College,PB No.26, Navodaya Nagar,Raichur",MBBS,OTH,,2736950,Allotted,34
+2025,R3,KEA,STATE_KA,653932,653932,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,658561,658561,AIR,,"Bidar Institute of Medical Sciences,Udgir Road,,Bidar",MBBS,OTH,,2500000,Allotted,34
+2025,R3,KEA,STATE_KA,660080,660080,AIR,,"Jaya Jagadguru Murugharajendra Medical College,,Davangere District",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,661689,661689,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,662866,662866,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,664435,664435,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,666307,666307,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,668814,668814,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,672980,672980,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,677715,677715,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,683911,683911,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,684534,684534,AIR,,"Dr. Chandramma Dayananda Sagar Institute of Medical Education,,Harohalli hobli, Kanakapura Rd",MBBS,OTH,,3815000,Allotted,34
+2025,R3,KEA,STATE_KA,684884,684884,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,687269,687269,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,689444,689444,AIR,,"Khaja Bande Navaz Institute Of Medical Sciences,Rouza Buzurq,,Gulbarga",MBBS,OTH,,3215000,Allotted,34
+2025,R3,KEA,STATE_KA,689906,689906,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,691715,691715,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,701402,701402,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,704134,704134,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,708105,708105,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,711451,711451,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMPH,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,719621,719621,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,3001950,Allotted,34
+2025,R3,KEA,STATE_KA,725616,725616,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,727246,727246,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,OTH,,3001950,Allotted,34
+2025,R3,KEA,STATE_KA,728079,728079,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,728482,728482,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,729453,729453,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,734198,734198,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,738882,738882,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,739390,739390,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,740185,740185,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,OTH,,3415000,Allotted,34
+2025,R3,KEA,STATE_KA,740291,740291,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,742076,742076,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,745386,745386,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,746425,746425,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,747627,747627,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,750429,750429,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,GMPH,,2225000,Allotted,34
+2025,R3,KEA,STATE_KA,752737,752737,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,752823,752823,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,754373,754373,AIR,,"Subbaiah Institute of Medical Science,NH-13, Purle,,Shimoga",MBBS,OTH,,2911950,Allotted,34
+2025,R3,KEA,STATE_KA,756781,756781,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,758868,758868,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,759550,759550,AIR,,"Adichunchanagiri Institute of Medical Sciences,B.G Nagar,,Bellur, Mandya Dist.",MBBS,OTH,,3415000,Allotted,34
+2025,R3,KEA,STATE_KA,761598,761598,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,764468,764468,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,764610,764610,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,771331,771331,AIR,,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST,,CHANNAPATNA, RAMANAGARA",MBBS,MA,,1200117,Allotted,34
+2025,R3,KEA,STATE_KA,773420,773420,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,775536,775536,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,775543,775543,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,776630,776630,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,778508,778508,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,779526,779526,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,781142,781142,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,783863,783863,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,784901,784901,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,792491,792491,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,796909,796909,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,799844,799844,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,801175,801175,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,802436,802436,AIR,,"BGS Medical College and Hospital(BGS MCH) Nagarur Dasanapura Hobli Banglore North,BANGALORE -562123",MBBS,OTH,,3515000,Allotted,34
+2025,R3,KEA,STATE_KA,810024,810024,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,811252,811252,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,812702,812702,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,815169,815169,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,817449,817449,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,823118,823118,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,824427,824427,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,824596,824596,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,825519,825519,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,828036,828036,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,832555,832555,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,837830,837830,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,842973,842973,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,843615,843615,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,849654,849654,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,853088,853088,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,855848,855848,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,856837,856837,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,857016,857016,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,859891,859891,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,860717,860717,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,862161,862161,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,868475,868475,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,868530,868530,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,868700,868700,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,869691,869691,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,872855,872855,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,873761,873761,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,874326,874326,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,877145,877145,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,877193,877193,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,878422,878422,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,878609,878609,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,881772,881772,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,882237,882237,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,883703,883703,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,888463,888463,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,889433,889433,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,896104,896104,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,903722,903722,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,904853,904853,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,912291,912291,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,913576,913576,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,914841,914841,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,919453,919453,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,920498,920498,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,924598,924598,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,929385,929385,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,931619,931619,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,936547,936547,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,936778,936778,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,940030,940030,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,941431,941431,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,943439,943439,AIR,,"S R Patil Medical College Hospital and Research Center,Badagandi,BAGALKOT",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,945197,945197,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,948388,948388,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,948800,948800,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,949794,949794,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,950271,950271,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,951028,951028,AIR,,"S. Nijalingappa Medical College and Research Centre,,Bagalkot",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,954644,954644,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,954909,954909,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,963493,963493,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,969863,969863,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,971179,971179,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,971600,971600,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,975550,975550,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,978486,978486,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,980036,980036,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,981084,981084,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,982915,982915,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,984692,984692,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,986467,986467,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,988541,988541,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,988913,988913,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,989240,989240,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,992213,992213,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,999712,999712,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1000580,1000580,AIR,,"Akash Institute of Medical Sciences and Research Centre,DEVANAHALLI,,BANGA LORE",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1004971,1004971,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1005964,1005964,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1006206,1006206,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,1006360,1006360,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1007925,1007925,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1009748,1009748,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,1010470,1010470,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,1010578,1010578,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,1012228,1012228,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1012250,1012250,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1013451,1013451,AIR,,Srinivasa Institute of Medical Research Center Srinivas Nagar Mangalore,MBBS,OTH,,2825000,Allotted,34
+2025,R3,KEA,STATE_KA,1013738,1013738,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1019660,1019660,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1023122,1023122,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1028844,1028844,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1029144,1029144,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1029158,1029158,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,1029451,1029451,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1030946,1030946,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1032953,1032953,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,1033821,1033821,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,1033965,1033965,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,1037595,1037595,AIR,,"Shymanuru Shivashankarappa Institute Of Medical Sciences,Jnanashankara, NH- 4,Davangere",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1037964,1037964,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1038110,1038110,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1038552,1038552,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1039383,1039383,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,1040081,1040081,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1042128,1042128,AIR,,"Farookh Academy of Medical Education Hospital and Research Institute, Mysore Madikeri Road, Near Illavala Hunsur Taluk, Mysore District",MBBS,OTH,,3011950,Allotted,34
+2025,R3,KEA,STATE_KA,1042651,1042651,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,1042735,1042735,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1044981,1044981,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1046546,1046546,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1047720,1047720,AIR,,"East Point College of Medical Sciences and Research Center,,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1051846,1051846,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1054643,1054643,AIR,,"A.J.Institute of Medical Sciences,NH - 66, Kuntikana,Mangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1057129,1057129,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1057929,1057929,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1058684,1058684,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,1059982,1059982,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1062868,1062868,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1064442,1064442,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,1065620,1065620,AIR,,"PES University Institute of Medical Sceinces and Research,Electronic city,BANGALORE",MBBS,OTH,,3915000,Allotted,34
+2025,R3,KEA,STATE_KA,1067690,1067690,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1068396,1068396,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1069455,1069455,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1069588,1069588,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1069986,1069986,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1076978,1076978,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1082100,1082100,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1083706,1083706,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1087688,1087688,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1089130,1089130,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1089669,1089669,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1089813,1089813,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1101486,1101486,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1104913,1104913,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1107044,1107044,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1115535,1115535,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1116684,1116684,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1119748,1119748,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1127005,1127005,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1127134,1127134,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1141818,1141818,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1154152,1154152,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1156574,1156574,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1161036,1161036,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1161176,1161176,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,1163299,1163299,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1166133,1166133,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1172524,1172524,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1177749,1177749,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1179584,1179584,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1182231,1182231,AIR,,"Kanachur Institute of Medical Sciences and Research Centre,UNIVERSITY ROAD,MANGALORE",MBBS,OTH,,3211950,Allotted,34
+2025,R3,KEA,STATE_KA,1186232,1186232,AIR,,"The Oxford Medical College Hospital and Research Center,Yadavanahalli, Attibele Hobli,Bangalore",MBBS,OTH,,3611950,Allotted,34
+2025,R3,KEA,STATE_KA,1189221,1189221,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1198006,1198006,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1203077,1203077,AIR,,"Shridevi Institute of Medical Sciences and Research Hospital,Sira Road,,Tumkur",MBBS,OTH,,3861950,Allotted,34
+2025,R3,KEA,STATE_KA,1218453,1218453,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1281981,1281981,AIR,,"M.V.J.Medical College and Research Hospital,NH-4, Dandupalya, Kolathur -,Channasandra, Bangalore",MBBS,OTH,,4011950,Allotted,34
+2025,R3,KEA,STATE_KA,1282692,1282692,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1283648,1283648,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1285588,1285588,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34
+2025,R3,KEA,STATE_KA,1286470,1286470,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1292134,1292134,AIR,,"K.Venkataramana Gowda Medical College and Hospital,Kurunjibag,,Dakshina Kannada",MBBS,OTH,,3512650,Allotted,34
+2025,R3,KEA,STATE_KA,1310859,1310859,AIR,,"Mahadevappa Rampure Medical College,Mahadevappa Rampure Marg,Kalaburgi",MBBS,OTH,,3911950,Allotted,34

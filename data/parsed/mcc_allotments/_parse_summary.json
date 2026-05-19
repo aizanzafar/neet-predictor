@@ -1,0 +1,200 @@
+[
+  {
+    "total_pages": 403,
+    "rows_extracted": 17777,
+    "rows_skipped": 29,
+    "errors": [],
+    "source_id": 1,
+    "file": "mcc_aiq/2020/2022072721-1.pdf",
+    "year": 2020,
+    "round": "R1",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2020_R1.csv"
+  },
+  {
+    "total_pages": 730,
+    "rows_extracted": 17777,
+    "rows_skipped": 5869,
+    "errors": [],
+    "source_id": 2,
+    "file": "mcc_aiq/2020/2022072916.pdf",
+    "year": 2020,
+    "round": "R2",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2020_R2.csv"
+  },
+  {
+    "total_pages": 1161,
+    "rows_extracted": 16981,
+    "rows_skipped": 235,
+    "errors": [],
+    "source_id": 3,
+    "file": "mcc_aiq/2021/2022060614.pdf",
+    "year": 2021,
+    "round": "R1",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2021_R1.csv"
+  },
+  {
+    "total_pages": 1360,
+    "rows_extracted": 19536,
+    "rows_skipped": 5884,
+    "errors": [],
+    "source_id": 4,
+    "file": "mcc_aiq/2021/2022061436.pdf",
+    "year": 2021,
+    "round": "R2",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2021_R2.csv"
+  },
+  {
+    "total_pages": 721,
+    "rows_extracted": 15,
+    "rows_skipped": 20018,
+    "errors": [],
+    "source_id": 5,
+    "file": "mcc_aiq/2021/2022061461.pdf",
+    "year": 2021,
+    "round": "R1",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2021_R1.csv"
+  },
+  {
+    "total_pages": 31,
+    "rows_extracted": 367,
+    "rows_skipped": 248,
+    "errors": [],
+    "source_id": 7,
+    "file": "mcc_aiq/2022/2023053114.pdf",
+    "year": 2022,
+    "round": "MOPUP",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2022_MOPUP.csv"
+  },
+  {
+    "total_pages": 32,
+    "rows_extracted": 493,
+    "rows_skipped": 188,
+    "errors": [],
+    "source_id": 8,
+    "file": "mcc_aiq/2022/2023053124.pdf",
+    "year": 2022,
+    "round": "STRAY",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2022_STRAY.csv"
+  },
+  {
+    "total_pages": 1138,
+    "rows_extracted": 22265,
+    "rows_skipped": 560,
+    "errors": [],
+    "source_id": 9,
+    "file": "mcc_aiq/2022/2023053188-1.pdf",
+    "year": 2022,
+    "round": "R1",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2022_R1.csv"
+  },
+  {
+    "total_pages": 2378,
+    "rows_extracted": 22265,
+    "rows_skipped": 6456,
+    "errors": [],
+    "source_id": 10,
+    "file": "mcc_aiq/2022/2023053196.pdf",
+    "year": 2022,
+    "round": "R2",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2022_R2.csv"
+  },
+  {
+    "total_pages": 951,
+    "rows_extracted": 22902,
+    "rows_skipped": 33,
+    "errors": [],
+    "source_id": 11,
+    "file": "mcc_aiq/2023/2023073062.pdf",
+    "year": 2023,
+    "round": "R1",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2023_R1.csv"
+  },
+  {
+    "total_pages": 2405,
+    "rows_extracted": 22902,
+    "rows_skipped": 6218,
+    "errors": [],
+    "source_id": 12,
+    "file": "mcc_aiq/2023/2023081882.pdf",
+    "year": 2023,
+    "round": "R2",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2023_R2.csv"
+  },
+  {
+    "total_pages": 4114,
+    "rows_extracted": 8023,
+    "rows_skipped": 24216,
+    "errors": [],
+    "source_id": 13,
+    "file": "mcc_aiq/2023/2023090732.pdf",
+    "year": 2023,
+    "round": "R3",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2023_R3.csv"
+  },
+  {
+    "total_pages": 88,
+    "rows_extracted": 2043,
+    "rows_skipped": 133,
+    "errors": [],
+    "source_id": 14,
+    "file": "mcc_aiq/2023/2023092765.pdf",
+    "year": 2023,
+    "round": "STRAY",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2023_STRAY.csv"
+  },
+  {
+    "total_pages": 1098,
+    "rows_extracted": 25643,
+    "rows_skipped": 503,
+    "errors": [],
+    "source_id": 17,
+    "file": "mcc_aiq/2024/2024082536.pdf",
+    "year": 2024,
+    "round": "R1",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2024_R1.csv"
+  },
+  {
+    "total_pages": 2813,
+    "rows_extracted": 25643,
+    "rows_skipped": 8284,
+    "errors": [],
+    "source_id": 18,
+    "file": "mcc_aiq/2024/2024092017.pdf",
+    "year": 2024,
+    "round": "R2",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2024_R2.csv"
+  },
+  {
+    "total_pages": 45,
+    "rows_extracted": 982,
+    "rows_skipped": 107,
+    "errors": [],
+    "source_id": 19,
+    "file": "mcc_aiq/2024/2024103043.pdf",
+    "year": 2024,
+    "round": "MOPUP",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2024_MOPUP.csv"
+  },
+  {
+    "total_pages": 16,
+    "rows_extracted": 252,
+    "rows_skipped": 83,
+    "errors": [],
+    "source_id": 20,
+    "file": "mcc_aiq/2024/2024112362.pdf",
+    "year": 2024,
+    "round": "STRAY",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2024_STRAY.csv"
+  },
+  {
+    "total_pages": 52,
+    "rows_extracted": 1068,
+    "rows_skipped": 103,
+    "errors": [],
+    "source_id": 25,
+    "file": "mcc_aiq/2025/202511141694474556.pdf",
+    "year": 2025,
+    "round": "MOPUP",
+    "output": "data\\parsed\\mcc_allotments\\mcc_2025_MOPUP.csv"
+  }
+]

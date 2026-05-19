@@ -1,0 +1,2033 @@
+year,round,college_code,college_name,course,seat_type,category,closing_rank
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,1G,13166
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,1R,16214
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2AG,9446
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2AK,12228
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2AR,14839
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2BG,5695
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2BR,8693
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,3AG,5545
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,3AR,8224
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,3BG,5871
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,3BR,8004
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,GM,2995
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,GMK,8812
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,GMR,7702
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,SCG,34912
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,SCK,59688
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,SCR,47593
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,STG,37149
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,STR,46463
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,1K,130584
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,1R,90622
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,2AG,74620
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,2AK,91706
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,2AR,80160
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,2BK,104060
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,2BR,82949
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,3AK,88175
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,3AR,66929
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,3BG,51756
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,3BK,86679
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,3BR,64922
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,GM,40896
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,GMK,83324
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,GMR,64916
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,SCG,151084
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,SCK,162819
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,SCR,168037
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,STG,137003
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,STK,238100
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,STR,175171
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,1G,48951
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AG,45123
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AR,51170
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,2BG,29920
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,3AG,23220
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,3AR,38389
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,3BG,33638
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,GM,19022
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,GMK,68379
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,GMR,35849
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCG,113879
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCR,175184
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,STG,131125
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,STR,173540
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,1G,41256
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,2AG,35513
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,2AK,83595
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,2AR,41376
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,2BG,24638
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,3AG,16912
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,3BG,28805
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,3BR,44038
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,GM,13180
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,GMK,76138
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,GMR,28106
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,SCG,105689
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,SCK,210332
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,SCR,164046
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,STG,106999
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,2AG,86972
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,3AG,71031
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,3BG,71052
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,GM,69665
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,GMR,82487
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,SCG,202151
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,STK,242274
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,1G,68656
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,2AG,79737
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,2BG,53487
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,3AG,54423
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,3BG,61782
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,GM,52570
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,GMK,93660
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,GMR,67217
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,SCG,170275
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,SCR,181260
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,STG,193418
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,1G,62194
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,2AG,56126
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,2AR,69985
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,2BG,35660
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,3AG,31317
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,3BG,51156
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,GM,24652
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,GMK,83507
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,GMR,57625
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,SCG,158163
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,SCR,185303
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,STG,140353
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,STR,161721
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,1G,60948
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,2AG,73845
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,2AK,91528
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,2AR,81462
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,2BG,46789
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,2BR,86219
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,3AR,54932
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,3BG,49658
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,GM,43455
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,GMR,50979
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,SCG,176493
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,SCR,181503
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,STG,183464
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,1G,82953
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,2AG,87566
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,2AR,87816
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,2BG,70356
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,3AG,68808
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,3BG,68308
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,3BR,79136
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,GM,65040
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,GMK,99800
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,GMR,78745
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,SCG,196716
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,SCK,197656
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,SCR,201290
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,STG,195102
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,STR,212624
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,1G,18445
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,1R,21182
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,2AG,15011
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,2AR,19162
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,2BG,13215
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,2BR,15073
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,3AG,8269
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,3AR,15304
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,3BG,9788
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,3BR,12107
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,GM,6809
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,GMK,14994
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,GMR,11399
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,SCG,55796
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,SCK,64151
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,SCR,67013
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,STG,51427
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,STK,97258
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,STR,53538
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,2AG,46745
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,3AG,26682
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,GM,10718
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,GMK,79454
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,GMR,44918
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,SCG,81270
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,STG,122056
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,1G,71202
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,1K,135755
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2AG,81623
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2AK,98066
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2AR,86454
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2BG,67098
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2BK,108687
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,3AG,61288
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,3AK,138058
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,3BG,63156
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,3BR,70335
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,GM,57559
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,GMK,94944
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,GMR,69410
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,SCG,185280
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,SCK,193876
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,SCR,194958
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,STG,198719
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,STR,208315
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,1G,30310
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,1R,43555
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2AG,31308
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2AK,47974
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2AR,36850
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2BG,21702
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2BR,33787
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,3AG,18904
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,3AR,27068
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,3BG,20576
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,3BK,46971
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,GM,18189
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,GMK,39551
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,GMR,25964
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,SCG,97832
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,SCK,119880
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,SCR,105369
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,STG,92753
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,STR,111057
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,1G,39346
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,1K,46839
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,1R,44456
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2AG,36845
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2AK,50157
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2AR,37733
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2BG,24820
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2BK,59462
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2BR,46434
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,3AG,23031
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,3AK,63908
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,3AR,28045
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,3BG,26547
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,3BR,28296
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,GM,21953
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,GMK,43226
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,GMR,27505
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,SCG,106783
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,SCK,116734
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,SCR,116745
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,STG,104462
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,STR,118833
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,1G,26176
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,1R,32138
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2AG,21952
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2AK,24931
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2AR,25082
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2BG,19230
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2BR,25303
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,3AG,15905
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,3AR,18085
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,3BG,13909
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,3BK,21551
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,3BR,21240
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,GM,11713
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,GMK,20030
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,GMR,16799
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,SCG,73253
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,SCK,85889
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,SCR,86429
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,STG,76284
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,STR,83025
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,2AG,74462
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,2BG,61247
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,3BG,51813
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,GM,28885
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,GMR,79855
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,SCG,159920
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,STG,148815
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,1G,87946
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,2AG,87735
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,2AR,92949
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,2BG,69888
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,3AG,70890
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,3BG,71322
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,GM,68922
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,GMK,101592
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,GMR,83491
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,SCG,205604
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,SCK,209113
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,SCR,214360
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,STG,217377
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,1G,75035
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,1R,91669
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,2AG,81262
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,2AK,95418
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,2AR,87263
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,2BG,69530
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,3AG,66553
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,3BG,62200
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,3BR,76137
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,GM,59619
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,GMK,80586
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,GMR,74731
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,SCG,193168
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,SCR,202277
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,STG,182146
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,STK,222745
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,STR,191210
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,1G,56092
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,1R,60733
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,2AG,67956
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,2AR,68941
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,2BG,40339
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,2BR,69759
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,3AG,42176
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,3BG,46962
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,GM,33907
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,GMK,61355
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,GMR,56259
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,SCG,148039
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,SCR,158372
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,STG,161010
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,STK,221058
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,STR,175792
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,1G,35286
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,2AG,29395
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,2AK,41927
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,2AR,32147
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,2BG,30201
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,3AG,25184
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,3BG,20645
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,3BR,27218
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,GM,17978
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,GMK,27121
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,GMR,27217
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,SCG,91568
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,SCK,103546
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,SCR,103664
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,STG,95562
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,STK,98752
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,STR,105305
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,1G,33726
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2AG,31587
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2AK,48306
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2AR,36675
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2BG,33150
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3AG,19490
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3BG,24794
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3BK,42096
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,GM,18465
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,GMK,35765
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,GMR,29264
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,SCG,81128
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,SCR,120465
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,STG,96673
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,1G,75702
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,2AG,80283
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,3AR,70921
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,3BG,60885
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,GM,53840
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,GMR,66239
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,SCG,154484
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,STG,172594
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2AG,82092
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2AR,89238
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2BG,70645
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,3BG,63504
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,GM,62590
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,GMK,93421
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,GMR,77852
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,SCG,192605
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,SCR,215314
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,1G,42289
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2AG,50737
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2AR,55494
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2BG,48578
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,3AG,44768
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,3BG,43081
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,GM,36980
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,GMK,53714
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,GMR,44487
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,SCG,132320
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,SCR,141788
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,STG,106425
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,STR,125797
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,1G,58343
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,2AG,49225
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,2AR,54559
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,2BG,45775
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,3AG,37799
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,3BG,38895
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,GM,35143
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,GMK,52964
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,GMR,44418
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,SCG,131005
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,SCR,136824
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,STG,118763
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,1G,55301
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,1R,74145
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,2AG,50047
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,2AK,84686
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,2AR,77948
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,2BG,24922
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,2BR,84827
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,3AR,59145
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,3BG,27292
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,3BR,41623
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,GM,23923
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,GMK,83882
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,GMR,40585
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,SCG,164462
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,SCR,187956
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,STG,155929
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,STR,181921
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,1G,42606
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,2AG,44420
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,2AR,45657
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,2BG,24088
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,3AG,32993
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,3BG,26528
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,GM,8144
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,GMK,70022
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,GMR,31327
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,SCG,122763
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,SCK,198728
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,SCR,134853
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,STG,141975
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,1G,79550
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,2AG,83204
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,2AR,90427
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,2BG,64448
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,3AG,64497
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,3BG,63715
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,GM,53772
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,GMK,83979
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,GMR,62968
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,SCG,207053
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,SCR,214196
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,STG,214334
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,1R,76430
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,2AG,73827
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,2AK,90546
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,2AR,81976
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,2BR,78236
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,3AR,66012
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,3BR,43384
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,GM,34239
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,GMR,43205
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,SCG,180479
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,SCR,181811
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,STG,164738
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,STR,201537
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,1G,84191
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,2AG,87489
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,2AR,91402
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,2BG,71112
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,3AG,65447
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,3BG,69654
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,GM,63763
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,GMK,98031
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,GMR,76041
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,SCG,203123
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,SCK,219837
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,SCR,204759
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,STG,205676
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,1G,62261
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,1R,65202
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2AG,71347
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2AK,89651
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2AR,73907
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2BG,54797
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2BR,73658
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,3AG,44681
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,3BG,47635
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,3BR,61039
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,GM,39634
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,GMK,81367
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,GMR,56105
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,SCG,167079
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,SCK,209044
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,SCR,195484
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,STG,170607
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,STR,171474
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,1G,71066
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,2AG,77851
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,2AK,95325
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,2AR,81248
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,2BG,66604
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,2BR,82890
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,3AG,55219
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,3AR,70023
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,3BG,55911
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,3BK,89333
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,GM,54111
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,GMK,86262
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,GMR,66715
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,SCG,183994
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,SCK,195515
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,SCR,202946
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,STG,180061
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,STR,191842
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,1G,36864
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,1R,42293
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,2AG,34926
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,2AR,38643
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,2BG,30652
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,2BR,30971
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,3AG,24231
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,3AR,32410
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,3BG,24902
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,3BR,31601
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,GM,22409
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,GMK,39161
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,GMR,29788
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,SCG,105807
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,SCK,110312
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,SCR,107226
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,STG,92056
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,STK,103372
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,STR,109224
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,1G,73605
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AG,83042
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AK,95627
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AR,84370
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,2BG,62042
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,3AG,59851
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,3AR,72847
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,3BG,62306
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,3BK,100106
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,3BR,73987
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,GM,57741
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,GMK,90058
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,GMR,71783
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCG,181873
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCK,240874
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCR,204326
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,STG,193711
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,STR,208684
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,1G,88058
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,2AG,87428
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,2AK,101875
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,2AR,90504
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,2BG,70859
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,3AG,69628
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,3BK,101802
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,GM,68553
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,GMK,100890
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,GMR,82857
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,SCG,203051
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,SCR,215193
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,STG,202091
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,1G,25201
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,1R,49223
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2AG,30034
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2AK,74601
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2AR,31233
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2BG,20933
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2BR,50860
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,3AR,25631
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,3BG,17115
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,GM,12699
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,GMK,63101
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,GMR,21999
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,SCG,95497
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,SCR,100987
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,STG,105839
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,1G,70889
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,1R,91045
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,2AG,86749
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,2AR,87164
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,2BR,88611
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,3AR,74244
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,3BG,63155
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,3BR,74274
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,GM,61525
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,GMR,71865
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,SCG,180594
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,SCK,234852
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,SCR,213901
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,STG,199080
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,STK,230096
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,1G,66534
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,2AG,72382
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,2AR,76250
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,2BG,51282
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,3AG,34384
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,3BG,47322
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,GM,29038
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,GMK,88927
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,GMR,64063
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,SCG,161622
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,SCR,191800
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,STG,181440
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,1G,82649
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,2AG,88466
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,2AR,92842
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,2BG,70194
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,3AG,68595
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,3BG,67859
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,3BR,78997
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,GM,67664
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,GMK,99984
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,GMR,78909
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,SCG,197638
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,SCR,210247
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,STG,212834
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,1R,71964
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,2AG,49810
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,2BR,70210
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,GM,32751
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,GMR,42100
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,SCG,117363
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,SCR,160484
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,STG,131499
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,1G,80347
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,2AG,84699
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,2AR,91458
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,2BG,63772
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,3AG,64919
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,3BG,69903
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,GM,63402
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,GMK,100519
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,GMR,79650
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,SCG,195290
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,STG,204151
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,STR,221227
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,1G,43517
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,1K,74486
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2AG,45826
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2AK,53743
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2AR,49333
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2BG,28468
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2BK,58475
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3AG,28520
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3BG,31321
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3BR,43159
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,GM,21687
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,GMR,40112
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,SCG,110082
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,STG,110486
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,1R,64679
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2AG,52819
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2AR,57369
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2BR,59560
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3AK,68680
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3AR,48868
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3BG,41139
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,GM,40002
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,GMK,53038
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,GMR,46932
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,SCG,130982
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,SCK,160548
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,SCR,156342
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,STG,110751
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,STR,137030
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,1G,50090
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,2AG,43195
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,2AK,63653
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,2AR,48961
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,2BG,45057
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,3AG,35785
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,3BG,33472
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,3BK,50546
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,GM,31413
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,GMK,50377
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,GMR,39475
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,SCG,128408
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,SCK,138269
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,SCR,150396
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,STG,118500
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,STR,122408
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,1G,54196
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,1R,55399
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2AG,46592
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2AK,70380
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2AR,51275
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2BG,38936
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2BR,48570
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,3AG,35030
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,3AR,44880
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,3BG,38087
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,3BK,69961
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,GM,33229
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,GMK,68671
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,GMR,43574
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,SCG,136475
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,SCK,164214
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,SCR,151746
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,STG,120933
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,STR,121606
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,1G,55193
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,1R,70827
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,2AG,58878
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,2AK,70156
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,2AR,60779
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,2BG,51267
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,2BR,57878
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,3AG,45535
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,3AR,49630
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,3BG,46054
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,3BR,49900
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,GM,44457
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,GMK,64099
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,GMR,49358
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,SCG,145244
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,SCK,159408
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,SCR,161853
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,STG,131118
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,STR,137075
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,1G,63493
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,1K,97061
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2AG,52500
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2AK,66912
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2AR,54371
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2BG,50959
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2BK,74425
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,3AG,41747
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,3AK,68807
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,3BG,43677
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,3BR,46558
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,GM,39421
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,GMK,61463
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,GMR,45564
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,SCG,137701
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,SCK,165456
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,SCR,155676
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,STG,118838
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,STK,157134
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,STR,135449
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,1G,84720
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,2AG,87949
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,2BG,69819
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,3AG,68873
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,3BG,69996
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,3BR,81079
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,GM,65546
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,GMK,89160
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,GMR,80416
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,SCG,196260
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,SCR,207170
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,STK,255295
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,STR,218405
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,1G,87822
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,2AG,89593
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,2AR,91480
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,2BG,70530
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,3AG,70998
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,3BG,70276
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,GM,68766
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,GMR,81566
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,SCG,204409
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,SCK,232915
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,SCR,214113
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,STG,217799
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,1G,85901
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,2AG,88021
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,2AR,89011
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,2BG,66342
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,3AG,68875
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,3BG,69352
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,GM,65528
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,GMK,96915
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,GMR,80273
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,SCG,194888
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,SCR,212483
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,STG,216989
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,1G,23841
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,2AG,19665
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,2AK,38291
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,2AR,30692
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,2BG,15256
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,3AG,10860
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,3BG,12295
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,3BR,20678
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,GM,7961
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,GMK,31792
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,GMR,17835
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,SCG,72828
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,SCK,89798
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,SCR,99939
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,STG,73262
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,STR,104362
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,1G,75474
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,1R,94160
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,2AG,86741
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,2AR,87659
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,2BG,66857
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,2BR,88392
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,3AG,62618
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,3AR,81328
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,3BG,66057
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,GM,51645
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,GMK,86228
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,GMR,81260
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,SCG,190700
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,SCR,212654
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,STG,208548
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,STR,223783
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,1G,63014
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,2AG,60693
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,2AR,62492
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,2BG,50584
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,3AG,46106
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,3BG,46190
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,3BR,51517
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,GM,45731
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,GMK,72080
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,GMR,50875
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,SCG,147240
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,SCK,164220
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,SCR,154714
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,STG,130389
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,STR,141322
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,1G,66480
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,1K,110189
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,1R,67864
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2AG,62974
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2AK,73011
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2AR,64193
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2BG,51535
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2BK,101098
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2BR,80275
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3AG,50441
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3AK,84882
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3AR,55484
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3BG,52691
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3BR,55762
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,GM,49397
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,GMK,72931
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,GMR,54967
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,SCG,158300
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,SCR,166403
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,STG,148822
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,STK,201695
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,STR,157301
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,1G,69273
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,2AG,69220
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,2AK,73874
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,2AR,71370
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,2BG,63957
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,3AG,57233
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,3BG,58992
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,3BR,60166
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,GM,54357
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,GMK,64351
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,GMR,59825
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,SCG,164915
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,SCK,189383
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,SCR,167729
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,STG,162896
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,STK,190967
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,STR,165473
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,1G,69748
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2AG,70227
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2AR,70231
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2BG,52663
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3AG,55535
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3BG,51956
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3BR,61639
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,GM,51344
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,GMK,69820
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,GMR,60681
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,SCG,157046
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,SCK,186608
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,STG,134143
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,STR,141982
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,1G,93120
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,2AG,91820
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,2BG,74407
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,3AG,74839
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,3BG,73393
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,GM,72354
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,GMK,104709
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,GMR,84179
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,SCG,210590
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,SCK,254919
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,SCR,222593
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,STG,221091
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,STK,304885
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,1G,70249
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,1K,119047
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,1R,88029
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,2AG,80585
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,2AR,87629
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,2BG,70311
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,2BK,101606
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,3AG,63446
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,3AK,147674
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,3BG,69173
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,GM,63084
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,GMK,92063
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,GMR,70736
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,SCG,188388
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,SCK,230613
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,SCR,213327
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,STG,198514
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,STR,214228
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,1G,86919
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,2AG,89461
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,2AR,93389
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,2BG,71003
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,3AG,70285
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,3BG,71498
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,GM,70086
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,GMK,100952
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,GMR,82106
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,SCG,203309
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,SCR,217080
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,STG,217878
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,1G,70216
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,1R,75320
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2AG,74881
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2AK,82417
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2AR,75996
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2BG,65715
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2BR,81744
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,3AG,59655
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,3AR,63955
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,3BG,60114
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,3BR,65124
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,GM,58848
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,GMK,76612
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,GMR,63813
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,SCG,170646
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,SCK,181699
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,SCR,179348
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,STG,167124
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,STR,169860
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,1G,88880
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,2AG,66282
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,2AR,83432
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,2BG,71793
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,3AG,64727
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,3BG,62415
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,GM,60317
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,GMR,69845
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,SCG,181289
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,STG,197860
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,1G,100626
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,2AG,98005
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,2BG,83600
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,3AG,82348
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,3BG,84747
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,GM,81040
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,GMR,89473
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,SCG,210679
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,SCR,223203
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,STG,241058
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,1G,134582
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,2AG,132523
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,2AR,142797
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,2BG,119923
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,3AG,118716
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,3BG,142072
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,GM,113599
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,GMR,129967
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,SCG,242433
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,SCR,256433
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,STG,258393
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,1G,156224
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,2AG,142262
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,2AK,247738
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,2AR,153265
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,2BG,127878
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,3AG,125022
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,3BG,147509
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,3BK,204223
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,GM,121485
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,GMK,165869
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,GMR,142712
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,SCG,250442
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,SCR,278429
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,STG,292811
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,1G,111135
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,2AG,105530
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,2AR,126140
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,3AG,112740
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,3BG,97647
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,GM,93838
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,GMR,97649
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,SCG,218475
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,STG,242122
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,STR,261348
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,1G,153582
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,2AG,142439
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,2BG,135370
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,3AG,141102
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,3BG,150151
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,GM,118950
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,GMR,141391
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,SCG,223565
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,SCK,301903
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,STG,268698
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,2AG,165562
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,2AR,206436
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,2BG,156260
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,3AG,160754
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,3BR,175193
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,GM,153635
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,GMK,181580
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,GMR,155671
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,SCG,287041
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,SCR,310240
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,STG,354059
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,1G,162267
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,2AG,156017
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,2AR,160647
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,2BG,151340
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,3AG,152364
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,3BG,155346
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,GM,146683
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,GMK,187573
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,GMR,155925
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,SCG,259646
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,SCR,268910
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,STG,311324
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,1K,368955
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,2AG,154743
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,2BK,323681
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,3AG,149771
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,3BG,171289
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,GM,140051
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,GMR,169655
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,SCG,259976
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,SCR,302825
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,STG,271339
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,STR,511901
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,1G,123563
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,2AG,130889
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,2BG,127007
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,3AG,127970
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,3BR,160075
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,GM,110963
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,GMK,149286
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,GMR,117288
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,SCG,233050
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,SCR,255064
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,STK,354312
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,STR,329723
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,1G,186754
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,2AG,165737
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,2BG,154299
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,3AG,160953
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,3BG,163447
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,GM,153696
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,GMK,211607
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,GMR,162770
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,SCG,269349
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,STR,417628
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,1G,176577
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,2AG,141057
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,2BG,145273
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,GM,130970
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,GMR,132093
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,SCG,244822
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,SCR,245947
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,STG,346174
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,2AG,163642
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,2AR,186781
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,2BG,141060
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,3AG,143985
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,3BR,168492
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,GM,139663
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,GMK,177909
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,GMR,161035
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,SCG,227327
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,STG,310130
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,GOVT,2AG,168810
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,GOVT,3AG,166395
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,GOVT,GM,163696
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,GOVT,SCG,276771
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,GOVT,STR,514144
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,2AG,177772
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,2BG,189834
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,3BG,177624
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,GM,172954
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,SCK,320337
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,STG,365022
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,1G,186678
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,2AG,144209
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,2BG,128387
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,3BG,159922
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,GM,115568
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,GMR,135467
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,SCG,233186
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,STK,527602
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,GOVT,1G,226105
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,GOVT,2AG,180030
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,GOVT,GM,147260
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,GOVT,GMK,271385
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,GOVT,GMR,179630
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,GOVT,SCG,286931
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,1G,186801
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,2AG,188283
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,2AK,250669
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,GM,118675
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,GMR,131995
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,SCG,256862
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,SCR,281642
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,STG,369933
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,1G,259159
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,2AG,224175
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,3BG,216244
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,GM,144509
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,GMR,252504
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,SCG,341012
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,STG,409982
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,1G,202975
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,2AG,190131
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,2BG,171810
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,GM,171572
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,GMK,270567
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,GMR,177259
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,SCG,261521
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,SCK,314897
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,STG,390573
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,1G,228172
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,2AG,192363
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,2AK,280321
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,2AR,243973
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,2BG,188717
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,3AG,186706
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,3BG,171847
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,GM,155771
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,GMR,178681
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,SCG,308967
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,SCR,317175
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,STG,381519
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,1G,119322
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,2AG,144349
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,2BG,118166
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,3AG,125979
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,3BG,118026
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,GM,101466
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,GMK,110695
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,GMR,108140
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,SCG,247484
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,SCK,332106
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,SCR,274609
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,STG,305243
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,2AG,196276
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,3AG,203683
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,GM,122494
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,GMR,211473
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,SCG,281596
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,2AK,297980
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,2AR,257836
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,3BG,205842
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,GM,163064
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,GMR,215273
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,SCR,403680
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,1R,310838
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,GM,174357
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,SCG,312565
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,2BR,287140
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,GM,109214
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,STR,451299
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,2AG,199741
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,3BG,182228
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,GM,180164
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,3AR,373253
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,GM,179177
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,SCG,255547
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,STG,374523
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,1G,103034
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,2AG,103832
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,2AR,104488
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,2BG,96072
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,GM,86934
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,GMR,93037
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,SCG,215361
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,SCR,226073
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,STG,230166
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,GOVT,2AR,204176
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,GOVT,3AG,167696
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,GOVT,3BG,195935
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,GOVT,GM,156140
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,GOVT,SCG,280551
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,1R,335272
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,2AG,214222
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,2AR,233196
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,2BR,256795
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,3AR,245548
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,3BG,192057
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,GM,181587
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,GMR,228405
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,SCG,316760
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,SCR,331267
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,STG,391803
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,2AG,156236
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,2BG,118794
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,3AG,134934
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,3BR,161762
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,GM,109672
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,GMR,121507
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,SCG,284850
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,STG,314702
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,1R,322522
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,2AG,208276
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,2AR,220290
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,2BR,204507
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,3AK,111313
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,3BG,202103
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,GM,169179
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,GMK,225419
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,GMR,183112
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,SCG,318122
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,SCR,337695
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,STG,372702
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,1G,155055
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,2AG,168896
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,2AR,194482
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,2BG,147828
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,3AG,150383
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,3BG,133258
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,GM,130016
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,GMK,133135
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,GMR,157124
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,SCG,276807
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,STG,285090
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,1G,170524
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,2AG,194782
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,2AR,213195
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,2BG,189853
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,3AG,175146
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,3BG,189631
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,GM,158399
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,GMK,250475
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,GMR,204917
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,SCG,315248
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,SCR,325728
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,STG,332279
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,STR,505791
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,1G,203185
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,2AG,204572
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,2AR,219809
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,2BG,198854
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,3AR,303443
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,3BG,199338
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,GM,186290
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,GMK,218120
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,GMR,208426
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,SCG,328925
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,SCK,357907
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,SCR,337246
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,STG,378742
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,1R,243372
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,2AG,217573
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,2BR,281449
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,3BG,194557
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,GM,181001
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,GMR,209887
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,SCG,308685
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,STG,310390
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,1G,207186
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,2AG,219776
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,2AK,284545
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,3AR,236112
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,3BG,197908
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,GM,179327
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,GMR,228645
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,SCG,308582
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,STG,324892
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,2AG,105646
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,GM,87261
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,GMK,101808
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,GMR,102439
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,SCG,230078
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,STG,233390
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,1H,18134
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2AH,9893
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,2BH,8313
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,GMH,4750
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,GMRH,8266
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,SCH,38990
+2023,R1,M001,"Bangalore Medical College, Bangalore",MBBS,GOVT,STH,38710
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,2ARH,93354
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,3ARH,83218
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,GMH,53226
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,GOVT,SCH,180263
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AH,57447
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,GMH,34532
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCH,161337
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,2ARH,92267
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,GMH,25764
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,GOVT,SCH,159374
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,1H,94198
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,2AH,95207
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,2BH,80282
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,3AH,81138
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,3BRH,98318
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,GMH,79414
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,GMKH,97142
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,GMRH,94113
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,SCH,211708
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,SCKH,249231
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,SCRH,218484
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,STH,221480
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,GOVT,STRH,227094
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,GMH,77091
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,GOVT,STH,204663
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,2AH,74406
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,GMH,57026
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,GOVT,SCH,185598
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,2AH,91522
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,GOVT,GMH,68373
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,3BH,77901
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,GMH,76732
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,GMRH,86237
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,GOVT,SCH,204300
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,1H,21715
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,2AH,15324
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,3AH,11592
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,GMH,9053
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,GMRH,13788
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,SCH,57542
+2023,R1,M021,"Mysore Medical College, Mysore",MBBS,GOVT,STRH,62397
+2023,R1,M022,"Jagadguru Sri Shivarathreeswara Medical College, Mysore",MBBS,GOVT,GMH,37280
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,1H,92519
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2AH,90454
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,2BH,80401
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,GMH,77830
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,GMRH,85985
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,GOVT,SCH,187162
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2ARH,52469
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,2BH,42553
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,GMH,35300
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,GMKH,46690
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,GMRH,41466
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,SCH,107306
+2023,R1,M024,"Mandya Institute of Medical Sciences, Mandya",MBBS,GOVT,STH,110314
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2AH,46461
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,2BH,47395
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,3BH,38535
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,GMH,35928
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,GMKH,52322
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,SCH,119046
+2023,R1,M025,"Hassan Institute of Medical Sciences, Hassan",MBBS,GOVT,SCRH,138472
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,1H,28195
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2AH,22552
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,2BH,22725
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,GMH,14919
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,GMRH,20129
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,SCH,79974
+2023,R1,M031,"Karnataka Institute of Medical Sciences, Hubli",MBBS,GOVT,STH,81273
+2023,R1,M032,"Jawaharalal Nehru Medical College, Belgaum",MBBS,GOVT,2AH,82999
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,2ARH,98045
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,GMKH,102315
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,GOVT,SCH,207423
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,2AH,85945
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,3BH,75380
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,GMH,74716
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,GMRH,83657
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,SCH,197611
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,GOVT,STH,193337
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,3AH,59177
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,GMH,43463
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,GMRH,79207
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,GOVT,SCRH,198103
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,2AH,30105
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,3AH,27179
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,3BH,25775
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,GMH,23105
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,SCH,93652
+2023,R1,M037,"Belgaum Institute of Medical Sciences, Belgaum",MBBS,GOVT,STH,100749
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,1H,46022
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,1RH,49190
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2AH,42005
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2AKH,49310
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2ARH,47937
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2BH,37518
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,2BRH,46617
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3AH,37635
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3ARH,37836
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3BH,35824
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,3BRH,44113
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,GMH,30412
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,GMKH,43278
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,GMRH,36779
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,SCH,116769
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,SCKH,122755
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,SCRH,126031
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,STH,115452
+2023,R1,M041,"Vijayanagar Institute of Medical Sciences, Bellary",MBBS,GOVT,STRH,115767
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,1H,84645
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,2AH,84633
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,2ARH,88776
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,2BH,73034
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,3AH,77834
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,3BH,73203
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,GMH,71951
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,GMRH,85758
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,SCH,191056
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,SCRH,191326
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,GOVT,STH,194851
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,1H,87427
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2AH,91211
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2AKH,108224
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2ARH,97102
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,2BH,77394
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,3AH,79469
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,3BH,77452
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,GMH,76059
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,GMKH,96348
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,GMRH,85058
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,SCH,205688
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,GOVT,STH,195191
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,1H,70428
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,1RH,71625
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2AH,78220
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2ARH,83352
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2BH,56341
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,2BRH,60587
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,3AH,57769
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,3ARH,66362
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,3BH,57376
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,GMH,53334
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,GMKH,60146
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,GMRH,58841
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,SCH,167784
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,SCKH,169198
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,SCRH,172752
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,STH,141714
+2023,R1,M044,"Bidar Institute of Medical Sciences, Bidar",MBBS,GOVT,STRH,145488
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,1H,64982
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,2AH,67961
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,2ARH,73553
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,2BH,52389
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,3AH,54409
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,3BH,48329
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,GMH,47376
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,GMKH,55199
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,GMRH,53807
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,SCH,152235
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,SCKH,156856
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,SCRH,155111
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,STH,131513
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,STKH,153160
+2023,R1,M045,"Raichur Institute of Medical Sciences, Raichur",MBBS,GOVT,STRH,136504
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,GMH,48928
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,GOVT,SCKH,220349
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,2BH,45180
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,GMRH,73501
+2023,R1,M051,"Kasturba Medical College, Hampanakatta,Mangalore.",MBBS,GOVT,SCH,162005
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,3AH,82467
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,GMH,79731
+2023,R1,M052,"Yenepoya Medical College, Mangalore",MBBS,GOVT,SCH,207728
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,2AH,87813
+2023,R1,M053,"K.S.Hegde Medical Academy, Mangalore",MBBS,GOVT,GMH,65334
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,3AH,79863
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,GMH,73068
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,GOVT,SCRH,218587
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2AH,84614
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,2BH,65355
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,3BH,63648
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,GMH,48450
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,GMKH,86256
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,GMRH,76942
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,GOVT,SCH,187979
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,1H,87208
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,2AH,87494
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,GMH,66994
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,GOVT,SCH,191501
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,2AH,46272
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,3AH,42159
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,3BRH,42369
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,GMH,32365
+2023,R1,M063,"Shimoga Institute of Medical Sciences, Shimoga",MBBS,GOVT,SCH,120895
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,1H,86013
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,2AH,85897
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,3BRH,85510
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,GMH,77425
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,SCH,186745
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,GOVT,STRH,216074
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,2AH,91819
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,GOVT,GMH,79504
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2AH,37036
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,2BRH,93880
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,GMH,15598
+2023,R1,M066,"ESI Medical College, Bangalore",MBBS,GOVT,STH,109136
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,3AH,80146
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,GMH,71316
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,GOVT,SCH,197470
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,2AH,80483
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,GMH,62342
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,GOVT,STH,183245
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,2AH,91243
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,2BH,80352
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,GMH,77926
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,GOVT,GMRH,87575
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,1H,66106
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,1RH,104037
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,2AH,67992
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,2ARH,82083
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,2BH,54022
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,2BRH,87319
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,3ARH,69477
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,3BH,60069
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,GMH,53820
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,GMKH,77107
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,GMRH,69473
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,SCH,153812
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,SCRH,170698
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,STH,140126
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,STKH,190966
+2023,R1,M070,"ESI Medical College, Gulbarga",MBBS,GOVT,STRH,155451
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,3BH,78781
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,GMRH,87518
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,GOVT,SCRH,204598
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,1H,50655
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2AH,58913
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2AKH,60002
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2ARH,67774
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,2BH,47758
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3AH,49556
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3BH,40571
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3BKH,44638
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,3BRH,51644
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,GMH,39544
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,GMKH,44049
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,GMRH,51586
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,SCH,131585
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,SCRH,145215
+2023,R1,M072,"Gulbarga Institute of Medical Sciences, GULBARGA",MBBS,GOVT,STH,131326
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,1H,66933
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,1KH,102352
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,1RH,101629
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2AH,75031
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2AKH,91996
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2ARH,84813
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2BH,60349
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2BKH,92202
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,2BRH,93268
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3AH,61637
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3AKH,139735
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3ARH,78152
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3BH,60840
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,3BRH,73493
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,GMH,60101
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,GMKH,67606
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,GMRH,71398
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,SCH,170576
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,SCKH,172720
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,SCRH,175134
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,STH,151482
+2023,R1,M073,"Koppal Institute of Medical Sciences, KOPPAL",MBBS,GOVT,STRH,156604
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,2AH,53990
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,3BH,40698
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,GMH,40128
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,SCH,133548
+2023,R1,M074,"Gadag Institute of Medical Sciences, GADAG",MBBS,GOVT,STH,125668
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,1H,67113
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2AH,70824
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,2BH,64289
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,GMH,54332
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,GMRH,75513
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,SCH,163972
+2023,R1,M075,"Chamarajanagar Institute of Medical Science, CHAMARAJANAGAR",MBBS,GOVT,STH,160038
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,2AH,77134
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,3AH,63505
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,3BH,60586
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,GMH,60051
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,SCKH,197143
+2023,R1,M076,"Karwar Institute of Medical Science, UTTARA KANNADA",MBBS,GOVT,STH,152460
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,1H,75570
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2AH,70891
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,2AKH,99112
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,GMH,51350
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,GMRH,76912
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,SCH,153615
+2023,R1,M077,"Kodagu Institute of Medical Sciences, MADIKERI",MBBS,GOVT,SCRH,167362
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,GMH,77989
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,GOVT,SCH,198569
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,2AH,89844
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,2BH,81921
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,GOVT,GMH,79591
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,1H,97154
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,GMH,77120
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,SCH,198898
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,GOVT,STRH,222613
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,1RH,33792
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,2AH,27123
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,GMH,10988
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,GMRH,19720
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,SCH,72886
+2023,R1,M082,"Shri Atal Bihari Vajpayee Institute of Medical Science, Bengaluru",MBBS,GOVT,SCRH,123682
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,2AKH,115784
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,3BH,73298
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,GMH,68694
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,GOVT,STH,208935
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,2AH,68662
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,GMH,61675
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,SCRH,177083
+2023,R1,M084,"Chikkaballapura Institute of Medical Science, Chikkaballapura",MBBS,GOVT,STH,152527
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2AH,77862
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,2ARH,85261
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3AH,66224
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,3BH,64537
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,GMH,61499
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,GMKH,77374
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,GMRH,77451
+2023,R1,M085,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",MBBS,GOVT,SCH,178821
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,2AH,79509
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,2ARH,88191
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,3AH,69329
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,3BH,67662
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,GMH,67185
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,GMRH,75235
+2023,R1,M086,"Haveri Institute of Medical Sciences, Haveri",MBBS,GOVT,SCH,181594
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,1H,81617
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2AH,84052
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2AKH,106618
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2ARH,86390
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,2BH,72785
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3AH,77089
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3BH,70769
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3BKH,77819
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,3BRH,80626
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,GMH,69486
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,GMKH,75462
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,GMRH,80412
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,SCH,179007
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,SCKH,188005
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,SCRH,189736
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,STH,162152
+2023,R1,M087,"Yadgiri Institute of Medical Sciences, Yadgiri",MBBS,GOVT,STRH,169907
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,2AH,99522
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,GMH,79849
+2023,R1,M089,"Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College, Dharwar",MBBS,GOVT,SCH,217928
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,3AH,80667
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,3BH,77064
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,GMH,75738
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,SCH,206483
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,GOVT,STH,201341
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,1H,99003
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,2AH,94955
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,GMH,79070
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,GMRH,92098
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,GOVT,STH,222311
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,1H,75173
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2AH,84247
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,2BH,72834
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,GMH,71231
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,GMRH,78595
+2023,R1,M092,"Chitradurga Medical College and Research Institute, Chitradurga",MBBS,GOVT,SCH,184063
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,GMKH,102816
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,GOVT,STKH,292945
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,GMH,89016
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,SCH,218371
+2023,R1,D101,"Government Dental College, Bangalore",BDS,GOVT,STH,249362
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,3BH,158073
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,GOVT,GMH,135237
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,2BH,149784
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,GOVT,GMH,147903
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,2AH,122060
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,GOVT,GMH,103712
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,2BH,201792
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,GOVT,GMH,148280
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,GMRH,157135
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,GOVT,SCH,308516
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,GMH,148746
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,GOVT,SCH,262252
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,3BH,174492
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,GOVT,GMH,164643
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,2AH,156849
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,GOVT,GMH,111363
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,3AH,248408
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,GOVT,STH,333472
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,GOVT,STH,375115
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,GOVT,2AH,194968
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,GOVT,SCH,312057
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,GOVT,SCRH,414475
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,GOVT,GMH,148215
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,GOVT,GMH,171667
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,GOVT,GMH,211974
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,GOVT,2AH,202953
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,GMH,174123
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,GOVT,SCH,343410
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,GMH,108103
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,GOVT,SCH,248875
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,1H,222598
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,2AH,224397
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,2AKH,260284
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,2BH,189518
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,3AH,279994
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,3BH,189063
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,GMH,183239
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,GMKH,225621
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,GMRH,214103
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,SCH,295176
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,SCKH,337309
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,SCRH,345479
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,GOVT,STH,420997
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,1RH,406729
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,2AH,229046
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,2BRH,264753
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,3BH,242850
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,GMH,214570
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,GMRH,251845
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,SCH,357798
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,GOVT,STH,505427
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,2AH,244004
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,2ARH,252060
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,3BRH,268118
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,GMH,214453
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,GMRH,234020
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,SCH,343482
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,GOVT,STH,424290
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,2AH,233114
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,3AH,270079
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,GMH,167684
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,GMRH,203383
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,SCH,342976
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,GOVT,SCRH,443031
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,1H,237558
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,2AH,257545
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,2BH,241922
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,GMH,226345
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,GMRH,241407
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,GOVT,SCH,309913
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,1H,250005
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,2AH,226551
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,2ARH,296120
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,2BH,250313
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,3ARH,410723
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,3BH,240688
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,GMH,223436
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,GMKH,280411
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,GMRH,234791
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,SCH,331438
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,GOVT,STRH,383545
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,1H,148322
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,2AH,128817
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,2BH,125013
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,3AH,118685
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,3BH,137494
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,GMH,116295
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,GMRH,128159
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,SCH,233512
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,SCRH,245845
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,STH,255138
+2023,R1,D448,"Government Dental College and Research Institute, Bellary",BDS,GOVT,STRH,392322
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,GOVT,GMH,213971
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,GMH,237683
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,GMRH,278333
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,GOVT,SCH,322828
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,2AH,198780
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,GOVT,GMH,152623
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,2ARH,293879
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,GOVT,GMKH,293777
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,1H,226235
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,2AH,200838
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,GOVT,GMH,134216
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,GMH,159427
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,GOVT,SCH,345596
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,1H,248965
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,GOVT,STH,441175
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,2AH,221320
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,GOVT,GMRH,229163
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,3AH,306516
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,GOVT,SCH,346369
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,2AH,119673
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,2ARH,155690
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,3AH,146237
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,3BH,138816
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,GMH,108665
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,GMKH,112203
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,GMRH,133598
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,SCH,244518
+2023,R1,D666,"Employees State Insurance Corporation Dental College, Gulbarga",BDS,GOVT,STH,288524
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,OTHERS,OTHERS,197246
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,PRIV,GMP,91099
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,PRIV,GMPH,100257
+2023,R1,M002,"Dr. B.R. Ambedkar Medical College, Bangalore",MBBS,PRIV,NRI,30043
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,OTHERS,OTHERS,227521
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,PRIV,GMP,71463
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,PRIV,GMPH,91070
+2023,R1,M003,"Kempegowda Institute of Medical Sciences, Bangalore",MBBS,PRIV,NRI,26379
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,NRI,NRI,710209
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,OTHERS,OTHERS,244878
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,PRIV,GMP,137634
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,PRIV,GMPH,219761
+2023,R1,M004,"M.S.Ramaiah Medical College, Bangalore",MBBS,PRIV,NRI,32286
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,OTHERS,OTHERS,550340
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,PRIV,GMP,170677
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,PRIV,GMPH,194145
+2023,R1,M005,"Khaja Bande Navaz Institute Of Medical Sciences, Gulbarga",MBBS,PRIV,NRI,85513
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,OTHERS,OTHERS,571624
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,PRIV,GMP,95518
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,PRIV,GMPH,153899
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,PRIV,MA,287665
+2023,R1,M008,"M.V.J.Medical College and Research Hospital, Channasandra, Bangalore",MBBS,PRIV,NRI,35070
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,OTHERS,OTHERS,469244
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,PRIV,GMP,75683
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,PRIV,GMPH,122941
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,PRIV,ME,163197
+2023,R1,M009,"Vydehi Institute of Medical Science and Research Centre, Bangalore",MBBS,PRIV,NRI,26790
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,OTHERS,OTHERS,483575
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,PRIV,GMP,88866
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,PRIV,GMPH,143798
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,PRIV,MU,285512
+2023,R1,M010,"A.J.Institute of Medical Sciences, Mangalore",MBBS,PRIV,NRI,36820
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,GMP,19635
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,GMPH,81327
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,NRI,14025
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,OPN,1
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,OTH,182721
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,RC2,447944
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,RC3,337169
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,RC4,183793
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,RC5,498284
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,RC6,90163
+2023,R1,M011,"St John Medical College, Bangalore",MBBS,PRIV,RC7,99037
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,OTHERS,OTHERS,258378
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,PRIV,GMP,115625
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,PRIV,GMPH,152391
+2023,R1,M020,"Sri Basaveshwara Medical College and Hospital, Chitradurga",MBBS,PRIV,NRI,58458
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,OTHERS,OTHERS,566256
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,PRIV,GMP,216910
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,PRIV,GMPH,303239
+2023,R1,M023,"Adichunchanagiri Institute of Medical Sciences, Bellur, Mandya Dist.",MBBS,PRIV,NRI,183998
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,OTHERS,OTHERS,448174
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,PRIV,GMP,115442
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,PRIV,GMPH,151561
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,PRIV,MM,242792
+2023,R1,M033,"Al-Ameen Medical College, VIJAYAPUR",MBBS,PRIV,NRI,61477
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,OTHERS,OTHERS,353480
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,PRIV,GMP,109665
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,PRIV,GMPH,128482
+2023,R1,M035,"S. Nijalingappa Medical College and Research Centre, Bagalkot",MBBS,PRIV,NRI,56378
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,OTHERS,OTHERS,355924
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,PRIV,GMP,168123
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,PRIV,GMPH,182455
+2023,R1,M036,"SDM College of Medical Sciences and Hospital, Dharwad",MBBS,PRIV,NRI,131801
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,OTHERS,OTHERS,321974
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,PRIV,GMP,99011
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,PRIV,GMPH,135915
+2023,R1,M042,"Mahadevappa Rampure Medical College, Kalaburgi",MBBS,PRIV,NRI,33685
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,OTHERS,OTHERS,592681
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,PRIV,GMP,120230
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,PRIV,GMPH,142665
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,PRIV,MEH,742064
+2023,R1,M043,"Navodaya Medical College, Raichur",MBBS,PRIV,NRI,60450
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,OTHERS,OTHERS,469795
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,PRIV,GMP,71913
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,PRIV,GMPH,136296
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,PRIV,MC,280433
+2023,R1,M050,"Father Muller Institute of Med. Education & Research, Mangalore",MBBS,PRIV,NRI,32007
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,OTHERS,OTHERS,336788
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,PRIV,GMP,125812
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,PRIV,GMPH,166573
+2023,R1,M054,"K.Venkataramana Gowda Medical College and Hospital, Dakshina Kannada",MBBS,PRIV,NRI,60892
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,OTHERS,OTHERS,482952
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,PRIV,GMP,86976
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,PRIV,GMPH,100906
+2023,R1,M061,"Jaya Jagadguru Murugharajendra Medical College, Davangere District",MBBS,PRIV,NRI,40609
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,OTHERS,OTHERS,515444
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,PRIV,GMP,99074
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,PRIV,GMPH,125109
+2023,R1,M062,"Shymanuru Shivashankarappa Institute Of Medical Sciences, Davangere",MBBS,PRIV,NRI,49685
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,OTHERS,OTHERS,646098
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,PRIV,GMP,185693
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,PRIV,GMPH,224587
+2023,R1,M064,"Sapthagiri Institute of Medical Sciences, Bangalore",MBBS,PRIV,NRI,97997
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,OTHERS,OTHERS,550435
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,PRIV,GMP,126673
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,PRIV,GMPH,184324
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,PRIV,MU,663288
+2023,R1,M065,"Srinivasa Institute of Medical Research Center, Mangalore",MBBS,PRIV,NRI,45937
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,OTHERS,OTHERS,398648
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,PRIV,GMP,109223
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,PRIV,GMPH,166958
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,PRIV,ME,368483
+2023,R1,M067,"Subbaiah Institute of Medical Science, Shimoga",MBBS,PRIV,NRI,62710
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,OTHERS,OTHERS,398914
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,PRIV,GMP,84067
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,PRIV,GMPH,117751
+2023,R1,M068,"BGS Global Institute of Medical Sciences, Kengeri, Bangalore",MBBS,PRIV,NRI,32233
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,OTHERS,OTHERS,467036
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,PRIV,GMP,124028
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,PRIV,GMPH,167875
+2023,R1,M069,"Shridevi Institute of Medical Sciences and Research Hospital, Tumkur",MBBS,PRIV,NRI,58107
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,OTHERS,OTHERS,530122
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,PRIV,GMP,103333
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,PRIV,GMPH,160509
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,PRIV,ME,255355
+2023,R1,M071,"The Oxford Medical College Hospital and Research Center, Bangalore",MBBS,PRIV,NRI,40289
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,OTHERS,OTHERS,500074
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,PRIV,GMP,110229
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,PRIV,GMPH,169058
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,PRIV,ME,312373
+2023,R1,M078,"Akash Institute of Medical Sciences and Research Centre, BANGALORE",MBBS,PRIV,NRI,37950
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,OTHERS,OTHERS,540980
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,PRIV,GMP,126778
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,PRIV,GMPH,190172
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,PRIV,MM,270626
+2023,R1,M079,"Kanachur Institute of Medical Sciences and Research Centre, MANGALORE",MBBS,PRIV,NRI,39408
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,OTHERS,OTHERS,436854
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,PRIV,GMP,116277
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,PRIV,GMPH,159760
+2023,R1,M081,"East Point College of Medical Sciences and Research Center, Bangalore",MBBS,PRIV,NRI,44355
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,OTHERS,OTHERS,576179
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,PRIV,GMP,223101
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,PRIV,GMPH,292288
+2023,R1,M083,"Dr. Chandramma Dayananda Sagar Institute of Medical Education, Harohalli hobli, Kanakapura Rd",MBBS,PRIV,NRI,183240
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,OTHERS,OTHERS,316267
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,PRIV,GMP,111469
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,PRIV,GMPH,143913
+2023,R1,M090,"Siddaganga Medical College and Research Institute, Tumakuru",MBBS,PRIV,NRI,65687
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,OTHERS,OTHERS,394518
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,PRIV,GMP,127801
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,PRIV,GMPH,174992
+2023,R1,M091,"SRI CHAMUNDESHWARI MEDICAL COLLEGE, HOSPITAL AND RESEARCH INST, CHANNAPATNA, RAMANAGARA",MBBS,PRIV,NRI,70217
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,NRI,NRI,314539
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,OTHERS,OTHERS,91677
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,PRIV,GMP,72240
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,PRIV,GMPH,79972
+2023,R1,M093,"Sri Madhusudan Sai Institute of Medical Sciences and Research, Muddenahalli,CHIKKABALLAPURA",MBBS,PRIV,NRI,26189
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,NRI,NRI,778726
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,OTHERS,OTHERS,500107
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,PRIV,GMP,481356
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,PRIV,GMPH,631622
+2023,R1,D102,"Dr.M.R.Ambedkar Dental College and Hospital, Bangalore",BDS,PRIV,NRI,333500
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,OTHERS,OTHERS,500527
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,PRIV,GMP,494084
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,PRIV,GMPH,817161
+2023,R1,D103,"Vokkaligara Sangha Dental College and Hospital, Bangalore",BDS,PRIV,NRI,360878
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,NRI,NRI,617754
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,OTHERS,OTHERS,339505
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,PRIV,GMP,330309
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,PRIV,GMPH,696701
+2023,R1,D104,"M.S.Ramaiah Univerisity of Applied Sciences, Bangalore",BDS,PRIV,NRI,247843
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,NRI,NRI,595398
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,OTHERS,OTHERS,448724
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,PRIV,GMP,472057
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,PRIV,GMPH,700786
+2023,R1,D111,"Dayananda Sagar College of Dental Sciences, Bangalore",BDS,PRIV,NRI,365388
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,OTHERS,OTHERS,563702
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,PRIV,GMP,4
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,PRIV,GMPH,736291
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,PRIV,MA,173085
+2023,R1,D112,"Oxford Dental College, Bangalore",BDS,PRIV,OPN,346701
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,OTHERS,OTHERS,601903
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,PRIV,GMP,605980
+2023,R1,D113,"Sri Rajiv Gandhi Dental College, Bangalore",BDS,PRIV,NRI,503302
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,OTHERS,OTHERS,559817
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,PRIV,GMP,439332
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,PRIV,MA,100
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,PRIV,MC,9603
+2023,R1,D114,"Raja Rajeshwari Dental College and Hospital, Bangalore",BDS,PRIV,OPN,340206
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,NRI,NRI,673629
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,OTHERS,OTHERS,456602
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,PRIV,GMP,413189
+2023,R1,D115,"Rashtreeya Vidyalaya Dental College, Bangalore",BDS,PRIV,NRI,320903
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,OTHERS,OTHERS,478207
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,PRIV,GMP,497663
+2023,R1,D116,"Krishnadevaraya College of Dental Sciences, Road, Bangalore",BDS,PRIV,NRI,403249
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,OTHERS,OTHERS,575326
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,PRIV,GMP,26
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,PRIV,GMPH,483210
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,PRIV,MA,98376
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,PRIV,MEH,724671
+2023,R1,D118,"Bangalore Institute of Dental Sciences & Hospital, Bangalore",BDS,PRIV,OPN,225947
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,OTHERS,OTHERS,605440
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,PRIV,GMP,526462
+2023,R1,D119,"K L E S Institute of Dental Sciences, Bangalore",BDS,PRIV,NRI,367141
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,OTHERS,OTHERS,440393
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,PRIV,GMP,412271
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,PRIV,GMPH,661183
+2023,R1,D120,"Venkateswara Dental College, Bangalore",BDS,PRIV,NRI,307601
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,OTHERS,OTHERS,398411
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,PRIV,GMP,628747
+2023,R1,D121,"K.G.F. College of Dental Sciences, K.G.F.",BDS,PRIV,NRI,578280
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,OTHERS,OTHERS,332123
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,PRIV,GMP,272442
+2023,R1,D122,"Vydehi Institute of Dental Sciences and Research Centre, Bangalore",BDS,PRIV,NRI,189292
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,OTHERS,OTHERS,429107
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,PRIV,GMP,336667
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,PRIV,GMPH,704038
+2023,R1,D224,"Farooquia Dental College, Mysore",BDS,PRIV,NRI,273698
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,OTHERS,OTHERS,537972
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,PRIV,GMP,63
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,PRIV,GMPH,246410
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,PRIV,MA,22962
+2023,R1,D225,"Sri. Hasanamba Dental College and Hospital, Hassan",BDS,PRIV,OPN,450593
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,OTHERS,OTHERS,454246
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,PRIV,GMP,400713
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,PRIV,GMPH,767346
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,PRIV,MM,1
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,PRIV,MMH,106531
+2023,R1,D333,"Al-Ameen Dental College, Bijapur",BDS,PRIV,OPN,307265
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,OTHERS,OTHERS,544410
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,PRIV,GMP,61
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,PRIV,GMPH,187610
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,PRIV,MA,66352
+2023,R1,D335,"Maratha Mandal Dental College, Belgaum",BDS,PRIV,OPN,472656
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,OTHERS,OTHERS,571943
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,PRIV,GMP,65
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,PRIV,GMPH,198110
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,PRIV,MA,36651
+2023,R1,D336,"PM Nadagowda Memorial Dental College and Hospital, Bagalkot",BDS,PRIV,OPN,527322
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,OTHERS,OTHERS,441080
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,PRIV,GMP,348389
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,PRIV,GMPH,418173
+2023,R1,D337,"Sri Dharmasthala Manjunatheswara Dental College, Dharwad",BDS,PRIV,NRI,237075
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,OTHERS,OTHERS,348750
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,PRIV,GMP,259782
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,PRIV,GMPH,547838
+2023,R1,D442,"Hyderabad Karnataka Education Societies Dental College, Gulbarga",BDS,PRIV,NRI,187983
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,OTHERS,OTHERS,457386
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,PRIV,GMP,329567
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,PRIV,GMPH,493007
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,PRIV,MMH,1
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,PRIV,MU,211966
+2023,R1,D443,"Al Badar Dental College and Hospital, Gulbarga",BDS,PRIV,OPN,263157
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,OTHERS,OTHERS,426639
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,PRIV,GMP,368242
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,PRIV,GMPH,747209
+2023,R1,D444,"HKDET`S Dental College Hospital, Humnabad, Bidar Dist",BDS,PRIV,NRI,348401
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,OTHERS,OTHERS,540003
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,PRIV,GMP,389742
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,PRIV,GMPH,730636
+2023,R1,D445,"S.B.Patil Institute for Dental Sciences and Research, Bidar",BDS,PRIV,NRI,307583
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,OTHERS,OTHERS,660685
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,PRIV,GMP,5
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,PRIV,GMPH,583751
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,PRIV,MA,203038
+2023,R1,D446,"Academy of Medical Education Dental College, Raichur",BDS,PRIV,OPN,508230
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,OTHERS,OTHERS,514364
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,PRIV,GMP,436802
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,PRIV,GMPH,589657
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,PRIV,MEH,786830
+2023,R1,D447,"Navodaya Dental College, Raichur",BDS,PRIV,NRI,349575
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,OTHERS,OTHERS,195005
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,PRIV,GMP,617089
+2023,R1,D551,"Coorg Institute of Dental Sciences, Coorg District",BDS,PRIV,NRI,370628
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,NRI,NRI,515045
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,OTHERS,OTHERS,509463
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,PRIV,GMP,582673
+2023,R1,D555,"K.Venkataramana Gowda Dental College Hospital and Research Centre, Dakshina Kannada",BDS,PRIV,NRI,481771
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,OTHERS,OTHERS,720227
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,PRIV,GMP,586302
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,PRIV,MU,10
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,PRIV,NRI,74875
+2023,R1,D556,"A.J. Institute of Dental Sciences, Mangalore",BDS,PRIV,OPN,356710
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,NRI,NRI,250512
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,OTHERS,OTHERS,455448
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,PRIV,GMP,429119
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,PRIV,MU,586982
+2023,R1,D557,"Srinivasa Institute of Dental Science, Mangalore",BDS,PRIV,NRI,327904
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,OTHERS,OTHERS,635721
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,PRIV,GMP,538066
+2023,R1,D661,"Bapuji Dental College and Hospital, Davangere",BDS,PRIV,NRI,380911
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,OTHERS,OTHERS,682808
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,PRIV,GMP,680
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,PRIV,GMPH,31410
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,PRIV,MA,80524
+2023,R1,D662,"College of Dental Sciences, Davangere",BDS,PRIV,OPN,615091
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,OTHERS,OTHERS,603832
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,PRIV,GMP,640708
+2023,R1,D663,"Sharavathi Dental College, Shimoga",BDS,PRIV,NRI,529792
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,OTHERS,OTHERS,529498
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,PRIV,GMP,555743
+2023,R1,D664,"Sri Jagadguru Murugharajendra Dental College & Hospital, Chitradurga",BDS,PRIV,NRI,445829
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,OTHERS,OTHERS,389777
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,PRIV,GMP,339394
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,PRIV,GMPH,595557
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,PRIV,ME,583930
+2023,R1,D665,"Subbaiah Institute of Dental Sciences, Shimoga",BDS,PRIV,NRI,291595

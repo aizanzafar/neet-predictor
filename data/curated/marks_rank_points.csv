@@ -1,0 +1,688 @@
+point_id,year,marks_min,marks_max,rank_min,rank_max,rank_median,candidate_count,percentile,data_granularity,extraction_method,source_id,confidence,notes
+1,2025,670,670,17,17,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+2,2025,665,665,22,22,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+3,2025,660,660,38,38,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+4,2025,657,657,42,42,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+5,2025,651,651,72,72,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+6,2025,649,649,80,80,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+7,2025,648,648,84,84,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+8,2025,641,641,121,121,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+9,2025,637,637,152,152,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+10,2025,636,636,159,159,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+11,2025,635,635,171,171,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+12,2025,634,634,184,185,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+13,2025,632,632,214,214,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+14,2025,631,631,226,226,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+15,2025,630,630,241,256,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+16,2025,629,629,263,263,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+17,2025,628,628,286,286,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+18,2025,627,627,294,299,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+19,2025,626,626,317,318,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+20,2025,625,625,332,346,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+21,2025,624,624,365,365,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+22,2025,623,623,386,388,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+23,2025,622,622,398,420,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+24,2025,621,621,436,444,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+25,2025,620,620,455,459,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+26,2025,619,619,486,486,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+27,2025,618,618,513,520,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+28,2025,617,617,543,553,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+29,2025,616,616,565,584,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+30,2025,615,615,609,625,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+31,2025,614,614,649,649,,1,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+32,2025,612,612,723,730,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+33,2025,611,611,759,771,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+34,2025,610,610,790,803,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+35,2025,609,609,842,867,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+36,2025,608,608,896,925,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+37,2025,607,607,937,982,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+38,2025,606,606,985,995,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+39,2025,605,605,1036,1081,,6,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+40,2025,603,603,1175,1187,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+41,2025,602,602,1199,1240,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+42,2025,601,601,1287,1325,,9,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+43,2025,600,600,1338,1411,,5,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+44,2025,599,599,1429,1483,,7,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+45,2025,598,598,1494,1535,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+46,2025,597,597,1549,1599,,6,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+47,2025,596,596,1623,1684,,5,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+48,2025,595,595,1687,1774,,4,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+49,2025,594,594,1792,1802,,2,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+50,2025,593,593,1875,1940,,8,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+51,2025,592,592,1957,2057,,10,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+52,2025,591,591,2063,2150,,6,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+53,2025,590,590,2162,2275,,15,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+54,2025,589,589,2309,2365,,6,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+55,2025,588,588,2403,2499,,8,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+56,2025,587,587,2548,2614,,6,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+57,2025,586,586,2657,2703,,3,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+58,2025,585,585,2777,2878,,5,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+59,2025,584,584,2904,3010,,10,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+60,2025,583,583,3017,3148,,11,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+61,2025,582,582,3158,3302,,7,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+62,2025,581,581,3305,3435,,10,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+63,2025,580,580,3442,3592,,10,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+64,2025,579,579,3611,3758,,16,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+65,2025,578,578,3788,3915,,9,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+66,2025,577,577,3941,4105,,11,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+67,2025,576,576,4120,4270,,13,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+68,2025,575,575,4286,4499,,12,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+69,2025,574,574,4531,4688,,9,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+70,2025,573,573,4717,4887,,7,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+71,2025,572,572,4899,5062,,8,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+72,2025,571,571,5089,5318,,11,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+73,2025,570,570,5362,5559,,12,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+74,2025,569,569,5571,5791,,12,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+75,2025,568,568,5796,5990,,12,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+76,2025,567,567,6022,6292,,19,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+77,2025,566,566,6302,6526,,13,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+78,2025,565,565,6617,6913,,14,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+79,2025,564,564,6958,7228,,11,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+80,2025,563,563,7239,7516,,10,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+81,2025,562,562,7531,7809,,11,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+82,2025,561,561,7845,8130,,16,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+83,2025,560,560,8198,8521,,23,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+84,2025,559,559,8542,8839,,19,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+85,2025,558,558,8891,9150,,11,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+86,2025,557,557,9224,9536,,13,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+87,2025,556,556,9576,9901,,13,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+88,2025,555,555,9980,10374,,24,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+89,2025,554,554,10415,10778,,20,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+90,2025,553,553,10808,11128,,24,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+91,2025,552,552,11172,11569,,19,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+92,2025,551,551,11629,11988,,22,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+93,2025,550,550,12013,12458,,24,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+94,2025,549,549,12464,12905,,23,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+95,2025,548,548,12937,13357,,24,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+96,2025,547,547,13394,13878,,35,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+97,2025,546,546,13894,14362,,22,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+98,2025,545,545,14402,14813,,20,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+99,2025,544,544,14880,15357,,24,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+100,2025,543,543,15363,15845,,28,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+101,2025,542,542,15873,16416,,34,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+102,2025,541,541,16464,16988,,26,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+103,2025,540,540,17001,17634,,41,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+104,2025,539,539,17645,18193,,28,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+105,2025,538,538,18217,18828,,30,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+106,2025,537,537,18869,19455,,36,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+107,2025,536,536,19465,20076,,32,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+108,2025,535,535,20098,20718,,32,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+109,2025,534,534,20801,21440,,28,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+110,2025,533,533,21513,22196,,54,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+111,2025,532,532,22228,22820,,35,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+112,2025,531,531,22888,23562,,47,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+113,2025,530,530,23570,24342,,52,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+114,2025,529,529,24378,25008,,41,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+115,2025,528,528,25025,25703,,51,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+116,2025,527,527,25721,26467,,48,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+117,2025,526,526,26522,27258,,39,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+118,2025,525,525,27267,28128,,44,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+119,2025,524,524,28161,28966,,46,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+120,2025,523,523,28975,29773,,39,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+121,2025,522,522,29802,30608,,46,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+122,2025,521,521,30648,31442,,55,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+123,2025,520,520,31452,32360,,44,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+124,2025,519,519,32367,33247,,48,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+125,2025,518,518,33259,34086,,51,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+126,2025,517,517,34112,34977,,55,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+127,2025,516,516,34992,35885,,64,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+128,2025,515,515,35936,36928,,59,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+129,2025,514,514,36932,37840,,48,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+130,2025,513,513,37865,38770,,56,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+131,2025,512,512,38781,39716,,57,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+132,2025,511,511,39725,40654,,53,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+133,2025,510,510,40777,41833,,60,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+134,2025,509,509,41901,42786,,63,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+135,2025,508,508,42878,43873,,66,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+136,2025,507,507,43888,44899,,60,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+137,2025,506,506,44920,45965,,56,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+138,2025,505,505,46057,47098,,52,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+139,2025,504,504,47164,48218,,66,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+140,2025,503,503,48225,49283,,68,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+141,2025,502,502,49304,50368,,56,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+142,2025,501,501,50374,51489,,62,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+143,2025,500,500,51529,52694,,85,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+144,2025,499,499,52710,53748,,58,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+145,2025,498,498,53782,54895,,64,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+146,2025,497,497,54905,56048,,62,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+147,2025,496,496,56089,57270,,61,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+148,2025,495,495,57287,58539,,85,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+149,2025,494,494,58557,59692,,68,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+150,2025,493,493,59727,60971,,64,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+151,2025,492,492,61034,62206,,71,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+152,2025,491,491,62228,63467,,71,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+153,2025,490,490,63477,64736,,93,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+154,2025,489,489,64783,65998,,74,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+155,2025,488,488,66060,67249,,74,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+156,2025,487,487,67350,68505,,71,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+157,2025,486,486,68538,69826,,89,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+158,2025,485,485,69866,71253,,83,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+159,2025,484,484,71296,72581,,75,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+160,2025,483,483,72611,73875,,78,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+161,2025,482,482,73904,75232,,85,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+162,2025,481,481,75251,76607,,92,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+163,2025,480,480,76643,78059,,83,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+164,2025,479,479,78085,79396,,95,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+165,2025,478,478,79402,80806,,88,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+166,2025,477,477,80816,82131,,81,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+167,2025,476,476,82142,83472,,89,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+168,2025,475,475,83486,85020,,98,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+169,2025,474,474,85041,86420,,91,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+170,2025,473,473,86436,87805,,88,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+171,2025,472,472,87816,89217,,80,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+172,2025,471,471,89242,90683,,94,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+173,2025,470,470,90704,92196,,97,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+174,2025,469,469,92238,93612,,99,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+175,2025,468,468,93629,95051,,94,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+176,2025,467,467,95054,96448,,79,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+177,2025,466,466,96478,97945,,82,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+178,2025,465,465,97960,99558,,104,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+179,2025,464,464,99574,100978,,99,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+180,2025,463,463,101012,102502,,108,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+181,2025,462,462,102535,103984,,104,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+182,2025,461,461,104004,105432,,103,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+183,2025,460,460,105472,106985,,113,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+184,2025,459,459,107007,108500,,93,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+185,2025,458,458,108529,110035,,123,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+186,2025,457,457,110051,111550,,90,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+187,2025,456,456,111578,113126,,102,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+188,2025,455,455,113131,114813,,107,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+189,2025,454,454,114868,116380,,88,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+190,2025,453,453,116406,117912,,98,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+191,2025,452,452,117927,119396,,80,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+192,2025,451,451,119477,121015,,96,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+193,2025,450,450,121036,122724,,110,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+194,2025,449,449,122763,124340,,119,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+195,2025,448,448,124375,125943,,124,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+196,2025,447,447,125949,127535,,128,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+197,2025,446,446,127570,129183,,118,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+198,2025,445,445,129184,130842,,115,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+199,2025,444,444,130877,132446,,103,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+200,2025,443,443,132456,133952,,127,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+201,2025,442,442,133977,135525,,116,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+202,2025,441,441,135585,137257,,118,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+203,2025,440,440,137274,139058,,127,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+204,2025,439,439,139074,140660,,95,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+205,2025,438,438,140712,142309,,127,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+206,2025,437,437,142320,143873,,102,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+207,2025,436,436,143937,145626,,122,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+208,2025,435,435,145640,147497,,120,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+209,2025,434,434,147507,149188,,128,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+210,2025,433,433,149193,150836,,102,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+211,2025,432,432,150893,152517,,124,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+212,2025,431,431,152527,154211,,100,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+213,2025,430,430,154219,156119,,136,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+214,2025,429,429,156137,157818,,107,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+215,2025,428,428,157831,159545,,122,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+216,2025,427,427,159573,161265,,111,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+217,2025,426,426,161304,162939,,119,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+218,2025,425,425,163002,164866,,134,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+219,2025,424,424,164898,166573,,106,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+220,2025,423,423,166584,168337,,102,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+221,2025,422,422,168343,170147,,135,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+222,2025,421,421,170176,171902,,119,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+223,2025,420,420,171937,173832,,127,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+224,2025,419,419,173894,175675,,143,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+225,2025,418,418,175676,177445,,134,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+226,2025,417,417,177464,179292,,120,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+227,2025,416,416,179385,181160,,104,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+228,2025,415,415,181188,183052,,114,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+229,2025,414,414,183055,184840,,124,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+230,2025,413,413,184859,186577,,120,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+231,2025,412,412,186633,188394,,111,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+232,2025,411,411,188415,190196,,136,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+233,2025,410,410,190203,192177,,114,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+234,2025,409,409,192217,194045,,145,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+235,2025,408,408,194053,195910,,153,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+236,2025,407,407,195924,197814,,120,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+237,2025,406,406,197847,199656,,133,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+238,2025,405,405,199679,201660,,125,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+239,2025,404,404,201696,203523,,108,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+240,2025,403,403,203591,205463,,120,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+241,2025,402,402,205504,207299,,117,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+242,2025,401,401,207332,209258,,120,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+243,2025,400,400,209266,211348,,144,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+244,2025,399,399,211394,213332,,135,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+245,2025,398,398,213374,215219,,102,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+246,2025,397,397,215240,217111,,127,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+247,2025,396,396,217129,219025,,150,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+248,2025,395,395,219118,221158,,151,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+249,2025,394,394,221166,223062,,144,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+250,2025,393,393,223109,225007,,121,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+251,2025,392,392,225027,226926,,118,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+252,2025,391,391,226928,228928,,150,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+253,2025,390,390,228965,230950,,153,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+254,2025,389,389,230982,232960,,127,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+255,2025,388,388,232964,234925,,125,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+256,2025,387,387,234968,236940,,155,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+257,2025,386,386,236954,238930,,118,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+258,2025,385,385,238958,241210,,163,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+259,2025,384,384,241248,243233,,118,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+260,2025,383,383,243288,245292,,135,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+261,2025,382,382,245303,247278,,136,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+262,2025,381,381,247307,249330,,134,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+263,2025,380,380,249363,251682,,166,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+264,2025,379,379,251692,253615,,129,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+265,2025,378,378,253723,255696,,121,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+266,2025,377,377,255703,257787,,160,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+267,2025,376,376,257792,259936,,130,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+268,2025,375,375,259984,262220,,136,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+269,2025,374,374,262230,264241,,126,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+270,2025,373,373,264286,266343,,129,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+271,2025,372,372,266374,268459,,123,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+272,2025,371,371,268475,270620,,165,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+273,2025,370,370,270683,272985,,157,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+274,2025,369,369,273002,274994,,139,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+275,2025,368,368,275032,277084,,146,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+276,2025,367,367,277136,279281,,135,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+277,2025,366,366,279294,281409,,162,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+278,2025,365,365,281418,283629,,152,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+279,2025,364,364,283649,285801,,154,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+280,2025,363,363,285828,287958,,130,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+281,2025,362,362,287985,290099,,142,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+282,2025,361,361,290105,292357,,145,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+283,2025,360,360,292365,294825,,158,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+284,2025,359,359,294830,296943,,128,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+285,2025,358,358,296981,299044,,152,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+286,2025,357,357,299096,301116,,144,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+287,2025,356,356,301198,303500,,158,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+288,2025,355,355,303532,305878,,145,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+289,2025,354,354,305915,308061,,147,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+290,2025,353,353,308066,310250,,131,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+291,2025,352,352,310289,312509,,156,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+292,2025,351,351,312532,314834,,139,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+293,2025,350,350,314907,317248,,116,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+294,2025,349,349,317261,319526,,187,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+295,2025,348,348,319613,321839,,151,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+296,2025,347,347,321847,324001,,135,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+297,2025,346,346,324044,326332,,150,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+298,2025,345,345,326345,328885,,175,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+299,2025,344,344,328905,331263,,154,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+300,2025,343,343,331286,333524,,139,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+301,2025,342,342,333584,335909,,163,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+302,2025,341,341,335970,338316,,168,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+303,2025,340,340,338330,340987,,190,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+304,2025,339,339,341011,343315,,151,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+305,2025,338,338,343355,345609,,175,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+306,2025,337,337,345670,347973,,167,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+307,2025,336,336,348003,350408,,150,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+308,2025,335,335,350462,353012,,179,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+309,2025,334,334,353021,355403,,159,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+310,2025,333,333,355427,357751,,152,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+311,2025,332,332,357808,360157,,147,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+312,2025,331,331,360197,362566,,148,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+313,2025,330,330,362586,365221,,179,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+314,2025,329,329,365252,367634,,157,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+315,2025,328,328,367670,370156,,157,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+316,2025,327,327,370172,372548,,158,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+317,2025,326,326,372591,375033,,188,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+318,2025,325,325,375047,377809,,183,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+319,2025,324,324,377831,380360,,169,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+320,2025,323,323,380410,382900,,163,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+321,2025,322,322,382959,385459,,149,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+322,2025,321,321,385501,388049,,151,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+323,2025,320,320,388053,390811,,204,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+324,2025,319,319,390824,393311,,153,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+325,2025,318,318,393328,395784,,174,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+326,2025,317,317,395807,398346,,167,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+327,2025,316,316,398386,400951,,157,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+328,2025,315,315,401005,403845,,200,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+329,2025,314,314,403861,406389,,185,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+330,2025,313,313,406430,408861,,160,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+331,2025,312,312,408902,411474,,151,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+332,2025,311,311,411479,414162,,196,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+333,2025,310,310,414176,417079,,209,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+334,2025,309,309,417113,419746,,166,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+335,2025,308,308,419789,422378,,158,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+336,2025,307,307,422382,425004,,179,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+337,2025,306,306,425055,427697,,162,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+338,2025,305,305,427725,430794,,178,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+339,2025,304,304,430812,433486,,181,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+340,2025,303,303,433559,436099,,154,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+341,2025,302,302,436127,438969,,177,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+342,2025,301,301,439157,441772,,161,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+343,2025,300,300,441822,444900,,213,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+344,2025,299,299,444950,447613,,188,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+345,2025,298,298,447652,450251,,168,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+346,2025,297,297,450254,453102,,152,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+347,2025,296,296,453168,455953,,197,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+348,2025,295,295,455982,459171,,205,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+349,2025,294,294,459179,462023,,182,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+350,2025,293,293,462108,464842,,202,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+351,2025,292,292,464894,467679,,184,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+352,2025,291,291,467693,470587,,192,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+353,2025,290,290,470625,473890,,192,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+354,2025,289,289,473922,476759,,172,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+355,2025,288,288,476765,479618,,193,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+356,2025,287,287,479657,482605,,204,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+357,2025,286,286,482640,485589,,200,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+358,2025,285,285,485628,489028,,224,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+359,2025,284,284,489074,491846,,186,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+360,2025,283,283,491856,494714,,202,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+361,2025,282,282,494737,497635,,168,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+362,2025,281,281,497654,500718,,205,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+363,2025,280,280,500746,504223,,216,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+364,2025,279,279,504233,507142,,219,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+365,2025,278,278,507157,510154,,205,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+366,2025,277,277,510247,513273,,207,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+367,2025,276,276,513342,516365,,191,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+368,2025,275,275,516418,519820,,238,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+369,2025,274,274,519822,522908,,202,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+370,2025,273,273,522920,526025,,219,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+371,2025,272,272,526136,529084,,192,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+372,2025,271,271,529105,532307,,200,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+373,2025,270,270,532337,536071,,275,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+374,2025,269,269,536112,539234,,222,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+375,2025,268,268,539267,542315,,218,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+376,2025,267,267,542335,545430,,192,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+377,2025,266,266,545485,548679,,202,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+378,2025,265,265,548816,552385,,243,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+379,2025,264,264,552424,555543,,221,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+380,2025,263,263,555567,558774,,191,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+381,2025,262,262,558783,561891,,189,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+382,2025,261,261,561928,565274,,219,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+383,2025,260,260,565318,569083,,254,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+384,2025,259,259,569125,572448,,214,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+385,2025,258,258,572509,575720,,200,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+386,2025,257,257,575751,578913,,202,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+387,2025,256,256,578930,582259,,231,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+388,2025,255,255,582314,586139,,225,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+389,2025,254,254,586164,589411,,214,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+390,2025,253,253,589412,592800,,197,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+391,2025,252,252,592813,596235,,228,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+392,2025,251,251,596273,599736,,216,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+393,2025,250,250,599776,603757,,256,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+394,2025,249,249,603792,607227,,197,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+395,2025,248,248,607270,610708,,240,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+396,2025,247,247,610774,614134,,227,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+397,2025,246,246,614187,617647,,232,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+398,2025,245,245,617667,621617,,255,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+399,2025,244,244,621651,624991,,217,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+400,2025,243,243,625006,628400,,208,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+401,2025,242,242,628408,631868,,254,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+402,2025,241,241,631905,635484,,207,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+403,2025,240,240,635629,639730,,279,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+404,2025,239,239,639802,643256,,224,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+405,2025,238,238,643277,646922,,243,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+406,2025,237,237,646941,650494,,218,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+407,2025,236,236,650582,654167,,235,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+408,2025,235,235,654258,658467,,277,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+409,2025,234,234,658485,662159,,282,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+410,2025,233,233,662208,665799,,225,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+411,2025,232,232,665856,669383,,223,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+412,2025,231,231,669522,673179,,227,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+413,2025,230,230,673245,677599,,299,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+414,2025,229,229,677660,681438,,254,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+415,2025,228,228,681542,685300,,252,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+416,2025,227,227,685341,689112,,250,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+417,2025,226,226,689115,693142,,303,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+418,2025,225,225,693164,697711,,304,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+419,2025,224,224,697804,701395,,248,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+420,2025,223,223,701402,705267,,257,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+421,2025,222,222,705305,709259,,242,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+422,2025,221,221,709293,713123,,245,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+423,2025,220,220,713153,717752,,319,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+424,2025,219,219,717761,721699,,274,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+425,2025,218,218,721708,725556,,250,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+426,2025,217,217,725575,729514,,252,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+427,2025,216,216,729579,733544,,291,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+428,2025,215,215,733602,738254,,299,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+429,2025,214,214,738282,742254,,272,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+430,2025,213,213,742278,746145,,250,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+431,2025,212,212,746225,750182,,266,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+432,2025,211,211,750275,754484,,273,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+433,2025,210,210,754502,759382,,317,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+434,2025,209,209,759585,763565,,311,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+435,2025,208,208,763580,767605,,261,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+436,2025,207,207,767659,771733,,282,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+437,2025,206,206,771740,775996,,298,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+438,2025,205,205,776016,781160,,345,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+439,2025,204,204,781228,785306,,264,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+440,2025,203,203,785423,789438,,255,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+441,2025,202,202,789442,793645,,275,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+442,2025,201,201,793677,798088,,303,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+443,2025,200,200,798101,803314,,354,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+444,2025,199,199,803347,807509,,276,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+445,2025,198,198,807577,811860,,286,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+446,2025,197,197,811892,816259,,307,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+447,2025,196,196,816285,820632,,271,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+448,2025,195,195,820654,825920,,383,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+449,2025,194,194,825961,830299,,292,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+450,2025,193,193,830304,834726,,261,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+451,2025,192,192,834734,839261,,344,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+452,2025,191,191,839289,843885,,282,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+453,2025,190,190,843977,849528,,422,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+454,2025,189,189,849538,854056,,292,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+455,2025,188,188,854067,858634,,345,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+456,2025,187,187,858641,863270,,269,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+457,2025,186,186,863287,867976,,317,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+458,2025,185,185,868006,873853,,397,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+459,2025,184,184,873875,878499,,315,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+460,2025,183,183,878531,883186,,307,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+461,2025,182,182,883190,887866,,336,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+462,2025,181,181,887879,892854,,354,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+463,2025,180,180,892870,898909,,427,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+464,2025,179,179,898915,903677,,352,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+465,2025,178,178,903688,908387,,317,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+466,2025,177,177,908405,913167,,319,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+467,2025,176,176,913182,918108,,349,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+468,2025,175,175,918162,924449,,454,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+469,2025,174,174,924490,929202,,281,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+470,2025,173,173,929261,934046,,333,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+471,2025,172,172,934081,939124,,352,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+472,2025,171,171,939134,944204,,337,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+473,2025,170,170,944246,950618,,462,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+474,2025,169,169,950630,955585,,334,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+475,2025,168,168,955629,960566,,324,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+476,2025,167,167,960581,965673,,379,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+477,2025,166,166,965712,970957,,373,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+478,2025,165,165,970971,977735,,488,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+479,2025,164,164,977761,982941,,360,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+480,2025,163,163,982945,988037,,343,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+481,2025,162,162,988053,993388,,364,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+482,2025,161,161,993406,998960,,416,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+483,2025,160,160,998976,1005890,,503,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+484,2025,159,159,1005925,1011202,,356,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+485,2025,158,158,1011218,1016527,,373,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+486,2025,157,157,1016528,1021920,,357,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+487,2025,156,156,1021940,1027527,,355,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+488,2025,155,155,1027544,1034809,,567,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+489,2025,154,154,1034823,1040145,,374,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+490,2025,153,153,1040168,1045695,,385,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+491,2025,152,152,1045766,1051309,,394,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+492,2025,151,151,1051370,1057097,,387,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+493,2025,150,150,1057129,1064658,,528,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+494,2025,149,149,1064683,1070223,,393,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+495,2025,148,148,1070251,1075792,,369,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+496,2025,147,147,1075837,1081480,,403,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+497,2025,146,146,1081532,1087450,,428,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+498,2025,145,145,1087468,1095494,,595,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+499,2025,144,144,1095526,1101143,,378,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+500,2025,143,143,1101154,1106933,,371,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+501,2025,142,142,1106949,1112745,,382,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+502,2025,141,141,1112769,1118920,,396,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+503,2025,140,140,1118973,1127291,,635,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+504,2025,139,139,1127295,1133233,,416,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+505,2025,138,138,1133253,1139106,,387,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+506,2025,137,137,1139116,1145198,,400,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+507,2025,136,136,1145219,1151586,,440,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+508,2025,135,135,1151600,1160427,,674,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+509,2025,134,134,1160443,1166546,,422,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+510,2025,133,133,1166556,1172690,,435,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+511,2025,132,132,1172755,1179005,,403,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+512,2025,131,131,1179013,1185725,,455,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+513,2025,130,130,1185753,1194893,,705,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+514,2025,129,129,1194962,1201187,,441,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+515,2025,128,128,1201273,1207515,,412,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+516,2025,127,127,1207531,1213917,,426,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+517,2025,126,126,1213961,1220646,,450,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+518,2025,125,125,1220687,1230449,,731,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+519,2025,124,124,1230489,1236987,,439,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+520,2025,123,123,1237013,1243425,,418,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+521,2025,122,122,1243444,1250328,,506,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+522,2025,121,121,1250356,1257323,,456,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+523,2025,120,120,1257341,1267453,,718,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+524,2025,119,119,1267485,1273987,,459,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+525,2025,118,118,1273992,1280836,,460,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+526,2025,117,117,1280842,1287613,,514,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+527,2025,116,116,1287626,1294923,,488,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+528,2025,115,115,1294954,1305568,,775,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+529,2025,114,114,1305576,1312491,,486,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+530,2025,113,113,1312504,1319409,,449,,exact,kea_candidate_list,43,high,Extracted from KEA 2025 Karnataka candidate list PDF (87K+ candidates)
+531,2024,720,720,1,17,,17.0,,exact,official_published,39,high,17 toppers at 720 in re-revised result (NTA Jul 26 2024)
+532,2024,715,720,1,17,,,,range,web_table,43,high,Careers360 published from NTA re-revised result
+533,2024,700,716,18,2250,,,,range,web_table,43,high,
+534,2024,665,690,4406,17800,,,,range,web_table,43,high,
+535,2024,638,656,25500,40116,,,,range,web_table,43,high,
+536,2024,615,630,47810,65000,,,,range,web_table,43,high,
+537,2024,615,615,65000,65000,,,,exact,web_table,43,high,Endpoint anchor from Careers360 range
+538,2024,592,606,70000,90400,,,,range,web_table,43,high,
+539,2024,500,550,144000,209000,,,,range,web_table,43,high,
+540,2024,414,451,285550,351425,,,,range,web_table,43,high,
+541,2024,287,380,420000,657138,,,,range,web_table,43,high,
+542,2024,142,251,774559,1200000,,,,range,web_table,43,high,
+543,2024,162,162,1014372,1014372,,1014372.0,,exact,web_table,42,high,UR cutoff boundary; 1014372 UR candidates qualified at marks>=162
+544,2024,129,129,1316268,1316268,,,,exact,derived,42,high,Total qualified boundary; all categories sum from Embibe
+545,2024,0,128,1316269,2333297,,,,range,derived,39,medium,Unqualified range; from NTA appeared (2333297) minus total qualified
+546,2023,720,720,1,2,,2.0,,exact,official_published,38,high,2 toppers at 720: Prabanjan J and Bora Varun Chakravarthi
+547,2023,701,715,3,48,,,99.997,range,web_table,43,high,Corrected rank_min from 1 to 3 per NTA topper data
+548,2023,651,700,97,4245,,,99.79,range,web_table,43,high,
+549,2023,601,650,4677,20568,,,98.83,range,web_table,43,high,
+550,2023,551,600,21162,48400,,,97.25,range,web_table,43,high,
+551,2023,451,550,49121,125742,,,92.85,range,web_table,43,high,
+552,2023,401,450,126733,177959,,,89.88,range,web_table,43,high,
+553,2023,351,400,179226,241657,,,86.26,range,web_table,43,high,
+554,2023,301,350,243139,320666,,,81.77,range,web_table,43,high,
+555,2023,251,300,322702,417675,,,76.25,range,web_table,43,high,
+556,2023,201,250,420134,540747,,,69.25,range,web_table,43,high,
+557,2023,151,200,544093,710276,,,59.61,range,web_table,43,high,
+558,2023,101,150,715384,990231,,,43.69,range,web_table,43,high,Includes SC/ST/OBC cutoff zone (107 marks)
+559,2023,51,100,1001694,1460741,,,16.94,range,web_table,43,medium,
+560,2023,0,50,1476066,1750199,,,0.48,range,web_table,43,medium,Lowest score range
+561,2022,700,715,1,14,,14.0,,range,web_table,42,high,Highest marks 715 in 2022 (Tanishka AIR 1)
+562,2022,678,682,707,929,818.0,2.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 2 candidates in band 678-682
+563,2022,650,699,1000,2000,,,,range,web_table,42,medium,Embibe approximate marks-vs-rank
+564,2022,668,672,1330,1676,1453.0,13.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 13 candidates in band 668-672
+565,2022,658,662,2422,3071,2823.0,17.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 17 candidates in band 658-662
+566,2022,648,652,3955,4877,4547.0,19.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 19 candidates in band 648-652
+567,2022,600,649,5000,10000,,,,range,web_table,42,medium,
+568,2022,638,642,6016,7092,6650.0,36.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 36 candidates in band 638-642
+569,2022,628,632,8575,10107,9138.0,55.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 55 candidates in band 628-632
+570,2022,618,622,11742,13484,12792.0,62.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 62 candidates in band 618-622
+571,2022,550,599,15000,20000,,,,range,web_table,42,medium,
+572,2022,608,612,15476,17489,16404.0,72.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 72 candidates in band 608-612
+573,2022,598,602,19696,21876,20838.0,94.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 94 candidates in band 598-602
+574,2022,500,549,20000,30000,,,,range,web_table,42,medium,
+575,2022,588,592,24391,26849,25419.0,134.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 134 candidates in band 588-592
+576,2022,578,582,29579,32234,30849.0,133.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 133 candidates in band 578-582
+577,2022,568,572,35094,37955,36475.0,149.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 149 candidates in band 568-572
+578,2022,558,562,41026,44055,42670.0,163.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 163 candidates in band 558-562
+579,2022,548,552,47131,50369,48862.0,192.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 192 candidates in band 548-552
+580,2022,538,542,53718,56940,55176.0,205.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 205 candidates in band 538-542
+581,2022,528,532,60411,63816,62050.0,211.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 211 candidates in band 528-532
+582,2022,518,522,67303,70889,68877.0,211.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 211 candidates in band 518-522
+583,2022,508,512,74485,78056,76394.0,211.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 211 candidates in band 508-512
+584,2022,498,502,81926,85734,83639.0,181.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 181 candidates in band 498-502
+585,2022,478,482,97739,101904,99831.0,145.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 145 candidates in band 478-482
+586,2022,458,462,114967,119255,116932.0,130.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 130 candidates in band 458-462
+587,2022,438,442,133467,138065,135923.0,120.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 120 candidates in band 438-442
+588,2022,418,422,153739,158966,156148.0,158.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 158 candidates in band 418-422
+589,2022,398,402,175585,181266,178258.0,134.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 134 candidates in band 398-402
+590,2022,378,382,199423,205659,202105.0,116.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 116 candidates in band 378-382
+591,2022,358,362,225525,231749,228563.0,111.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 111 candidates in band 358-362
+592,2022,338,342,253391,260340,256317.0,84.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 84 candidates in band 338-342
+593,2022,318,322,284008,291897,287721.0,106.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 106 candidates in band 318-322
+594,2022,298,302,317317,325991,321670.0,114.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 114 candidates in band 298-302
+595,2022,278,282,353522,362409,357725.0,98.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 98 candidates in band 278-282
+596,2022,258,262,392858,402552,397337.0,99.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 99 candidates in band 258-262
+597,2022,238,242,435660,446367,440244.0,92.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 92 candidates in band 238-242
+598,2022,218,222,482910,495228,488691.0,99.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 99 candidates in band 218-222
+599,2022,198,202,535490,549603,541208.0,124.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 124 candidates in band 198-202
+600,2022,178,182,595076,611069,602454.0,99.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 99 candidates in band 178-182
+601,2022,158,162,663780,682367,673818.0,115.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 115 candidates in band 158-162
+602,2022,138,142,745685,768563,758405.0,121.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 121 candidates in band 138-142
+603,2022,118,122,846681,875585,862055.0,137.0,,range,kea_rti_allotment,71,high,From KEA UGNEET 2022 RTI allotment list; 137 candidates in band 118-122
+604,2022,117,117,882286,882286,,881402.0,50.0,estimated,derived,37,medium,UR cutoff at 50th percentile; rank=0.5*1764571; qualified UR=881402
+605,2022,93,93,993069,993069,,993069.0,43.7,estimated,derived,37,medium,SC/ST/OBC cutoff at 40th percentile; total qualified from Embibe
+606,2021,618,622,110,12025,11171.0,51.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 51 candidates in band 618-622
+607,2021,698,702,162,177,169.0,3.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 3 candidates in band 698-702
+608,2021,608,612,164,15765,14730.0,54.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 54 candidates in band 608-612
+609,2021,598,602,238,19982,18824.0,73.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 73 candidates in band 598-602
+610,2021,588,592,307,24653,23574.0,95.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 95 candidates in band 588-592
+611,2021,688,692,385,453,396.0,5.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 5 candidates in band 688-692
+612,2021,578,582,451,29782,28594.0,113.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 113 candidates in band 578-582
+613,2021,568,572,562,35360,33896.0,121.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 121 candidates in band 568-572
+614,2021,558,562,694,41486,39726.0,130.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 130 candidates in band 558-562
+615,2021,678,682,768,1007,912.0,13.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 13 candidates in band 678-682
+616,2021,548,552,779,48029,46262.0,138.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 138 candidates in band 548-552
+617,2021,538,542,920,54995,53125.0,154.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 154 candidates in band 538-542
+618,2021,528,532,1082,62339,60361.0,210.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 210 candidates in band 528-532
+619,2021,518,522,1250,69972,67940.0,178.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 178 candidates in band 518-522
+620,2021,508,512,1400,78023,76274.0,186.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 186 candidates in band 508-512
+621,2021,668,672,1429,1798,1556.0,16.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 16 candidates in band 668-672
+622,2021,498,502,1511,86614,84370.0,230.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 230 candidates in band 498-502
+623,2021,478,482,1879,105215,102518.0,232.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 232 candidates in band 478-482
+624,2021,458,462,2244,125356,122661.0,254.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 254 candidates in band 458-462
+625,2021,658,662,2361,2892,2686.0,24.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 24 candidates in band 658-662
+626,2021,438,442,2623,147099,144314.0,246.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 246 candidates in band 438-442
+627,2021,418,422,2993,170346,167242.0,275.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 275 candidates in band 418-422
+628,2021,398,402,3392,195607,191899.0,205.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 205 candidates in band 398-402
+629,2021,648,652,3617,4329,3957.0,33.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 33 candidates in band 648-652
+630,2021,378,382,3727,222455,218598.0,249.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 249 candidates in band 378-382
+631,2021,358,362,4099,251296,247362.0,251.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 251 candidates in band 358-362
+632,2021,338,342,4421,281818,277934.0,244.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 244 candidates in band 338-342
+633,2021,318,322,4786,314686,310482.0,248.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 248 candidates in band 318-322
+634,2021,638,642,5359,6366,5984.0,28.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 28 candidates in band 638-642
+635,2021,258,262,5667,426041,421258.0,197.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 197 candidates in band 258-262
+636,2021,238,242,5934,468150,462678.0,192.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 192 candidates in band 238-242
+637,2021,218,222,6249,514782,508490.0,210.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 210 candidates in band 218-222
+638,2021,178,182,6829,623939,615374.0,179.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 179 candidates in band 178-182
+639,2021,158,162,7099,691073,682180.0,176.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 176 candidates in band 158-162
+640,2021,138,142,7314,770765,759229.0,210.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 210 candidates in band 138-142
+641,2021,628,632,7679,8904,8287.0,37.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 37 candidates in band 628-632
+642,2021,298,302,340528,349180,344698.0,236.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 236 candidates in band 298-302
+643,2021,278,282,377057,386400,381648.0,185.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 185 candidates in band 278-282
+644,2021,198,202,553009,566057,559943.0,189.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 189 candidates in band 198-202
+645,2021,118,122,841970,867573,854540.0,168.0,,range,kea_eligible_list,68,high,From KEA UGNEET 2021 verified eligible list; 168 candidates in band 118-122
+646,2020,720,720,1,2,,2.0,,exact,official_published,35,high,2 toppers at 720: Soyeb Aftab (AIR 1) and Akansha Singh (AIR 2)
+647,2020,688,692,224,235,229.0,2.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 2 candidates in band 688-692
+648,2020,678,682,537,666,551.0,5.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 5 candidates in band 678-682
+649,2020,668,672,1060,1399,1222.0,8.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 8 candidates in band 668-672
+650,2020,658,662,1926,2527,2153.0,16.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 16 candidates in band 658-662
+651,2020,648,652,3371,4264,3789.0,23.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 23 candidates in band 648-652
+652,2020,638,642,5379,6423,5943.0,34.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 34 candidates in band 638-642
+653,2020,628,632,7779,9227,8432.0,38.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 38 candidates in band 628-632
+654,2020,618,622,10817,12308,11555.0,35.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 35 candidates in band 618-622
+655,2020,608,612,14535,16484,15395.0,64.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 64 candidates in band 608-612
+656,2020,598,602,18689,21036,20080.0,69.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 69 candidates in band 598-602
+657,2020,588,592,23555,26097,24595.0,77.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 77 candidates in band 588-592
+658,2020,578,582,28914,31582,30171.0,105.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 105 candidates in band 578-582
+659,2020,568,572,34535,37480,36059.0,122.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 122 candidates in band 568-572
+660,2020,558,562,40517,43841,41983.0,124.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 124 candidates in band 558-562
+661,2020,548,552,47172,50642,48825.0,148.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 148 candidates in band 548-552
+662,2020,538,542,54217,57618,55935.0,146.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 146 candidates in band 538-542
+663,2020,528,532,61287,64961,62997.0,156.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 156 candidates in band 528-532
+664,2020,518,522,68676,72445,70394.0,165.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 165 candidates in band 518-522
+665,2020,508,512,76371,80421,78104.0,189.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 189 candidates in band 508-512
+666,2020,498,502,84528,88608,86655.0,197.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 197 candidates in band 498-502
+667,2020,478,482,101535,105915,103852.0,210.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 210 candidates in band 478-482
+668,2020,458,462,119820,124503,122169.0,230.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 230 candidates in band 458-462
+669,2020,438,442,139438,144537,141997.0,269.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 269 candidates in band 438-442
+670,2020,418,422,160215,165521,162915.0,292.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 292 candidates in band 418-422
+671,2020,398,402,182726,188473,185664.0,285.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 285 candidates in band 398-402
+672,2020,378,382,206493,212511,209184.0,279.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 279 candidates in band 378-382
+673,2020,358,362,231720,238208,234970.0,272.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 272 candidates in band 358-362
+674,2020,338,342,258453,265364,261830.0,298.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 298 candidates in band 338-342
+675,2020,318,322,287614,295219,291488.0,275.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 275 candidates in band 318-322
+676,2020,298,302,319457,327569,323617.0,297.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 297 candidates in band 298-302
+677,2020,278,282,353308,362103,357353.0,305.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 305 candidates in band 278-282
+678,2020,258,262,389494,399119,394410.0,307.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 307 candidates in band 258-262
+679,2020,238,242,429268,439822,434685.0,321.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 321 candidates in band 238-242
+680,2020,218,222,472593,484042,478373.0,316.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 316 candidates in band 218-222
+681,2020,198,202,519915,532494,525982.0,339.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 339 candidates in band 198-202
+682,2020,178,182,571993,585847,578917.0,334.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 334 candidates in band 178-182
+683,2020,158,162,630306,645933,638708.0,334.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 334 candidates in band 158-162
+684,2020,147,147,683473,683473,,,50.0,estimated,derived,35,medium,UR cutoff at 50th percentile; rank=0.5*1366945
+685,2020,138,142,696807,714650,706204.0,265.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 265 candidates in band 138-142
+686,2020,118,122,774342,795755,785606.0,273.0,,range,kea_eligible_list,53,high,From KEA UGNEET 2020 verified eligible list; 273 candidates in band 118-122
+687,2020,113,113,820167,820167,,,40.0,estimated,derived,35,medium,SC/ST/OBC cutoff at 40th percentile; rank=0.6*1366945

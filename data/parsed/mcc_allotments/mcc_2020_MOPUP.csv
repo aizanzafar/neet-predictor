@@ -1,0 +1,1825 @@
+year,round,authority,counselling_scope,rank_raw,air,rank_type,allotted_quota,college_raw,course,seat_category,candidate_category,status,source_id
+2020,MOPUP,MCC,AIQ,247,247,AIR,JNO,JIPMER PUDUCHERRY,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,254,254,AIR,JNO,JIPMER PUDUCHERRY,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,309,309,AIR,JNO,JIPMER PUDUCHERRY,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,691,691,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,747,747,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,817,817,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,852,852,AIR,AMS,"AIIMS, Jodhpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,1016,1016,AIR,AMS,"AIIMS, Raipur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,1240,1240,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,1581,1581,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,1674,1674,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,1754,1754,AIR,AMS,AIIMS Bathinda,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,1990,1990,AIR,AMS,"AIIMS-Bhopal,",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,2157,2157,AIR,AMS,"AIIMS, Patna",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2343,2343,AIR,AMS,"AIIMS, Nagpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2388,2388,AIR,AMS,"AIIMS-Bhopal,",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,2421,2421,AIR,AMS,AIIMS Bathinda,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2593,2593,AIR,AMS,"AIIMS, Rishikesh",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,2711,2711,AIR,BON,"INST.OF MED.SCIENCES, BHU,VARANASI",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,2760,2760,AIR,AMS,"AIIMS, Gorakhpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2822,2822,AIR,AMS,"AIIMS, Rishikesh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,2860,2860,AIR,AMS,"AIIMS-Bhopal,",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,2902,2902,AIR,AMS,"AIIMS, Nagpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2907,2907,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2908,2908,AIR,AMS,"AIIMS, Raipur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,2964,2964,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,2981,2981,AIR,AMS,"AIIMS, Rishikesh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,3047,3047,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3123,3123,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3318,3318,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3331,3331,AIR,AMS,"AIIMS, Raipur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,3488,3488,AIR,AMS,"AIIMS, Rishikesh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,3569,3569,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3601,3601,AIR,AMS,"AIIMS, Rishikesh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,3687,3687,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3704,3704,AIR,AMS,"AIIMS, Patna",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,3836,3836,AIR,AMS,"AIIMS, Patna",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,3961,3961,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3968,3968,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,3985,3985,AIR,AMS,"AIIMS, Patna",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4000,4000,AIR,AMS,"AIIMS, Nagpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4067,4067,AIR,AMS,"AIIMS, Nagpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4077,4077,AIR,AMS,"AIIMS, Nagpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4164,4164,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4249,4249,AIR,AMS,AIIMS Bathinda,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,4341,4341,AIR,AMS,AIIMS Bathinda,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4442,4442,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4563,4563,AIR,JNO,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4672,4672,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4685,4685,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4705,4705,AIR,AON,"JWAHAR LAL NEHRU M.C. AMU, ALIGARH",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4748,4748,AIR,AMS,AIIMS Rajkot,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4816,4816,AIR,AON,"JWAHAR LAL NEHRU M.C. AMU, ALIGARH",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4833,4833,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4872,4872,AIR,AON,"JWAHAR LAL NEHRU M.C. AMU, ALIGARH",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4873,4873,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4901,4901,AIR,AMS,"AIIMS, Gorakhpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4943,4943,AIR,AMS,"AIIMS, Gorakhpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,4970,4970,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,4976,4976,AIR,AMS,AIIMS Rajkot,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5031,5031,AIR,AMS,"AIIMS, Gorakhpur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5075,5075,AIR,AON,"JWAHAR LAL NEHRU M.C. AMU, ALIGARH",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,5111,5111,AIR,AMS,AIIMS Mangalagiri,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5130,5130,AIR,Internal,"Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,5316,5316,AIR,AMS,"AIIMS, Gorakhpur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5331,5331,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5415,5415,AIR,AMS,"AIIMS, Gorakhpur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5421,5421,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5451,5451,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5478,5478,AIR,AMS,AIIMS Bathinda,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5480,5480,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5509,5509,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5522,5522,AIR,AMS,AIIMS Rajkot,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5535,5535,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5549,5549,AIR,AMS,AIIMS Mangalagiri,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5597,5597,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5610,5610,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5634,5634,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,5698,5698,AIR,JNO,JIPMER KARAIKAL,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,5760,5760,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5825,5825,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,5930,5930,AIR,AMS,AIIMS Rajkot,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6077,6077,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6086,6086,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6264,6264,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6268,6268,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6271,6271,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6305,6305,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6338,6338,AIR,AMS,AIIMS Bathinda,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6348,6348,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6394,6394,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6397,6397,AIR,AMS,"AIIMS, Gorakhpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6402,6402,AIR,JNO,JIPMER KARAIKAL,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,6424,6424,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6471,6471,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6472,6472,AIR,AMS,"AIIMS, Rai Bareli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6493,6493,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6508,6508,AIR,AMS,"AIIMS, Gorakhpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6512,6512,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6623,6623,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6669,6669,AIR,AMS,AIIMS Rajkot,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6713,6713,AIR,AMS,AIIMS Mangalagiri,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,6715,6715,AIR,AMS,AIIMS Rajkot,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6725,6725,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6752,6752,AIR,AMS,AIIMS Mangalagiri,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6758,6758,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,6819,6819,AIR,AMS,AIIMS Mangalagiri,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,6988,6988,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7054,7054,AIR,AMS,"AIIMS, Kalyani",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7058,7058,AIR,AMS,"AIIMS, Gorakhpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7062,7062,AIR,AMS,AIIMS Rajkot,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,7067,7067,AIR,AMS,"AIIMS, Gorakhpur",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7080,7080,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7127,7127,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7146,7146,AIR,JNO,JIPMER KARAIKAL,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,7176,7176,AIR,AMS,AIIMS Mangalagiri,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7236,7236,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7267,7267,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7275,7275,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7299,7299,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7350,7350,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7379,7379,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,7401,7401,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,7517,7517,AIR,AMS,AIIMS Guahawti,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7522,7522,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7579,7579,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7732,7732,AIR,AMS,AIIMS Guahawti,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,7812,7812,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7818,7818,AIR,AMS,"AIIMS, Deogarh",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,7954,7954,AIR,AMS,"AIIMS, Kalyani",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,7961,7961,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8041,8041,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8070,8070,AIR,AMS,"AIIMS, Kalyani",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8131,8131,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8132,8132,AIR,AMS,AIIMS Guahawti,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8137,8137,AIR,AMS,"AIIMS, Kalyani",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8200,8200,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8201,8201,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8255,8255,AIR,AMS,AIIMS Guahawti,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8261,8261,AIR,AMS,AIIMS Guahawti,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8264,8264,AIR,AMS,"AIIMS, Rai Bareli",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8266,8266,AIR,AMS,"AIIMS, Deogarh",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,8296,8296,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8350,8350,AIR,AMS,AIIMS Guahawti,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8387,8387,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8435,8435,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8464,8464,AIR,AMS,AIIMS Guahawti,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8471,8471,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8496,8496,AIR,AMS,"AIIMS, Kalyani",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8517,8517,AIR,AMS,"AIIMS, Deogarh",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,8531,8531,AIR,AMS,"AIIMS, Kalyani",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8559,8559,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8641,8641,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8678,8678,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8698,8698,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8745,8745,AIR,AMS,AIIMS Rajkot,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8755,8755,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8772,8772,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8854,8854,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8956,8956,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,8986,8986,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,8993,8993,AIR,AMS,AIIMS Guahawti,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,9072,9072,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,9079,9079,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9116,9116,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,9124,9124,AIR,AMS,AIIMS Jammu,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,9177,9177,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9205,9205,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9231,9231,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9238,9238,AIR,AMS,"AIIMS, Deogarh",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9364,9364,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9404,9404,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9415,9415,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9429,9429,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9442,9442,AIR,AMS,AIIMS Guahawti,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,9548,9548,AIR,Internal,"Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9577,9577,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9609,9609,AIR,AMS,AIIMS Guahawti,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,9613,9613,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9635,9635,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9690,9690,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9718,9718,AIR,AMS,AIIMS Guahawti,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9793,9793,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9799,9799,AIR,AMS,AIIMS Jammu,MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,9837,9837,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,9848,9848,AIR,Internal,"Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,9869,9869,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,10050,10050,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,10211,10211,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,10243,10243,AIR,AMS,AIIMS Jammu,MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,10885,10885,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,11938,11938,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,12037,12037,AIR,JNO,JIPMER PUDUCHERRY,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,12685,12685,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,12887,12887,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,13293,13293,AIR,Internal,"Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,13367,13367,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,13559,13559,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,13721,13721,AIR,MNG,"SDU Medical College, Kolar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,13889,13889,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,13918,13918,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,13937,13937,AIR,Internal,"Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,14166,14166,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,14643,14643,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,15085,15085,AIR,AMS,"AIIMS-Bhopal,",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,15158,15158,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,15290,15290,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,15607,15607,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,15653,15653,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,15694,15694,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16167,16167,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16216,16216,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16285,16285,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,16299,16299,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16328,16328,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16434,16434,AIR,MNG,SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16804,16804,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,16894,16894,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,16980,16980,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,17005,17005,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17172,17172,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17232,17232,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17272,17272,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17298,17298,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17367,17367,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17554,17554,AIR,MNG,SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17917,17917,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,17945,17945,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,17964,17964,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18008,18008,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18019,18019,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18025,18025,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18036,18036,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18051,18051,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18407,18407,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,18419,18419,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18475,18475,AIR,JNO,JIPMER PUDUCHERRY,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,18515,18515,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18527,18527,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18713,18713,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18721,18721,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18730,18730,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18767,18767,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18798,18798,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18852,18852,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,18915,18915,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,18921,18921,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,19099,19099,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,19116,19116,AIR,BON,"IMS BHU Dental, Varanasi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19153,19153,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,19346,19346,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19444,19444,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,19486,19486,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,19536,19536,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19552,19552,AIR,BON,"IMS BHU Dental, Varanasi",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,19594,19594,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19752,19752,AIR,AMS,"AIIMS, Raipur",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,19769,19769,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19817,19817,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19824,19824,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19885,19885,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,19963,19963,AIR,AMU,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,19993,19993,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20031,20031,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20065,20065,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20089,20089,AIR,BON,"IMS BHU Dental, Varanasi",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,20241,20241,AIR,BON,"IMS BHU Dental, Varanasi",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,20416,20416,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20440,20440,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20469,20469,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20472,20472,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20492,20492,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20607,20607,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20610,20610,AIR,JNR,JIPMER KARAIKAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20640,20640,AIR,BON,"IMS BHU Dental, Varanasi",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,20648,20648,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20704,20704,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20718,20718,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,20753,20753,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,20772,20772,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20774,20774,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20836,20836,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,20912,20912,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,21050,21050,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,21067,21067,AIR,MNG,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,21118,21118,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,21188,21188,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,21279,21279,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,21405,21405,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,21455,21455,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,21569,21569,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,21605,21605,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,21637,21637,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,21686,21686,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,22090,22090,AIR,BON,"IMS BHU Dental, Varanasi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,22227,22227,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,22327,22327,AIR,MNG,"JSS Medical College, Jagadguru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,22430,22430,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,22708,22708,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,23244,23244,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,23247,23247,AIR,MNG,SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,23444,23444,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,23860,23860,AIR,JNO,JIPMER KARAIKAL,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,23959,23959,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,23978,23978,AIR,MNG,"SDU Medical College, Kolar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,24058,24058,AIR,AMU,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,24435,24435,AIR,JMQ,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,24489,24489,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,24494,24494,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,24775,24775,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,25279,25279,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,25286,25286,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,25357,25357,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,25565,25565,AIR,AMS,"AIIMS, Nagpur",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,26017,26017,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,26101,26101,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,26431,26431,AIR,AMU,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,26611,26611,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,26744,26744,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,26841,26841,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,26956,26956,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,27076,27076,AIR,MNG,SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,27085,27085,AIR,MNG,SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,27572,27572,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,27754,27754,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,27850,27850,AIR,JMQ,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,27860,27860,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,28007,28007,AIR,AMS,"AIIMS, Rishikesh",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,28429,28429,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,28594,28594,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,28633,28633,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,28687,28687,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,28696,28696,AIR,MNG,"Kasturba Medical College, Manipal Univ., Manipal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,28960,28960,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,29115,29115,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,29196,29196,AIR,Internal,ESIC Dental College and Hospital,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,29677,29677,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,29882,29882,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,30169,30169,AIR,AMS,"AIIMS, Jodhpur",MBBS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,30385,30385,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,30467,30467,AIR,MNG,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,30528,30528,AIR,JNO,JIPMER KARAIKAL,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,31041,31041,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,31275,31275,AIR,JMQ,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,31295,31295,AIR,AMS,"AIIMS, Rishikesh",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,31498,31498,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,31960,31960,AIR,Internal,ESIC Dental College and Hospital,BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,32046,32046,AIR,AMS,"AIIMS, Patna",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,32067,32067,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,32551,32551,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,32624,32624,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,32913,32913,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,33028,33028,AIR,JMQ,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,33036,33036,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,33302,33302,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,33607,33607,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,33620,33620,AIR,MNG,"JSS Medical College, Jagadguru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,33715,33715,AIR,AMS,"AIIMS, Patna",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,33796,33796,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,33803,33803,AIR,JMQ,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,33854,33854,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,34148,34148,AIR,MNG,"JSS Medical College, Jagadguru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,34453,34453,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,34610,34610,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,34721,34721,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,34970,34970,AIR,AMS,"AIIMS, Patna",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,35107,35107,AIR,AMS,AIIMS Telangana Bibi Nagar Village Rangapur Mandal Name Bibinagar,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,35527,35527,AIR,AMS,"AIIMS, Patna",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,35949,35949,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,36173,36173,AIR,MNG,"SDU Medical College, Kolar",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,36393,36393,AIR,Internal,ESIC Dental College and Hospital,BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,36490,36490,AIR,ESI,"ESIC Medical College AND PGIMSR, Bangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,36697,36697,AIR,Internal,ESIC Dental College and Hospital,BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,36826,36826,AIR,JMQ,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,36866,36866,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,36898,36898,AIR,JNO,JIPMER KARAIKAL,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,36966,36966,AIR,Internal,ESIC Dental College and Hospital,BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,37278,37278,AIR,BON,"INST.OF MED.SCIENCES, BHU,VARANASI",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,37326,37326,AIR,MNG,"JSS Medical College, Jagadguru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,37791,37791,AIR,AMS,"AIIMS, Patna",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,37806,37806,AIR,ESI,"Government Medical College, Kollam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,37879,37879,AIR,JNO,JIPMER KARAIKAL,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,38687,38687,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,39125,39125,AIR,AMS,"AIIMS, Rai Bareli",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,39404,39404,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,39474,39474,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,39477,39477,AIR,MNG,"JSS Medical College, Jagadguru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,40274,40274,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,40705,40705,AIR,MNG,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,40829,40829,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,40955,40955,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,40972,40972,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,41393,41393,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,41414,41414,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,41676,41676,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,41799,41799,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,42102,42102,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,42207,42207,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,42546,42546,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,43021,43021,AIR,BON,"INST.OF MED.SCIENCES, BHU,VARANASI",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,43169,43169,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,43368,43368,AIR,BON,"INST.OF MED.SCIENCES, BHU,VARANASI",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,43386,43386,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,43484,43484,AIR,AMS,"AIIMS, Gorakhpur",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,43531,43531,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,43567,43567,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,43592,43592,AIR,Internal,"Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,43893,43893,AIR,MNG,"SDU Medical College, Kolar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,43939,43939,AIR,MNG,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,44052,44052,AIR,Internal,ESIC Dental College and Hospital,BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,44539,44539,AIR,MNG,"Rural Medical College and PIMS, Loni",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,44550,44550,AIR,ESI,"Government Medical College, Kollam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,44562,44562,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,44899,44899,AIR,AMS,"AIIMS, Rai Bareli",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,44981,44981,AIR,ESI,"Government Medical College, Kollam",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,45173,45173,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,45182,45182,AIR,BON,"INST.OF MED.SCIENCES, BHU,VARANASI",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,45260,45260,AIR,AMS,AIIMS Mangalagiri,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,45511,45511,AIR,MNG,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,46092,46092,AIR,ESI,"Govt. Med. College and ESIC Hospt., Coimbatore",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,46105,46105,AIR,ESI,"ESIC Medical College, Hyderbad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,46158,46158,AIR,AMS,"AIIMS, Rai Bareli",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,46380,46380,AIR,JI,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,46517,46517,AIR,AMS,AIIMS Bathinda,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,46620,46620,AIR,MNG,"SDU Medical College, Kolar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,46819,46819,AIR,AMS,"AIIMS, Gorakhpur",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,47129,47129,AIR,AMS,AIIMS Mangalagiri,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,47306,47306,AIR,MNG,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,47875,47875,AIR,AMS,AIIMS Mangalagiri,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,48310,48310,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,48620,48620,AIR,MNG,"Rural Medical College and PIMS, Loni",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,49093,49093,AIR,ESI,"ESIC Medical College, Gulbarga",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,49282,49282,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,49290,49290,AIR,AMS,AIIMS Mangalagiri,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,50032,50032,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,50066,50066,AIR,ESI,"SLBS Govt. Medical College, Mandi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,50297,50297,AIR,MNG,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,50540,50540,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,50749,50749,AIR,AMS,AIIMS Rajkot,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,50872,50872,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,50978,50978,AIR,MNG,"Rural Medical College and PIMS, Loni",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,51445,51445,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,51510,51510,AIR,AMS,"AIIMS, Kalyani",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,51715,51715,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,52399,52399,AIR,AMS,AIIMS Rajkot,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,52694,52694,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,52789,52789,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,52867,52867,AIR,MNG,"Rural Medical College and PIMS, Loni",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,52885,52885,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,53004,53004,AIR,AMS,"AIIMS, Rai Bareli",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,53037,53037,AIR,AMS,AIIMS Rajkot,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,53265,53265,AIR,MNG,"Rural Medical College and PIMS, Loni",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,53721,53721,AIR,ESI,"ESIC Medical College, Faridabad",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,53754,53754,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,54103,54103,AIR,MNG,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,54133,54133,AIR,ESI,"ESIC Medical College, Hyderbad",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,54249,54249,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,54546,54546,AIR,ESI,"ESIC Medical College AND PGIMSR, Bangalore",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,55082,55082,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,55597,55597,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,55732,55732,AIR,AMS,"AIIMS, Deogarh",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,55973,55973,AIR,ESI,"Government Medical College, Kollam",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,56089,56089,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,56124,56124,AIR,MNG,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,56185,56185,AIR,AMS,"AIIMS, Deogarh",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,56316,56316,AIR,MNG,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,57188,57188,AIR,ESI,"ESIC Medical College AND PGIMSR, Bangalore",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,57226,57226,AIR,AMS,"AIIMS, Deogarh",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,57466,57466,AIR,ESI,"ESIC Medical College, Hyderbad",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,57660,57660,AIR,ESI,"ESIC Medical College, Gulbarga",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,57688,57688,AIR,AMS,"AIIMS, Gorakhpur",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,57717,57717,AIR,AMS,AIIMS Guahawti,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,57855,57855,AIR,ESI,"SLBS Govt. Medical College, Mandi",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,58010,58010,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,58020,58020,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,58055,58055,AIR,AMS,AIIMS Guahawti,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,58457,58457,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,58470,58470,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,58751,58751,AIR,AMS,AIIMS Rajkot,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,58973,58973,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,59261,59261,AIR,AMS,AIIMS Guahawti,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,59364,59364,AIR,MNG,"Amrita Institute of Medical Science, Kochi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,59517,59517,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,59628,59628,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,59801,59801,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,59965,59965,AIR,MNG,"Manipal Tata Medical College,",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,61146,61146,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,61155,61155,AIR,AMS,AIIMS Jammu,MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,61184,61184,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,61575,61575,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,62173,62173,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,63568,63568,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,63577,63577,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,64608,64608,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,64657,64657,AIR,AMS,"AIIMS, Rai Bareli",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,65245,65245,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,66292,66292,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,67267,67267,AIR,MNG,Bharati Vidyapeeth DU Medical College,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,67302,67302,AIR,AMS,AIIMS Bathinda,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,67764,67764,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,68240,68240,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,68504,68504,AIR,AMS,AIIMS Guahawti,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,68649,68649,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,68688,68688,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,68787,68787,AIR,AMS,"AIIMS, Kalyani",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,69171,69171,AIR,MNG,"Yenepoya Medical College, Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,69818,69818,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,70275,70275,AIR,AMS,AIIMS Bathinda,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,71021,71021,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,71094,71094,AIR,AMS,"AIIMS, Deogarh",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,71433,71433,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,71847,71847,AIR,AMS,AIIMS Guahawti,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,71873,71873,AIR,MNG,"Yenepoya Medical College, Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,72626,72626,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,72842,72842,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,72924,72924,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,73174,73174,AIR,MNG,"Amrita Institute of Medical Science, Kochi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,73225,73225,AIR,AMS,AIIMS Guahawti,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,73581,73581,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,73631,73631,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,74086,74086,AIR,AMS,"AIIMS, Deogarh",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,74421,74421,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,74698,74698,AIR,MNG,"MGM Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,74876,74876,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,75019,75019,AIR,AMS,"AIIMS, Gorakhpur",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,75062,75062,AIR,MNG,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,75840,75840,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,75862,75862,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,75918,75918,AIR,MNG,Bharati Vidyapeeth DU Medical College,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,76025,76025,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,76112,76112,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,EWS,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,76191,76191,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,76648,76648,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,77601,77601,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,77775,77775,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,77980,77980,AIR,AMS,AIIMS Jammu,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,78129,78129,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,78176,78176,AIR,JI,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,78273,78273,AIR,MNG,"B.L.D.E University, Bijapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,78547,78547,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,78605,78605,AIR,MNG,"Amrita Institute of Medical Science, Kochi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,78898,78898,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,78913,78913,AIR,AMS,AIIMS Jammu,MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,79508,79508,AIR,MNG,"Amrita Institute of Medical Science, Kochi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,79898,79898,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,79993,79993,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,80978,80978,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,80980,80980,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,81479,81479,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,81956,81956,AIR,JM,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,82128,82128,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,83327,83327,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,83458,83458,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,83552,83552,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,84099,84099,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,84787,84787,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,85220,85220,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,85792,85792,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,85838,85838,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,86096,86096,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,86560,86560,AIR,BON,"IMS BHU Dental, Varanasi",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,86731,86731,AIR,MNG,"Bharati Vidyapeeth DU Dental College and Hospt., Pune",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,86773,86773,AIR,MNG,Bharati Vidyapeeth DU Medical College,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,87122,87122,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,87693,87693,AIR,MNG,"Amrita Institute of Medical Science, Kochi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,89915,89915,AIR,MNG,"Manipal College of Dental Sce., Manipal",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,90704,90704,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,90728,90728,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,92948,92948,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,93507,93507,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,93599,93599,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,93601,93601,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,94231,94231,AIR,MNG,Bharati Vidyapeeth DU Medical College,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,95321,95321,AIR,MM,"Yenepoya Medical College, Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,96120,96120,AIR,Internal,ESIC Dental College and Hospital,BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,96258,96258,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,96930,96930,AIR,MNG,Bharati Vidyapeeth DU Medical College,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,96990,96990,AIR,MNG,"MGM Medical College, Aurangabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,97473,97473,AIR,MNG,"MGM Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,97571,97571,AIR,MNG,"MGM Medical College, Aurangabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,98060,98060,AIR,BON,"IMS BHU Dental, Varanasi",BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,98119,98119,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,99293,99293,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,99804,99804,AIR,Internal,ESIC Dental College and Hospital,BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,100421,100421,AIR,Internal,ESIC Dental College and Hospital,BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,101119,101119,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,101515,101515,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,101626,101626,AIR,BON,"IMS BHU Dental, Varanasi",BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,101694,101694,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,102147,102147,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,102417,102417,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,102520,102520,AIR,AMS,"AIIMS-Bhopal,",MBBS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,102521,102521,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,103135,103135,AIR,MNG,"MGM Medical College, Aurangabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,103808,103808,AIR,MNG,"MGM Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,104450,104450,AIR,BON,"IMS BHU Dental, Varanasi",BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,104703,104703,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,105056,105056,AIR,BON,"IMS BHU Dental, Varanasi",BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,105918,105918,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,106906,106906,AIR,Internal,ESIC Dental College and Hospital,BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,107134,107134,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,107135,107135,AIR,MNG,"Yenepoya Medical College, Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,107149,107149,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,107299,107299,AIR,MNG,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,107647,107647,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,107885,107885,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,108828,108828,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,108945,108945,AIR,MNG,"B.L.D.E University, Bijapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,108951,108951,AIR,MNG,"MGM Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,109268,109268,AIR,MNG,"MGM Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,109567,109567,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,110167,110167,AIR,MNG,"B.L.D.E University, Bijapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,110965,110965,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,112743,112743,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,113574,113574,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,115061,115061,AIR,MNG,"Yenepoya Medical College, Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,116167,116167,AIR,MM,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,116465,116465,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,116798,116798,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,117535,117535,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,120477,120477,AIR,MNG,MANAV RACHNA DENTAL COLLEGE FARIDABAD,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,120826,120826,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,121429,121429,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,122293,122293,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,122415,122415,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,123166,123166,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,123401,123401,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,124164,124164,AIR,CW,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,OBC,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,124614,124614,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,125223,125223,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,125725,125725,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,125743,125743,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,126066,126066,AIR,MNG,"Manipal College of Dental Sce., Manipal",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,126252,126252,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,126257,126257,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,126380,126380,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,126425,126425,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,126443,126443,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,126494,126494,AIR,MNG,"MGM Medical College, Aurangabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,127600,127600,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,127631,127631,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,127723,127723,AIR,MNG,"MGM Medical College, Aurangabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,127732,127732,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,128586,128586,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,129485,129485,AIR,MNG,"Manipal College of Dental Sce., Manipal",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,129505,129505,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,129570,129570,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,129753,129753,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,130243,130243,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,131097,131097,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,131447,131447,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,131896,131896,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,132193,132193,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,132299,132299,AIR,MNG,"MGM Medical College, Aurangabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,132472,132472,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,132487,132487,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,132702,132702,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,132845,132845,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,133322,133322,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,133325,133325,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,133379,133379,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,133462,133462,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,133697,133697,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,134070,134070,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,134427,134427,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,135207,135207,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,136317,136317,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,136871,136871,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,138324,138324,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,138670,138670,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,138746,138746,AIR,MNG,"Bharati Vidyapeeth DU Dental College and Hospt., Pune",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,139431,139431,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,139637,139637,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,139796,139796,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,140133,140133,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,140236,140236,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,140461,140461,AIR,MNG,"Bharati Vidyapeeth DU Dental College and Hospt., Pune",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,141514,141514,AIR,MNG,"Amrita School of Dentistry, Kochi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,141530,141530,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,141566,141566,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,141854,141854,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,141947,141947,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,142694,142694,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,142995,142995,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,143086,143086,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,144383,144383,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,144580,144580,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,145035,145035,AIR,MNG,MANAV RACHNA DENTAL COLLEGE FARIDABAD,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,146172,146172,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,146955,146955,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,147062,147062,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,147085,147085,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,147157,147157,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,147386,147386,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,147392,147392,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,147801,147801,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,149374,149374,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,150024,150024,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,150073,150073,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,150182,150182,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,150391,150391,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,150510,150510,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,150700,150700,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,151045,151045,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,151475,151475,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,151503,151503,AIR,MNG,"VMS Dental College, Salem",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,151859,151859,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,151908,151908,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,151998,151998,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,153229,153229,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,153522,153522,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,153872,153872,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,154386,154386,AIR,MNG,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,154637,154637,AIR,NRI,"Sri Ramachandra Med. College and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,154732,154732,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,155006,155006,AIR,JON,"Faculty of Dentistry, Jamia Millia Islamia, New Delhi",BDS,PwD Open,PwD EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,155148,155148,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,155386,155386,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,156126,156126,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,156161,156161,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,156459,156459,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,156487,156487,AIR,MNG,"Sri Siddhartha Medical College DU, Tumkur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,158130,158130,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,158258,158258,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,159368,159368,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,159485,159485,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,159613,159613,AIR,DU,"Maulana Azad Medical College, New Delhi",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,160238,160238,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,160597,160597,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,160822,160822,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,161139,161139,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,161672,161672,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,161887,161887,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,162976,162976,AIR,Internal,"Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,163593,163593,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,163747,163747,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,164496,164496,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,164655,164655,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,164747,164747,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,166069,166069,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,166272,166272,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,166605,166605,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,166822,166822,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,166829,166829,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,166954,166954,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,167571,167571,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,167848,167848,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,168298,168298,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,169058,169058,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,169724,169724,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,169838,169838,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,170463,170463,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,170526,170526,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,170585,170585,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,170885,170885,AIR,Internal,"Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,171234,171234,AIR,ESI,"ESIC Medical College AND PGIMSR, Bangalore",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,171381,171381,AIR,DU,"Lady Hardinge Medical College, New Delhi",MBBS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,171752,171752,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,171903,171903,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,171944,171944,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,172021,172021,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,175744,175744,AIR,MNG,"MM Inst. Med. and Research, Mullana",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,175846,175846,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,175914,175914,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,176060,176060,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,176422,176422,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,176446,176446,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,177817,177817,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,177833,177833,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,177990,177990,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,178045,178045,AIR,ANR,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,178201,178201,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,178998,178998,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,179059,179059,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,179714,179714,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,180023,180023,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,181780,181780,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,182474,182474,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,182921,182921,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,183247,183247,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,183777,183777,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,183930,183930,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,184297,184297,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,184866,184866,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,186312,186312,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,186598,186598,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,187339,187339,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,187948,187948,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,188883,188883,AIR,MNG,"VMKV Medical College and Hospital, Salem",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,189098,189098,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,189368,189368,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,189720,189720,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,189963,189963,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,190116,190116,AIR,MNG,"BV Deemed Uni. Med. College and Hos., Sangli",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,190243,190243,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,190736,190736,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,190977,190977,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,191058,191058,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,191189,191189,AIR,AMS,"AIIMS, Gorakhpur",MBBS,PwD Open,PwD EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,191773,191773,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,192724,192724,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,193191,193191,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,193453,193453,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,193589,193589,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,193925,193925,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,194025,194025,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,194394,194394,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,195061,195061,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,195564,195564,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,195861,195861,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,195892,195892,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,196000,196000,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,196691,196691,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,197596,197596,AIR,MNG,"VMS Dental College, Salem",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,197711,197711,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,198192,198192,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,198304,198304,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,198681,198681,AIR,CW,"University College of Medical Sciences, New Delhi",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,199168,199168,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,199983,199983,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,200530,200530,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,201035,201035,AIR,AMS,"AIIMS, Gorakhpur",MBBS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,201399,201399,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,201508,201508,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,201817,201817,AIR,MNG,"Mahatma Gandhi Medical College and Sri Balaji Vidyapeeth, Pondicherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,202004,202004,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,202593,202593,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,202937,202937,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,203036,203036,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,203354,203354,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,204021,204021,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,205243,205243,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,205695,205695,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,206372,206372,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,206653,206653,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,207005,207005,AIR,MNG,Sri Siddhartha Academy T Begur,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,207845,207845,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,208002,208002,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,208284,208284,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,209447,209447,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,209513,209513,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,209686,209686,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,209765,209765,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,211515,211515,AIR,DU,"Maulana Azad Institute of Dental Sciences, New Delhi",BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,211845,211845,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,215086,215086,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,215136,215136,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,215707,215707,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,216148,216148,AIR,Internal,ESIC Dental College and Hospital,BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,217023,217023,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,218533,218533,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,218986,218986,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,219664,219664,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,219704,219704,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,220700,220700,AIR,ESI,"Government Medical College, Kollam",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,220852,220852,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,222763,222763,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,223199,223199,AIR,ESI,"ESIC Medical College, Faridabad",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,223454,223454,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,223965,223965,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,224158,224158,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,224815,224815,AIR,ESI,"Government Medical College, Kollam",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,225417,225417,AIR,ESI,"ESIC Medical College, Gulbarga",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,225603,225603,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,226102,226102,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,226513,226513,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,227291,227291,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,227356,227356,AIR,ESI,"ESIC Medical College AND PGIMSR, Chennai",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,227426,227426,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,227441,227441,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,227485,227485,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,227782,227782,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,227886,227886,AIR,ESI,"ESIC Medical College AND PGIMSR, Bangalore",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,228670,228670,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,228696,228696,AIR,Internal,ESIC Dental College and Hospital,BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,229243,229243,AIR,ESI,"ESIC Medical College, Faridabad",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,229623,229623,AIR,MNG,"Vinayaka Missions Medical College and Hospital, Karaikal",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,230091,230091,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,230539,230539,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,230659,230659,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,231081,231081,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,231565,231565,AIR,ESI,"ESIC Medical College AND PGIMSR, Bangalore",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,232619,232619,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,233609,233609,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,234662,234662,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,235174,235174,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,235543,235543,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,235584,235584,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,236232,236232,AIR,AMS,"AIIMS-Bhopal,",MBBS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,236690,236690,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,236742,236742,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,237192,237192,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,237242,237242,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,237492,237492,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,238180,238180,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,238219,238219,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,238898,238898,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,239199,239199,AIR,MNG,Thaimoogambigai Dental College and Hsopt. Chennai,BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,239948,239948,AIR,NRI,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,240123,240123,AIR,ESI,"Government Medical College, Kollam",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,240581,240581,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,240995,240995,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,241396,241396,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,241875,241875,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,242016,242016,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,242548,242548,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,242681,242681,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,242735,242735,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,243195,243195,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,243639,243639,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,243970,243970,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,244437,244437,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,244518,244518,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,245018,245018,AIR,ESI,"ESIC Medical College AND PGIMSR, Kolkata",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,245281,245281,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,245902,245902,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,246159,246159,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,247173,247173,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,247783,247783,AIR,Internal,ESIC Dental College and Hospital,BDS,ST,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,247914,247914,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,248498,248498,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,248915,248915,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,249524,249524,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,250218,250218,AIR,ESI,"ESIC Medical College, Gulbarga",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,250403,250403,AIR,ESI,"ESIC Medical College, Gulbarga",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,250839,250839,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,251064,251064,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,251454,251454,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,251561,251561,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,253452,253452,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,253765,253765,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,254296,254296,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,254341,254341,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,254507,254507,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,254754,254754,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,254880,254880,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,255349,255349,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,256011,256011,AIR,ESI,"Govt. Med. College and ESIC Hospt., Coimbatore",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,256417,256417,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,256497,256497,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,256758,256758,AIR,MNG,"Bharati Vidyapeeth DU Dental College and Hospt., Pune",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,257263,257263,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,257645,257645,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,257874,257874,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,258753,258753,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,259867,259867,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,260149,260149,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,260282,260282,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,260300,260300,AIR,NRI,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,262766,262766,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,264159,264159,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,264835,264835,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,264989,264989,AIR,ESI,"Govt. Med. College and ESIC Hospt., Coimbatore",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,265126,265126,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,265249,265249,AIR,MNG,"Rural Dental College, Loni",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,265585,265585,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,265715,265715,AIR,ESI,"ESIC Medical College, Gulbarga",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,265772,265772,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,266507,266507,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,267509,267509,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,267525,267525,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,268262,268262,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,268673,268673,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,268788,268788,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,268827,268827,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,269004,269004,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,269877,269877,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,270035,270035,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,271089,271089,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,271327,271327,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,272010,272010,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,272474,272474,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,273657,273657,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,273746,273746,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,274080,274080,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,274345,274345,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,276023,276023,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,277917,277917,AIR,ESI,"ESIC Dental College, Gulbarga",BDS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,278607,278607,AIR,MNG,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,278746,278746,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,280710,280710,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,281718,281718,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,282054,282054,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,282379,282379,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,282784,282784,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,283186,283186,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,284686,284686,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,285085,285085,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,286290,286290,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,287648,287648,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,287673,287673,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,287805,287805,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,288063,288063,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,288182,288182,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,289104,289104,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,291452,291452,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,291457,291457,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,291573,291573,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,292267,292267,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,292349,292349,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,292676,292676,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,292896,292896,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,293203,293203,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,293628,293628,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,293761,293761,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,294294,294294,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,295276,295276,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,295470,295470,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,295490,295490,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,295794,295794,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,297121,297121,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,297212,297212,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,297925,297925,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,297936,297936,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,298092,298092,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,298361,298361,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,298438,298438,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,298551,298551,AIR,NRI,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,298573,298573,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,300201,300201,AIR,MNG,"Sharad Pawar Dental College and Hospital, Wardha",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,300317,300317,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,300714,300714,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,300991,300991,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,302286,302286,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,302458,302458,AIR,AMS,"AIIMS, Patna",MBBS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,303528,303528,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,303540,303540,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,304145,304145,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,304174,304174,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,304824,304824,AIR,MNG,"Dr. DYP Edu. Soc. Deemed Uni., Kolhapur",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,306151,306151,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,307102,307102,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,307751,307751,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,308206,308206,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,308675,308675,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,309014,309014,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,309238,309238,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,309421,309421,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,309443,309443,AIR,MNG,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,309865,309865,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,310674,310674,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,310869,310869,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,311094,311094,AIR,AMS,"AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",MBBS,PwD Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,311629,311629,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,311992,311992,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,312446,312446,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,312685,312685,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,312745,312745,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,313559,313559,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,313579,313579,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,313661,313661,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,313908,313908,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,314397,314397,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,314436,314436,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,314515,314515,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,314630,314630,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,315052,315052,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,315238,315238,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,315730,315730,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,316061,316061,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,316282,316282,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,316654,316654,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,317221,317221,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,317235,317235,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,317487,317487,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,317922,317922,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,318626,318626,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,318948,318948,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,319749,319749,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,319973,319973,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,321036,321036,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,321139,321139,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,321287,321287,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,321526,321526,AIR,MNG,Thaimoogambigai Dental College and Hsopt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,322260,322260,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,322793,322793,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,323047,323047,AIR,MNG,Thaimoogambigai Dental College and Hsopt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,323181,323181,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,323374,323374,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,323550,323550,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,323720,323720,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,324276,324276,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,324375,324375,AIR,NRI,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,326757,326757,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,326865,326865,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,326964,326964,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,328598,328598,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,329039,329039,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,329348,329348,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,329380,329380,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,330585,330585,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,331805,331805,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,332453,332453,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,332929,332929,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,333118,333118,AIR,MNG,"Rural Dental College, Loni",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,333148,333148,AIR,MNG,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,333316,333316,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,333454,333454,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,333504,333504,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,334920,334920,AIR,DU,"Maulana Azad Medical College, New Delhi",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,334958,334958,AIR,MNG,"BVDU Dental College and Hospital, Sangli",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,334981,334981,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,336994,336994,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,337028,337028,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,337442,337442,AIR,AMS,"AIIMS, Raipur",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,337708,337708,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,339097,339097,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,339987,339987,AIR,MNG,Thaimoogambigai Dental College and Hsopt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,340135,340135,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,340681,340681,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,341221,341221,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,342568,342568,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,342900,342900,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,343053,343053,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,343101,343101,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,344655,344655,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,344943,344943,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,345076,345076,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,346469,346469,AIR,NRI,"Amrita Institute of Medical Science, Kochi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,346711,346711,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,348039,348039,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,348121,348121,AIR,AMS,AIIMS Mangalagiri,MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,348634,348634,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,349056,349056,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,349511,349511,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,350025,350025,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,350300,350300,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,351251,351251,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,351813,351813,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,351885,351885,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,352641,352641,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,353018,353018,AIR,CW,"Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,353414,353414,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,353848,353848,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,353855,353855,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,355192,355192,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,356495,356495,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,356807,356807,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,357346,357346,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,357668,357668,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,357739,357739,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,359140,359140,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,360077,360077,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,360406,360406,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,360666,360666,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,361103,361103,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,361245,361245,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,361299,361299,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,361580,361580,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,363973,363973,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,364040,364040,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,364234,364234,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,365030,365030,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,365305,365305,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,365521,365521,AIR,NRI,"JSS Medical College, Jagadguru",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,366140,366140,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,366192,366192,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,366405,366405,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,366556,366556,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,367347,367347,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,367738,367738,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,367912,367912,AIR,AMS,"AIIMS, Kalyani",MBBS,PwD Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,368398,368398,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,368663,368663,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,369366,369366,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,369665,369665,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,369877,369877,AIR,MNG,MANAV RACHNA DENTAL COLLEGE FARIDABAD,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,370161,370161,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,370927,370927,AIR,NRI,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,371768,371768,AIR,ANR,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,373003,373003,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,374190,374190,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,374956,374956,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,375098,375098,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,376061,376061,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,376332,376332,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,376623,376623,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,376945,376945,AIR,NRI,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,377081,377081,AIR,MNG,"Rural Dental College, Loni",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,377361,377361,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,377372,377372,AIR,MNG,"Rural Dental College, Loni",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,377658,377658,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,378194,378194,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,378933,378933,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,379865,379865,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,380343,380343,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,380360,380360,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,380574,380574,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,381430,381430,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,382185,382185,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,382800,382800,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,382815,382815,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,383102,383102,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,383719,383719,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,383979,383979,AIR,AMS,"AIIMS, Rishikesh",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,384199,384199,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,384596,384596,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,384934,384934,AIR,JM,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,385225,385225,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,385521,385521,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,385952,385952,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,386312,386312,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,387591,387591,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,388225,388225,AIR,MNG,"School of Dental Sciences and KIMSDU, Karad",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,388493,388493,AIR,MNG,"Amrita School of Dentistry, Kochi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,388639,388639,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,388883,388883,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,390043,390043,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,390915,390915,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,391029,391029,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,392428,392428,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,392536,392536,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,393088,393088,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,394075,394075,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,395077,395077,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,395653,395653,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,396793,396793,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,396878,396878,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,396916,396916,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,397003,397003,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,397523,397523,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,398201,398201,AIR,MNG,"Aarupadai Veedu Medical College and Hospt., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,399153,399153,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,399545,399545,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,399711,399711,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,401758,401758,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,402071,402071,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,402121,402121,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,402511,402511,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,404340,404340,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,404803,404803,AIR,MNG,"Amrita School of Dentistry, Kochi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,405181,405181,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,405685,405685,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,406203,406203,AIR,MNG,"Amrita School of Dentistry, Kochi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,406730,406730,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,408168,408168,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,408374,408374,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,409535,409535,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,409736,409736,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,410322,410322,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,410430,410430,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,411414,411414,AIR,AMS,"AIIMS, Kalyani",MBBS,PwD SC,PwD SC,Allotted,0
+2020,MOPUP,MCC,AIQ,411482,411482,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,412010,412010,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,412282,412282,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,412356,412356,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,412541,412541,AIR,MNG,MANAV RACHNA DENTAL COLLEGE FARIDABAD,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,412734,412734,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,413116,413116,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,413532,413532,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,413573,413573,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,413812,413812,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,414084,414084,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,414582,414582,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,415433,415433,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,415723,415723,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,416281,416281,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,416290,416290,AIR,AMS,"AIIMS, Deogarh",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,416378,416378,AIR,JM,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,416399,416399,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,416695,416695,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,416748,416748,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,417604,417604,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,418042,418042,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,418245,418245,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,419212,419212,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,419894,419894,AIR,AMS,"AIIMS, Gorakhpur",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,419944,419944,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,420303,420303,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,421120,421120,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,421135,421135,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,422195,422195,AIR,MNG,"Rural Dental College, Loni",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,422337,422337,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,422553,422553,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,423699,423699,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,425819,425819,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,425856,425856,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,426098,426098,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,426325,426325,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,426395,426395,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,426778,426778,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,428872,428872,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,429239,429239,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,430196,430196,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,430306,430306,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,430514,430514,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,430679,430679,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,431758,431758,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,431850,431850,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,432045,432045,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,433411,433411,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,433490,433490,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,433674,433674,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,433799,433799,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,434050,434050,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,434426,434426,AIR,AMS,"AIIMS, Raipur",MBBS,PwD OBC,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,435138,435138,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,435353,435353,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,435733,435733,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,435754,435754,AIR,MNG,"Shri Sathya Sai Medical College and RI, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,436042,436042,AIR,MNG,MANAV RACHNA DENTAL COLLEGE FARIDABAD,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,437417,437417,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,438309,438309,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,439119,439119,AIR,NRI,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,439377,439377,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,439428,439428,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,439889,439889,AIR,NRI,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,441512,441512,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,442113,442113,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,442843,442843,AIR,MNG,Raja Rajeswari Medical College Bengaluru,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,443925,443925,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,444184,444184,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,444210,444210,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,444926,444926,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,445026,445026,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,445395,445395,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,445497,445497,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,445888,445888,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,446643,446643,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,446810,446810,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,447709,447709,AIR,AMS,"AIIMS, Kalyani",MBBS,PwD EWS,PwD EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,448227,448227,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,448744,448744,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,449165,449165,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,449643,449643,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,449779,449779,AIR,MNG,"Indira Gandhi Dental College and SBV, Pondycherry",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,450210,450210,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,450542,450542,AIR,NRI,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,450622,450622,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,451144,451144,AIR,MNG,"BVDU Dental College and Hospital, Sangli",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,451178,451178,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,452009,452009,AIR,JM,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,453608,453608,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,453632,453632,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,454043,454043,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,454669,454669,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,456290,456290,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,456562,456562,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,457288,457288,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,457561,457561,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,457776,457776,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,458304,458304,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,458551,458551,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,458815,458815,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,461905,461905,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,462815,462815,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,463081,463081,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,463176,463176,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,464233,464233,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,464251,464251,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,465431,465431,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,467717,467717,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,467921,467921,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,468627,468627,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,468837,468837,AIR,MNG,"Rural Dental College, Loni",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,470393,470393,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,471776,471776,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,472189,472189,AIR,MNG,"Amrita School of Dentistry, Kochi",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,472609,472609,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,473166,473166,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,473458,473458,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,474321,474321,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,474437,474437,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,474989,474989,AIR,MNG,"Chettinad Hos. and Res. Inst., Kancheepuram",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,475259,475259,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,475724,475724,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,477270,477270,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,477693,477693,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,478883,478883,AIR,MNG,"Santosh Dental College and Hospital, Ghaziabad",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,480269,480269,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,480647,480647,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,481130,481130,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,481725,481725,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,481839,481839,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,484067,484067,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,486547,486547,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,486569,486569,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,486777,486777,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,486932,486932,AIR,NRI,"MGM Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,487003,487003,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,487402,487402,AIR,MNG,Dr. DY Patil Dental College and Hosp. Navi Mumbai,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,488342,488342,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,489751,489751,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,490461,490461,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,491122,491122,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,491333,491333,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,491470,491470,AIR,NRI,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,491738,491738,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,492830,492830,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,494109,494109,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,495745,495745,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,495840,495840,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,495943,495943,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,496003,496003,AIR,MNG,"GITAM Institue of Med. Sce. and Res., Visakhapatnam",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,496070,496070,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,496621,496621,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,497688,497688,AIR,BON,"IMS BHU Dental, Varanasi",BDS,PwD Open,PwD OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,497856,497856,AIR,AON,"DR.Z.A.D.C.,FAC.OF MEDICINE,ALIGARH",BDS,PwD Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,498078,498078,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,498082,498082,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,498651,498651,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,498796,498796,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,499116,499116,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,499477,499477,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,500128,500128,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,500161,500161,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,500295,500295,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,501844,501844,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,502664,502664,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,502901,502901,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,503463,503463,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,503960,503960,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,504154,504154,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,504364,504364,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,504707,504707,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,504737,504737,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,506989,506989,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,509882,509882,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,510037,510037,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,511236,511236,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,511881,511881,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,511970,511970,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,512867,512867,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,513723,513723,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,514258,514258,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,514376,514376,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,516385,516385,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,516705,516705,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,517526,517526,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,518025,518025,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,519202,519202,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,519442,519442,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,520464,520464,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,520583,520583,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,522739,522739,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,522842,522842,AIR,NRI,"JSS Medical College, Jagadguru",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,523133,523133,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,524230,524230,AIR,MNG,"Dr. DY Patil Medical College, Navi Mumbai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,524412,524412,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,526490,526490,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,527051,527051,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,527635,527635,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,527727,527727,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,528155,528155,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,528226,528226,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,528332,528332,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,528652,528652,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,529837,529837,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,530898,530898,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,532393,532393,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,532650,532650,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,532721,532721,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,533777,533777,AIR,NRI,"B.L.D.E University, Bijapur",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,534086,534086,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,534885,534885,AIR,AMS,AIIMS Mangalagiri,MBBS,PwD SC,PwD SC,Allotted,0
+2020,MOPUP,MCC,AIQ,535027,535027,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,535051,535051,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,535461,535461,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,536815,536815,AIR,MNG,"Saveetha Medical College, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,538595,538595,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,538830,538830,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,538857,538857,AIR,MNG,"Rural Dental College, Loni",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,538888,538888,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,540526,540526,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,540593,540593,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,540697,540697,AIR,MNG,"Sharad Pawar Dental College and Hospital, Wardha",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,540734,540734,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,541379,541379,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,542929,542929,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,544435,544435,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,544793,544793,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,544899,544899,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,545454,545454,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,545739,545739,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,545823,545823,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,548387,548387,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,549183,549183,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,549625,549625,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,549636,549636,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,549776,549776,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,549955,549955,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,550082,550082,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,550647,550647,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,551145,551145,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,551423,551423,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,551782,551782,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,552364,552364,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,552380,552380,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,553657,553657,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,555314,555314,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,555931,555931,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,556168,556168,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,556769,556769,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,557146,557146,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,557361,557361,AIR,MNG,"School of Dental Sciences and KIMSDU, Karad",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,557849,557849,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,557911,557911,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,558218,558218,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,558792,558792,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,559584,559584,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,559741,559741,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,560614,560614,AIR,MNG,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,561698,561698,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,561790,561790,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,562205,562205,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,562421,562421,AIR,MNG,"BVDU Dental College and Hospital, Sangli",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,562547,562547,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,562858,562858,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,563630,563630,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,564556,564556,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,564630,564630,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,565013,565013,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,565285,565285,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,565825,565825,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,566032,566032,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,566837,566837,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,567173,567173,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,568431,568431,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,568503,568503,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,568806,568806,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,568813,568813,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,568826,568826,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,569751,569751,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,570106,570106,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,570705,570705,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,571317,571317,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,571630,571630,AIR,NRI,"Kalinga Institute of Medical Sciences, Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,571640,571640,AIR,MNG,"K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,572118,572118,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,572217,572217,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,572757,572757,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,573761,573761,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,574582,574582,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,574641,574641,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,574778,574778,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,574782,574782,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,575651,575651,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,575988,575988,AIR,ESI,"ESIC Medical College, Faridabad",MBBS,PwD Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,576103,576103,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,576393,576393,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,577515,577515,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,577723,577723,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,577758,577758,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,577816,577816,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,578167,578167,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,578445,578445,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,578914,578914,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,579565,579565,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,579869,579869,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,580069,580069,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,580512,580512,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,580609,580609,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,580670,580670,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,581213,581213,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,581637,581637,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,581788,581788,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,581923,581923,AIR,NRI,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,582344,582344,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,582582,582582,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,582595,582595,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,583144,583144,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,583210,583210,AIR,NRI,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,583263,583263,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,583266,583266,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,584266,584266,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,584651,584651,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,584931,584931,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,585076,585076,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,585257,585257,AIR,NRI,"VMKV Medical College and Hospital, Salem",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,586046,586046,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,586290,586290,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,587321,587321,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,587817,587817,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,588051,588051,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,588690,588690,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,589321,589321,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,589571,589571,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,589806,589806,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,590419,590419,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,590490,590490,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,590814,590814,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,591493,591493,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,591569,591569,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,592004,592004,AIR,AMS,"AIIMS, Bhubaneswar",MBBS,PwD EWS,PwD EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,592180,592180,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,592466,592466,AIR,NRI,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,592763,592763,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,592995,592995,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,593162,593162,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,593169,593169,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,594959,594959,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,595069,595069,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,595694,595694,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,596019,596019,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,596312,596312,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,597715,597715,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,597928,597928,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,598024,598024,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,598355,598355,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,598370,598370,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,598489,598489,AIR,MNG,DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,598853,598853,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,599226,599226,AIR,MNG,"Meenakshi Medical College Host. and Res. Inst., Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,599238,599238,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,600477,600477,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,602874,602874,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,602932,602932,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,603055,603055,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,603662,603662,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,603860,603860,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,604200,604200,AIR,MNG,"Dr. DY Patil Medical College and Hospt., Pune",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,604426,604426,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,605665,605665,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,605887,605887,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,605902,605902,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,605972,605972,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,605992,605992,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,606209,606209,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,606331,606331,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,607566,607566,AIR,NRI,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,607607,607607,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,607742,607742,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,609739,609739,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,613254,613254,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,613305,613305,AIR,MNG,"Rural Dental College, Loni",BDS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,614152,614152,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,614284,614284,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,614864,614864,AIR,NRI,"SBKS Med. Inst. and Res. Centre, Sumandeep Vidyapeeth",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,615365,615365,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,615416,615416,AIR,AMU,"JWAHAR LAL NEHRU M.C. AMU, ALIGARH",MBBS,PwD Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,615895,615895,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,615960,615960,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,617392,617392,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,617765,617765,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,617928,617928,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,618107,618107,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,618279,618279,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,618293,618293,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,618630,618630,AIR,MNG,"School of Dental Sciences and KIMSDU, Karad",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,619884,619884,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,620148,620148,AIR,NRI,"JLN Medical College, Datta Meghe, Wardha",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,621067,621067,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,621234,621234,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,621301,621301,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,621372,621372,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,621946,621946,AIR,MNG,"Kalinga Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,622471,622471,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,622849,622849,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,624919,624919,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,626342,626342,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,626433,626433,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,627156,627156,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,627351,627351,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,627444,627444,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,627554,627554,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,627616,627616,AIR,MNG,"Santosh Medical College and Hospital, Ghaziabad",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,627957,627957,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,628283,628283,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,629134,629134,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,629274,629274,AIR,NRI,"Institute of Medical Sciences and SUM Host., Bhubaneswar",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,629737,629737,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,629944,629944,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,630354,630354,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,631543,631543,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,632932,632932,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,633374,633374,AIR,MNG,"BVDU Dental College and Hospital, Navi Mumbai",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,633505,633505,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,636564,636564,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,637474,637474,AIR,MNG,MANAV RACHNA DENTAL COLLEGE FARIDABAD,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,637593,637593,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,EWS,Allotted,0
+2020,MOPUP,MCC,AIQ,638647,638647,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,639403,639403,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,640374,640374,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,640483,640483,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,641500,641500,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,641534,641534,AIR,MNG,"Sharad Pawar Dental College and Hospital, Wardha",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,642270,642270,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,643534,643534,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,643801,643801,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,644361,644361,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,644495,644495,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,645990,645990,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,646047,646047,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,646290,646290,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,646325,646325,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,647309,647309,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,647924,647924,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,648125,648125,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,649581,649581,AIR,MNG,"BVDU Dental College and Hospital, Sangli",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,649603,649603,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,650775,650775,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,652119,652119,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,652306,652306,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,652855,652855,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,654015,654015,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,654242,654242,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,654359,654359,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,655056,655056,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,655073,655073,AIR,NRI,Bharati Vidyapeeth DU Medical College,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,656425,656425,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,657451,657451,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,658297,658297,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,658557,658557,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,660170,660170,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,660562,660562,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,662319,662319,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,662570,662570,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,664251,664251,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,665251,665251,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,665461,665461,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,665670,665670,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,666283,666283,AIR,NRI,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,666630,666630,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,666804,666804,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,668324,668324,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,668662,668662,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,668713,668713,AIR,CW,"Maulana Azad Medical College, New Delhi",MBBS,SC,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,669329,669329,AIR,MNG,Dr. DY Patil Dental College and Hosp. Pune,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,669726,669726,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,670860,670860,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,672280,672280,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,673092,673092,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,674008,674008,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,674024,674024,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,674085,674085,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,674723,674723,AIR,NRI,"Saveetha Medical College, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,675941,675941,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,676055,676055,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,676109,676109,AIR,MNG,"Sree Balaji Medical College and Hospital, Chennai",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,676308,676308,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,676455,676455,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,676882,676882,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,676888,676888,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,677184,677184,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,677759,677759,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,677795,677795,AIR,NRI,"SRM Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,678774,678774,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,679321,679321,AIR,MNG,"Sri Lakshmi Narayana Inst. of Med. Scien., Puducherry",MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,679598,679598,AIR,MNG,"MM College of Dental Scie. and Res., Mullana",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,680331,680331,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,681956,681956,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,General,Allotted,0
+2020,MOPUP,MCC,AIQ,682247,682247,AIR,MNG,"School of Dental Sciences and KIMSDU, Karad",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,684729,684729,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,686165,686165,AIR,MNG,"Saveetha Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,686344,686344,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,688867,688867,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,691108,691108,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,694509,694509,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,697127,697127,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,697398,697398,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,700055,700055,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,700153,700153,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,700598,700598,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,701772,701772,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,701985,701985,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,702006,702006,AIR,NRI,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,702396,702396,AIR,MNG,"ACS Medical College and Hospital, Chennai",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,703298,703298,AIR,AMS,"AIIMS, Gorakhpur",MBBS,PwD ST,PwD ST,Allotted,0
+2020,MOPUP,MCC,AIQ,703695,703695,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,703792,703792,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,704306,704306,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,705118,705118,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,706362,706362,AIR,MNG,"SRM Dental College, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,706631,706631,AIR,NRI,"Krishna Inst. of Med. Scie., Karad",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,706764,706764,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,706821,706821,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,707256,707256,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,708150,708150,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,708155,708155,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,708483,708483,AIR,MNG,"Rural Dental College, Loni",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,708634,708634,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,711836,711836,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,711919,711919,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,712040,712040,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,713112,713112,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,715016,715016,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,715054,715054,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,715884,715884,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,716338,716338,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,718070,718070,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,718318,718318,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,718509,718509,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,718665,718665,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,718977,718977,AIR,MNG,BHAARATH MEDICAL COLLEGE AND HOSPITAL,MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,723826,723826,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,725689,725689,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,727542,727542,AIR,MNG,"Sharad Pawar Dental College and Hospital, Wardha",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,727573,727573,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,727708,727708,AIR,NRI,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,731119,731119,AIR,NRI,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,731230,731230,AIR,MNG,KLE VK Inst. of Dental Scie. Belagavi,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,734632,734632,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,735047,735047,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,737383,737383,AIR,NRI,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,737639,737639,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,737724,737724,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,744300,744300,AIR,DU,"University College of Medical Sciences, New Delhi",MBBS,PwD Open,PwD Open,Allotted,0
+2020,MOPUP,MCC,AIQ,746399,746399,AIR,MNG,"Sharad Pawar Dental College and Hospital, Wardha",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,748142,748142,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,750011,750011,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,751790,751790,AIR,NRI,"K.S Hegde Medical Academy, Mangaluru",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,755133,755133,AIR,MNG,"Institute of Dental Sciences, Bhubaneswar",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,759282,759282,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,760479,760479,AIR,MNG,SRM Katt. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,765988,765988,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,771031,771031,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,772612,772612,AIR,NRI,"Yenepoya Dental College, Yenepoya",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,774372,774372,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,774616,774616,AIR,NRI,"Jawahar Lal Nehru Medical College, Belagavi",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,775889,775889,AIR,MNG,"Rural Dental College, Loni",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,776436,776436,AIR,NRI,"Kasturba Medical College, Manipal Univ., Mangalore",MBBS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,781196,781196,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,782921,782921,AIR,MNG,"Sri Ramachandra Dental and Hospt., Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,789732,789732,AIR,MNG,"Sree Balaji Dental College and Hospital, Chennai",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,797970,797970,AIR,MNG,"Manipal College of Dental Science, Mangalore",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,798023,798023,AIR,MNG,"BVDU Dental College and Hospital, Sangli",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,800959,800959,AIR,MNG,"JSS Dental College and Hospital, Jagadguru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,804787,804787,AIR,NRI,"SDU Medical College, Kolar",MBBS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,805984,805984,AIR,MNG,"Meenakshi Ammal Dental College and Host., Chennai1",BDS,Open,ST,Allotted,0
+2020,MOPUP,MCC,AIQ,806817,806817,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,814066,814066,AIR,MNG,"Sri Siddhartha DentalCollege, Tumkur",BDS,Open,SC,Allotted,0
+2020,MOPUP,MCC,AIQ,815370,815370,AIR,MNG,"AB Shetty Memorial Inst. of Dental Sce., Mangaluru",BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,815856,815856,AIR,MNG,SATHYABAMA UNIV. Dental College and Hospt. Chennai,BDS,Open,OBC,Allotted,0
+2020,MOPUP,MCC,AIQ,816709,816709,AIR,MNG,"BVDU Dental College and Hospital, Sangli",BDS,Open,SC,Allotted,0
