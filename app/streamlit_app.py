@@ -126,10 +126,6 @@ def get_paper_scenarios(marks: int) -> dict:
     if tough:
         best = min(tough, key=lambda x: x["air"])
         scenarios["tough"] = {"air": best["air"], "year": best["year"], "label": "TOUGH PAPER", "icon": "🔴"}
-    if moderate:
-        sorted_mod = sorted(moderate, key=lambda x: x["air"])
-        mid_idx = len(sorted_mod) // 2
-        scenarios["moderate"] = {"air": sorted_mod[mid_idx]["air"], "year": sorted_mod[mid_idx]["year"], "label": "MODERATE", "icon": "🟡"}
 
     return scenarios
 
@@ -193,7 +189,7 @@ def display_rank_scenarios(marks: int, target_year: int, unified_result: Unified
 
     # ── Paper difficulty scenarios (collapsed — context only) ──
     scenarios = get_paper_scenarios(marks)
-    if scenarios and len(scenarios) > 1:
+    if scenarios and len(scenarios) >= 1:
         with st.expander("📊 Same marks, different paper difficulty", expanded=False):
             st.caption("How paper difficulty affects rank — from actual NEET data across years:")
             cols = st.columns(len(scenarios))

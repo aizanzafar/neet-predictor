@@ -12,7 +12,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Any
 
-from neet_predictor.config import MAX_MARKS, MIN_MARKS, VALIDATION_YEAR
+from neet_predictor.config import MAX_MARKS, MAX_YEAR, MIN_MARKS, VALIDATION_YEAR
 from neet_predictor.rank.calibration import NormalizationMode
 from neet_predictor.rank.estimator import RankEstimator, RankEstimate
 from neet_predictor.college.eligibility import CandidateProfile
@@ -190,18 +190,32 @@ def run_prediction(inp: UnifiedInput) -> UnifiedResult:
         )
         warnings.append(_WARN_ACTUAL_AIR_USED if has_marks else _WARN_HISTORICAL)
     else:
-        # Case B: marks only → use median AIR for realistic college predictions
+        # Case B: marks only → use best-case AIR for future years (paper
+        # difficulty unknown), median for known years.
         assert rank_estimate is not None
-        air_for_college = rank_estimate.median_air
-        rank_used = RankUsed(
-            air=air_for_college,
-            source="estimated_median",
-            explanation=(
-                f"No actual AIR provided. Using median estimated AIR "
-                f"({rank_estimate.median_air:,}) from marks={inp.marks}. "
-                f"Range: {rank_estimate.best_case_air:,}–{rank_estimate.conservative_air:,}."
-            ),
-        )
+        is_future = inp.target_year > MAX_YEAR
+        if is_future:
+            air_for_college = rank_estimate.best_case_air
+            rank_used = RankUsed(
+                air=air_for_college,
+                source="estimated_best_case",
+                explanation=(
+                    f"Future year ({inp.target_year}): using best-case AIR "
+                    f"({rank_estimate.best_case_air:,}) from marks={inp.marks}. "
+                    f"Range: {rank_estimate.best_case_air:,}–{rank_estimate.conservative_air:,}."
+                ),
+            )
+        else:
+            air_for_college = rank_estimate.median_air
+            rank_used = RankUsed(
+                air=air_for_college,
+                source="estimated_median",
+                explanation=(
+                    f"No actual AIR provided. Using median estimated AIR "
+                    f"({rank_estimate.median_air:,}) from marks={inp.marks}. "
+                    f"Range: {rank_estimate.best_case_air:,}–{rank_estimate.conservative_air:,}."
+                ),
+            )
         warnings.append(_WARN_ESTIMATED_AIR_USED)
 
     # ── Step 2: Build CandidateProfile for college predictor ──
